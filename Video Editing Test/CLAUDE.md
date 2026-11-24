@@ -1,0 +1,18 @@
+# Video editing
+
+This is the user's only video editing project. Everything from the old `Video Editing` project has been brought in here. The old `video-ad-editing` and `ai-voiceover-ads` skills are archived in `Archive/old-skills-2026-11-05/` and no longer load. Don't use them.
+
+- **The user isn't technical.** Keep replies plain and short, and don't ask them to manage files.
+- **Rules:** `.claude/skills/ve-video-edit-general/references/video-editing-standards.md` applies to every video. Read it before any edit. When the user's notes state a general rule, add it there.
+- **Styles:** each type of video has its own folder in `Styles/`, whose `style.md` adds to the rules. Ask which style if it isn't clear. A new style gets a new folder.
+  - `Styles/UGC skit/`: finished and tested.
+  - `Styles/AI voiceover BOF/`: the old setup's notes, scripts and finished ads. The main rulebook wins where they differ, and the scripts haven't been run since the move.
+  - `Styles/Benefit stack/`: finished and tested (camping ad, `Edits/CAMPSTACK`). A 16.3s music-only ad of feature chips, from a template. Its `style.md` holds the whole process from request to delivery, including what the user likes and doesn't.
+  - `Styles/HeyGen talking head/`: new 2026-11-24, a draft until its first ad passes review. A HeyGen character talking to camera between B-roll (skill `heygen-talking-head`).
+  - `Styles/Song ads/` and `Styles/Animation ads/`: empty for now.
+- **Skills:** use `ve-video-edit-general`, `apply-notes` and `video-qa` in this folder. Each finished style also has a named skill that loads the rulebook, the brand files and that style's `style.md` in order: `benefit-stack`, `ugc-skit`, `bof-voiceover` and `heygen-talking-head`. When the user names a type of video, use its skill. A new style gets both a folder in `Styles/` and a named skill.
+- **Review app, every style:** every video goes to `Edits/<CODE>/Exports/<CODE>_Hook<X>_v<N>.mp4`, which puts it in the app at http://localhost:8765. If it isn't running, start it with `python3 .claude/skills/apply-notes/scripts/review_server.py`. Also send every finished video with the file-sending tool. Every time a piece of work is finished, end the message with the review app link (http://localhost:8765), and make sure the app is running first.
+- **Keep storage down:** keep only the latest video of each hook. Once a new version is rendered and every note on the old one is answered, move the old video to the Trash and keep that version's edit script in `Edits/<CODE>/scripts/edit_v<N>.py`, so it can be rebuilt. Notes and scripts always stay. The review app only shows notes for versions that still have a video.
+- **When the user says ads are completed or approved:** copy the latest version of each hook to `~/Documents/LuxeLight Ads/<Month YY> Ads/` (for example `November 26 Ads`), named `<Ad Name> - V1 - Ferg.mp4`, `V2` and so on, with the ad name exactly as the user gives it ("1 Gift for 5 stocking - V1 - Ferg", user 2026-11-10). Name the CapCut projects for V2 and V3 the same way, so they export under the right name. Never overwrite an existing file unless the user asks for it to be replaced, and then move the old one to the Trash.
+- **Shared files:** `Assets/` holds the end-box click and music.
+- **Brands:** `Brands/<brand>/` holds each brand's rules. For LuxeLight, read `Brands/LuxeLight/brand-notes.md`, `product-summary.md` and `footage.md` before editing. Save new brand rules in `brand-notes.md` and clip notes in `footage.md`. LuxeLight's files are links to the master copies in `~/Documents/LuxeLight Claude/`, where LuxeLight scripts and edits are normally started. Check the offer with the user if it may have changed.

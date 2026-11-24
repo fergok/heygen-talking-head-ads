@@ -1,0 +1,131 @@
+{
+  "name": "LuxeLight_Camo_TripleDiscount",
+  "voiceover": "drive/vo_all.wav",
+  "fixes": {
+    "lux light": "LuxeLight",
+    "50 %": "50%",
+    "8 ,000.": "8,000."
+  },
+  "proper_nouns": [
+    "Camo",
+    "LuxeLight",
+    "OFF",
+    "Halloween"
+  ],
+  "captions_in_hook": true,
+  "captions": [
+    "it's the last day to get",
+    "a Camo LuxeLight at 50% OFF",
+    "the Camo LuxeLight",
+    "just dropped for Halloween",
+    "and they only made 8,000",
+    "here's how to get the Camo LuxeLight",
+    "on a triple discount",
+    "I'm going to tell you a little secret",
+    "if you click that link below",
+    "and go all the way to checkout",
+    "they will automatically apply",
+    "your coupons and discounts",
+    "just don't forget",
+    "the sale ends tonight"
+  ],
+  "hook_y": 400,
+  "hook_font_size": 78,
+  "hook_styles": [
+    [
+      "white",
+      [
+        238,
+        45,
+        66
+      ]
+    ],
+    [
+      "black",
+      "white"
+    ]
+  ],
+  "caption_wrap": 0.62,
+  "caption_bottom": 1500,
+  "body": {
+    "shots": [
+      [
+        "I'm going to tell",
+        "hf_093458",
+        2.2
+      ],
+      [
+        "If you click",
+        "hf_220512b",
+        1.0
+      ],
+      [
+        "they will automatically",
+        "hf_191645b",
+        0.0
+      ],
+      [
+        "Just don't forget",
+        "hf_220512a",
+        1.5
+      ]
+    ]
+  },
+  "versions": [
+    {
+      "name": "Version1",
+      "hook": [
+        "TRIPLE DISCOUNT",
+        "WHILE STOCK LASTS"
+      ],
+      "shots": [
+        [
+          "Here's how to get",
+          "hf_191645a",
+          1.5
+        ]
+      ]
+    },
+    {
+      "name": "Version2",
+      "hook": [
+        "50% OFF",
+        "FINAL HOURS 🚨"
+      ],
+      "shots": [
+        [
+          "It's the last day",
+          "hf_220512a",
+          0.0
+        ],
+        [
+          "at 50%",
+          "hf_164138",
+          0.5
+        ]
+      ],
+      "end": "The camo"
+    },
+    {
+      "name": "Version3",
+      "hook": [
+        "HALLOWEEN DROP 🎃",
+        "ONLY 8,000 MADE"
+      ],
+      "shots": [
+        [
+          "The camo",
+          "hf_164138",
+          1.0
+        ],
+        [
+          "and they only",
+          "hf_191645b",
+          3.1
+        ]
+      ],
+      "end": "Here's how",
+      "hook_y": 300
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+ "code": "CAMPSTACK",
+ "hooks": {
+  "A": {
+   "lines": [
+    "A MUST HAVE",
+    "FOR CAMPERS ⛺"
+   ],
+   "green": [
+    "MUST HAVE"
+   ],
+   "size": 12,
+   "music": {
+    "file": "/Users/jackferguson/Video Editing Test/Styles/Benefit stack/music/rock (Stitchers V2).mp3",
+    "start": 20.033
+   },
+   "clip": {
+    "file": "pb2/hf_0721_115018.mp4",
+    "in": 0.5,
+    "note": "AI: man with the lamp on carrying firewood through a busy campsite"
+   },
+   "cy": 1140
+  },
+  "B": {
+   "lines": [
+    "WHY CAMPERS ARE",
+    "OBSESSED WITH THIS ⛺"
+   ],
+   "green": [
+    "OBSESSED"
+   ],
+   "size": 12,
+   "music": {
+    "file": "/Users/jackferguson/Video Editing Test/Styles/Benefit stack/music/country (Hunters V3).mp3",
+    "start": 0.17
+   },
+   "clip": {
+    "file": "pb2/hf_0721_124231.mp4",
+    "in": 0.3,
+    "note": "AI: man eating by the campfire at dusk, lamp lit"
+   },
+   "cy": 1140
+  },
+  "C": {
+   "lines": [
+    "THE PERFECT GIFT",
+    "FOR CAMPERS 🎁⛺"
+   ],
+   "green": [],
+   "size": 13,
+   "music": {
+    "file": "/Users/jackferguson/Video Editing Test/Styles/Benefit stack/music/violin (Stitchers V1).mp3",
+    "start": 0.57
+   },
+   "clip": {
+    "file": "pb/IMG_2900.MOV",
+    "in": 4.6,
+    "note": "lamp on, grabs the cool box and sits down in his camp chair"
+   }
+  }
+ },
+ "chips": [
+  [
+   "wave sensor",
+   "ultra wide angle beam",
+   "fully rechargeable"
+  ],
+  [
+   "red light mode",
+   "water-resistant",
+   "fits over a beanie"
+  ]
+ ],
+ "cta": [
+  "CLICK SHOP NOW",
+  "30% OFF",
+  "+ FREE TRAVEL CASE"
+ ],
+ "clips": [
+  {
+   "file": "pb2/Hook2.MOV",
+   "in": 27.0,
+   "note": "puts the lamp on over his beanie, light on"
+  },
+  {
+   "file": "pb2/hf_0721_110056.mp4",
+   "in": 0.3,
+   "note": "AI: man facing camera pitching a tent at night, lamp lit",
+   "zoom": 1.25,
+   "anchor": 1.0
+  },
+  {
+   "file": "pb2/hf_1022_101251.mp4",
+   "in": 0.0,
+   "zoom": 1.03,
+   "note": "AI: man in a beanie in a hammock, reading with the red light on (restored from v1)"
+  },
+  {
+   "file": "pb2/hf_1029_130509.mp4",
+   "in": 0.3,
+   "note": "AI: man at his truck tailgate packing gear at dusk, wide light lit"
+  },
+  {
+   "file": "pb/IMG_2909.MOV",
+   "in": 37.3,
+   "speed": 1.1,
+   "zoom": 1.03,
+   "note": "holds up the LuxeLight case at camp and opens it"
+  }
+ ],
+ "cta_cy": 1100,
+ "_comment": "CAMPSTACK, approved v4 (2026-11-03). Clip files are relative to the ad's working folder."
+}

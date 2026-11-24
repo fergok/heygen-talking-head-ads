@@ -1,0 +1,8157 @@
+{
+ "ads": {
+  "STOCKING": {
+   "captions": 73,
+   "shots": [
+    {
+     "start": 0.0,
+     "end": 2.8,
+     "clip": "~/Downloads/FORMAT-vertical-9-16-5-seconds-hidden.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": true,
+     "src_in": 1.7,
+     "src_len": 2.8,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": []
+    },
+    {
+     "start": 2.8,
+     "end": 3.967,
+     "clip": "Random BROLL/9387779090576862897-a.mp4",
+     "folder": "Random BROLL",
+     "library": true,
+     "hook": false,
+     "src_in": 16.967,
+     "src_len": 1.167,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "every stocking in our house"
+     ]
+    },
+    {
+     "start": 3.967,
+     "end": 5.0,
+     "clip": "~/Downloads/snaptik_7449135875851554078_v3.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 19.6,
+     "src_len": 0.517,
+     "speed": 0.5,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "had the same thing in it"
+     ]
+    },
+    {
+     "start": 5.0,
+     "end": 6.3,
+     "clip": "~/Downloads/snaptik_7449135875851554078_v3.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 28.8,
+     "src_len": 1.3,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "usually our stockings are"
+     ],
+     "action": {
+      "at": 5.54,
+      "kind": "gets darker",
+      "into_shot": 0.54,
+      "into_line": 0.54,
+      "line": "usually our stockings are"
+     }
+    },
+    {
+     "start": 6.3,
+     "end": 6.867,
+     "clip": "~/Downloads/snaptik_7449135875851554078_v3.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 16.333,
+     "src_len": 0.567,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "chocolate"
+     ]
+    },
+    {
+     "start": 6.867,
+     "end": 7.4,
+     "clip": "Random BROLL/8859858376615638626-a.mp4",
+     "folder": "Random BROLL",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 0.533,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "socks"
+     ]
+    },
+    {
+     "start": 7.4,
+     "end": 8.067,
+     "clip": "Random BROLL/8936090723938079377-a.mp4",
+     "folder": "Random BROLL",
+     "library": true,
+     "hook": false,
+     "src_in": 0.6,
+     "src_len": 0.667,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and a gift card"
+     ]
+    },
+    {
+     "start": 8.067,
+     "end": 9.633,
+     "clip": "~/Downloads/Photorealistic-candid-smartphone-UGC-vid (4).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 1.927,
+     "src_len": 1.88,
+     "speed": 1.2,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and they're forgotten about",
+      "by New Year's"
+     ]
+    },
+    {
+     "start": 9.633,
+     "end": 11.133,
+     "clip": "Xmas/IMG_6684.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 1.367,
+     "src_len": 1.5,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "this year",
+      "I went a different way"
+     ]
+    },
+    {
+     "start": 11.133,
+     "end": 11.967,
+     "clip": "Colour Swatches/IMG_8586.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 8.533,
+     "src_len": 0.833,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and put a LuxeLight"
+     ]
+    },
+    {
+     "start": 11.967,
+     "end": 12.933,
+     "clip": "~/Downloads/Photorealistic-candid-smartphone-UGC-vid.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.633,
+     "src_len": 0.967,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "in all five"
+     ]
+    },
+    {
+     "start": 12.933,
+     "end": 15.9,
+     "clip": "~/Downloads/hf_20261110_150527_37fd550e-d9fd-41ca-a931-27ad8af11a1f.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 1.167,
+     "src_len": 3.56,
+     "speed": 1.2,
+     "zoom": 1.13,
+     "sound": false,
+     "lines": [
+      "he held his up",
+      "laughed",
+      "and asked if I'd run out of ideas"
+     ]
+    },
+    {
+     "start": 15.9,
+     "end": 17.467,
+     "clip": "Delivery Drivers/hf_20261109_200711_cb4f81d9-36d2-4b12-9d74-e209e58feeae.mp4",
+     "folder": "Delivery Drivers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.567,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "by three o'clock",
+      "it was getting dark"
+     ]
+    },
+    {
+     "start": 17.467,
+     "end": 19.567,
+     "clip": "Working on Car/9362ACA7-CBEF-4160-8F24-B925C5BDC3D4.mov",
+     "folder": "Working on Car",
+     "library": true,
+     "hook": false,
+     "src_in": 5.667,
+     "src_len": 2.1,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and he was out in the garage",
+      "under the hood of the car"
+     ],
+     "action": {
+      "at": 19.01,
+      "kind": "gets brighter",
+      "into_shot": 1.54,
+      "into_line": 0.38,
+      "line": "under the hood of the car"
+     }
+    },
+    {
+     "start": 19.567,
+     "end": 20.7,
+     "clip": "Outside Torch DARK/snaptik_7461349711644069152_v2 (1).mp4",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 30.733,
+     "src_len": 2.153,
+     "speed": 1.9,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "with the wave sensor on"
+     ],
+     "action": {
+      "at": 20.33,
+      "kind": "gets brighter",
+      "into_shot": 0.77,
+      "into_line": 0.77,
+      "line": "with the wave sensor on"
+     }
+    },
+    {
+     "start": 20.7,
+     "end": 22.567,
+     "clip": "Wave Sensor/588C2E7C-5F30-4145-B7E0-EBE027E810A7.mov",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 2.567,
+     "src_len": 1.867,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "one wave by his temple",
+      "switched it on"
+     ],
+     "action": {
+      "at": 21.07,
+      "kind": "gets brighter",
+      "into_shot": 0.38,
+      "into_line": 0.38,
+      "line": "one wave by his temple"
+     }
+    },
+    {
+     "start": 22.567,
+     "end": 23.867,
+     "clip": "Wave Sensor/588C2E7C-5F30-4145-B7E0-EBE027E810A7.mov",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 5.333,
+     "src_len": 1.3,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "another wave",
+      "and it was off"
+     ],
+     "action": {
+      "at": 23.03,
+      "kind": "gets darker",
+      "into_shot": 0.46,
+      "into_line": 0.46,
+      "line": "another wave"
+     }
+    },
+    {
+     "start": 23.867,
+     "end": 25.233,
+     "clip": "Wave Sensor/4918ACAE-45C2-42CF-8FB1-1DA6E848A5B0.mov",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 6.1,
+     "src_len": 1.367,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "without putting the wrench down"
+     ],
+     "action": {
+      "at": 23.99,
+      "kind": "gets brighter",
+      "into_shot": 0.12,
+      "into_line": 0.13,
+      "line": "without putting the wrench down"
+     }
+    },
+    {
+     "start": 25.233,
+     "end": 26.6,
+     "clip": "Outside Torch DARK/IMG_2584.MOV",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 3.067,
+     "src_len": 1.367,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "he kept calling me out to look"
+     ]
+    },
+    {
+     "start": 26.6,
+     "end": 28.333,
+     "clip": "In Hands/IMG_2729.MOV",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 7.533,
+     "src_len": 1.733,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "because the 230-degree beam"
+     ]
+    },
+    {
+     "start": 28.333,
+     "end": 30.0,
+     "clip": "Colour Swatches/IMG_6596.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 1.867,
+     "src_len": 1.667,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "lit up the whole garage at once"
+     ],
+     "action": {
+      "at": 28.62,
+      "kind": "gets brighter",
+      "into_shot": 0.29,
+      "into_line": 0.29,
+      "line": "lit up the whole garage at once"
+     }
+    },
+    {
+     "start": 30.0,
+     "end": 31.367,
+     "clip": "Phonetorch/5981681684887617687-a.mp4",
+     "folder": "Phonetorch",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.367,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "instead of the one little circle"
+     ]
+    },
+    {
+     "start": 31.367,
+     "end": 32.967,
+     "clip": "Phonetorch/1A2CE453-98EE-4CDD-98B6-09671F8840B0.mov",
+     "folder": "Phonetorch",
+     "library": true,
+     "hook": false,
+     "src_in": 8.267,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "he used to aim",
+      "with his phone flashlight"
+     ]
+    },
+    {
+     "start": 32.967,
+     "end": 34.567,
+     "clip": "In Hands/IMG_1717.mov",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 3.833,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "but the black one",
+      "I cared about most"
+     ]
+    },
+    {
+     "start": 34.567,
+     "end": 36.267,
+     "clip": "Wave Sensor/IMG_0359.mp4",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 29.5,
+     "src_len": 1.7,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "was my dad's",
+      "he's 67"
+     ]
+    },
+    {
+     "start": 36.267,
+     "end": 38.6,
+     "clip": "Outside Torch DARK/IMG_8269 (1).mov",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 13.533,
+     "src_len": 2.333,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and still takes the trash",
+      "down the back steps",
+      "after dark"
+     ]
+    },
+    {
+     "start": 38.6,
+     "end": 40.633,
+     "clip": "Outside Torch DARK/IMG_7246.mov",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 0.867,
+     "src_len": 2.033,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "now he can see",
+      "every single step"
+     ],
+     "action": {
+      "at": 38.98,
+      "kind": "gets brighter",
+      "into_shot": 0.38,
+      "into_line": 0.38,
+      "line": "now he can see"
+     }
+    },
+    {
+     "start": 40.633,
+     "end": 43.033,
+     "clip": "~/Downloads/Photorealistic-candid-smartphone-UGC-vid (1).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.64,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and I've finally stopped",
+      "picturing him",
+      "on the ground out there"
+     ]
+    },
+    {
+     "start": 43.033,
+     "end": 44.133,
+     "clip": "Colour Swatches/IMG_6589.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 13.167,
+     "src_len": 1.1,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "orange went to my brother"
+     ]
+    },
+    {
+     "start": 44.133,
+     "end": 46.3,
+     "clip": "Campers/IMG_6475.MOV",
+     "folder": "Campers",
+     "library": true,
+     "hook": false,
+     "src_in": 2.967,
+     "src_len": 2.167,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "and it's been camping",
+      "and fishing with him",
+      "ever since"
+     ]
+    },
+    {
+     "start": 46.3,
+     "end": 47.967,
+     "clip": "Red Light/IMG_6618.MOV",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 12.367,
+     "src_len": 1.667,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "he switches from white light",
+      "to red light"
+     ],
+     "action": {
+      "at": 47.26,
+      "kind": "gets darker",
+      "into_shot": 0.96,
+      "into_line": 0.96,
+      "line": "he switches from white light"
+     }
+    },
+    {
+     "start": 47.967,
+     "end": 49.9,
+     "clip": "Red Light/IMG_6612.MOV",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 9.533,
+     "src_len": 1.933,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "so the bugs stop",
+      "dive-bombing his face"
+     ]
+    },
+    {
+     "start": 49.9,
+     "end": 50.7,
+     "clip": "Colour Swatches/IMG_6576.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 2.0,
+     "src_len": 0.8,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "and the two pinks?"
+     ]
+    },
+    {
+     "start": 50.7,
+     "end": 51.7,
+     "clip": "Colour Swatches/IMG_6579.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 2.133,
+     "src_len": 1.0,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "those went to Mom and me"
+     ]
+    },
+    {
+     "start": 51.7,
+     "end": 54.567,
+     "clip": "Stitching/hf_20261023_194727_1fcb61b6-167e-489b-ba7c-1f5b65818110.mp4",
+     "folder": "Stitching",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.867,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": [
+      "she wears hers stitching at night",
+      "so she's not squinting",
+      "under the lamp"
+     ]
+    },
+    {
+     "start": 54.567,
+     "end": 56.067,
+     "clip": "Runners/LUXE LIGHT UGC video.mov",
+     "folder": "Runners",
+     "library": true,
+     "hook": false,
+     "src_in": 38.3,
+     "src_len": 1.5,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and mine comes on my early runs"
+     ],
+     "action": {
+      "at": 55.86,
+      "kind": "gets darker",
+      "into_shot": 1.29,
+      "into_line": 1.29,
+      "line": "and mine comes on my early runs"
+     }
+    },
+    {
+     "start": 56.067,
+     "end": 57.3,
+     "clip": "Dog Walkers/LuxeLight - Dog Walking - No Subs.mov",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 31.033,
+     "src_len": 1.233,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and the dog walk after dark"
+     ],
+     "action": {
+      "at": 56.28,
+      "kind": "gets darker",
+      "into_shot": 0.21,
+      "into_line": 0.21,
+      "line": "and the dog walk after dark"
+     }
+    },
+    {
+     "start": 57.3,
+     "end": 59.1,
+     "clip": "Colour Swatches/IMG_6580.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 0.6,
+     "src_len": 1.8,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "but these ones",
+      "are limited editions"
+     ]
+    },
+    {
+     "start": 59.1,
+     "end": 60.133,
+     "clip": "Colour Swatches/IMG_6569.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 1.3,
+     "src_len": 1.033,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "so we're not sharing"
+     ]
+    },
+    {
+     "start": 60.133,
+     "end": 63.133,
+     "clip": "~/Downloads/Photorealistic-candid-smartphone-UGC-vid (2).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 1.2,
+     "src_len": 3.3,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "by that night",
+      "he was on the phone to his buddies",
+      "telling them all about it"
+     ]
+    },
+    {
+     "start": 63.133,
+     "end": 64.567,
+     "clip": "Wave Sensor/IMG_8834.mov",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 4.7,
+     "src_len": 1.72,
+     "speed": 1.2,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and they were asking him",
+      "for the link"
+     ],
+     "action": {
+      "at": 64.21,
+      "kind": "gets brighter",
+      "into_shot": 1.08,
+      "into_line": 0.18,
+      "line": "for the link"
+     }
+    },
+    {
+     "start": 64.567,
+     "end": 66.133,
+     "clip": "~/Downloads/Photorealistic-candid-smartphone-UGC-vid (3).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 2.067,
+     "src_len": 1.88,
+     "speed": 1.2,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "five stockings",
+      "one gift"
+     ]
+    },
+    {
+     "start": 66.133,
+     "end": 68.233,
+     "clip": "Fishing/hf_20261028_112658_ecfefdb3-ccfd-4e66-8303-57e3286fa243.mp4",
+     "folder": "Fishing",
+     "library": true,
+     "hook": false,
+     "src_in": 2.967,
+     "src_len": 2.1,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and not a single one",
+      "forgotten by New Year's"
+     ]
+    },
+    {
+     "start": 68.233,
+     "end": 69.833,
+     "clip": "Working in Garage/IMG_9956.MOV",
+     "folder": "Working in Garage",
+     "library": true,
+     "hook": false,
+     "src_in": 2.8,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "they're up to 50% off right now"
+     ]
+    },
+    {
+     "start": 69.833,
+     "end": 72.2,
+     "clip": "Xmas/IMG_3313.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 2.8,
+     "src_len": 2.367,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "which is how all five came in",
+      "under $90"
+     ]
+    },
+    {
+     "start": 72.2,
+     "end": 73.633,
+     "clip": "Case/LuxeLight - V2 - B-roll - No-Subs.mov",
+     "folder": "Case",
+     "library": true,
+     "hook": false,
+     "src_in": 52.267,
+     "src_len": 1.433,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": []
+    },
+    {
+     "start": 73.633,
+     "end": 75.233,
+     "clip": "Colour Swatches/IMG_8600.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 15.5,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": []
+    },
+    {
+     "start": 75.233,
+     "end": 76.967,
+     "clip": "Colour Swatches/IMG_8596.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 3.867,
+     "src_len": 1.733,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [],
+     "action": {
+      "at": 75.61,
+      "kind": "gets brighter",
+      "into_shot": 0.38,
+      "into_line": null,
+      "line": null
+     }
+    }
+   ],
+   "sfx": [
+    {
+     "at": 47.333,
+     "name": "Turn the paper / page [note] # 1(182352)",
+     "level": 1.0,
+     "caption": "he switches from white light"
+    },
+    {
+     "at": 72.2,
+     "name": "swish_whoosh (large)(794558)",
+     "level": 0.51,
+     "caption": null
+    },
+    {
+     "at": 73.633,
+     "name": "Correct answer Piropyrone (Standard)",
+     "level": 0.47,
+     "caption": null
+    },
+    {
+     "at": 75.233,
+     "name": "Click_Mouse_Click_02(864360)",
+     "level": 0.62,
+     "caption": null
+    }
+   ],
+   "project": "Stocking Stuffer - V1 (Hook 1) RETRIM",
+   "hook_end": 2.8
+  },
+  "DELIVERY": {
+   "captions": 73,
+   "shots": [
+    {
+     "start": 0.0,
+     "end": 5.567,
+     "clip": "~/Downloads/FORMAT-9-16-vertical-7-seconds-CAPTUR.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": true,
+     "src_in": 1.367,
+     "src_len": 5.567,
+     "speed": 1.0,
+     "zoom": 1.04,
+     "sound": true,
+     "lines": [
+      "They posted my husband falling for likes 😡😔"
+     ]
+    },
+    {
+     "start": 5.567,
+     "end": 8.167,
+     "clip": "~/Downloads/5-second-photorealistic-handheld-iPhone.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.6,
+     "speed": 1.0,
+     "zoom": 1.13,
+     "sound": true,
+     "lines": [
+      "last December",
+      "my husband fell",
+      "on a dark porch",
+      "at work"
+     ]
+    },
+    {
+     "start": 8.167,
+     "end": 10.033,
+     "clip": "~/Downloads/hf_20261109_175852_66b62139-b451-4391-99e6-296d6e7c8eb8.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.533,
+     "src_len": 1.68,
+     "speed": 0.9,
+     "zoom": 1.13,
+     "sound": false,
+     "lines": [
+      "six weeks off",
+      "right before Christmas"
+     ]
+    },
+    {
+     "start": 10.033,
+     "end": 11.467,
+     "clip": "~/Downloads/5-second-photorealistic-handheld-iPhone (1).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 2.667,
+     "src_len": 1.577,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and I'll never forget",
+      "that phone call"
+     ]
+    },
+    {
+     "start": 11.467,
+     "end": 12.567,
+     "clip": "~/Downloads/hf_20261109_200711_cb4f81d9-36d2-4b12-9d74-e209e58feeae.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.1,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "it was dark by five"
+     ]
+    },
+    {
+     "start": 12.567,
+     "end": 15.633,
+     "clip": "~/Downloads/hf_20261109_175810_f1eb9877-9233-4229-84dc-1f66dbbdb469.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 5.0,
+     "src_len": 3.067,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "his arms were full of boxes",
+      "and all he had",
+      "was his phone flashlight"
+     ]
+    },
+    {
+     "start": 15.633,
+     "end": 17.833,
+     "clip": "~/Downloads/hf_20261109_184007_af4406e9-1dd8-48c8-94ea-7ddfdf97c7c6.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.167,
+     "src_len": 2.42,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "so this year",
+      "instead of another pair",
+      "of work gloves"
+     ]
+    },
+    {
+     "start": 17.833,
+     "end": 18.867,
+     "clip": "In Hands/IMG_1717.mov",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 4.367,
+     "src_len": 1.033,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "I got him a LuxeLight"
+     ]
+    },
+    {
+     "start": 18.867,
+     "end": 20.3,
+     "clip": "~/Downloads/5-second-photorealistic-handheld-iPhone (3).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.733,
+     "src_len": 1.433,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "halfway through his first shift back"
+     ]
+    },
+    {
+     "start": 20.3,
+     "end": 21.933,
+     "clip": "~/Downloads/5-second-photorealistic-handheld-iPhone (2).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 2.453,
+     "src_len": 2.613,
+     "speed": 1.6,
+     "zoom": 1.16,
+     "sound": false,
+     "lines": [
+      "my phone rang",
+      "my heart stopped"
+     ]
+    },
+    {
+     "start": 21.933,
+     "end": 22.867,
+     "clip": "~/Downloads/5-second-photorealistic-handheld-iPhone (4).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 2.167,
+     "src_len": 0.933,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "he was laughing"
+     ]
+    },
+    {
+     "start": 22.867,
+     "end": 24.733,
+     "clip": "Red Light/07RedLight.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 4.1,
+     "src_len": 1.867,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "said he looked like something",
+      "out of a sci-fi movie"
+     ]
+    },
+    {
+     "start": 24.733,
+     "end": 27.133,
+     "clip": "Outside Torch DARK/4426D861-8647-40AE-831E-914185AC57CB.mov",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.4,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "I didn't care how it looked",
+      "I cared that he could see"
+     ],
+     "action": {
+      "at": 25.02,
+      "kind": "gets brighter",
+      "into_shot": 0.29,
+      "into_line": 0.29,
+      "line": "I didn't care how it looked"
+     }
+    },
+    {
+     "start": 27.133,
+     "end": 28.767,
+     "clip": "In Hands/IMG_2618.MOV",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.633,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "the 230-degree wide beam"
+     ],
+     "action": {
+      "at": 27.59,
+      "kind": "gets brighter",
+      "into_shot": 0.46,
+      "into_line": 0.46,
+      "line": "the 230-degree wide beam"
+     }
+    },
+    {
+     "start": 28.767,
+     "end": 29.767,
+     "clip": "Outside Torch DARK/IMG_7246.mov",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 1.133,
+     "src_len": 1.0,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "lights up the steps"
+     ],
+     "action": {
+      "at": 28.89,
+      "kind": "gets brighter",
+      "into_shot": 0.12,
+      "into_line": 0.13,
+      "line": "lights up the steps"
+     }
+    },
+    {
+     "start": 29.767,
+     "end": 32.033,
+     "clip": "~/Downloads/hf_20261109_193718_9a42324f-0e32-4189-87d5-8568460c4193.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.72,
+     "speed": 1.2,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "the porch",
+      "and the dog in the yard",
+      "all at once"
+     ]
+    },
+    {
+     "start": 32.033,
+     "end": 33.8,
+     "clip": "~/Downloads/IMG_6495.MOV",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 5.8,
+     "src_len": 1.767,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "not one tiny spot",
+      "like his phone"
+     ]
+    },
+    {
+     "start": 33.8,
+     "end": 36.0,
+     "clip": "Outside Torch DARK/IMG_7245.mov",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 4.2,
+     "src_len": 2.2,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "the spotlight",
+      "picks out house numbers",
+      "from down the street"
+     ]
+    },
+    {
+     "start": 36.0,
+     "end": 37.1,
+     "clip": "Wave Sensor/copy_0DE3092E-F421-46BB-BDBE-1E6B37E15579.mov",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 20.033,
+     "src_len": 1.1,
+     "speed": 1.0,
+     "zoom": 1.09,
+     "sound": false,
+     "lines": [
+      "and with the wave sensor on"
+     ]
+    },
+    {
+     "start": 37.1,
+     "end": 39.9,
+     "clip": "Wave Sensor/IMG_3615.MOV",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 3.6,
+     "src_len": 3.08,
+     "speed": 1.1,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "he just waves a hand by his head",
+      "at the door",
+      "to switch it off for the customer"
+     ],
+     "action": {
+      "at": 39.03,
+      "kind": "gets brighter",
+      "into_shot": 1.93,
+      "into_line": 0.33,
+      "line": "to switch it off for the customer"
+     }
+    },
+    {
+     "start": 39.9,
+     "end": 41.633,
+     "clip": "Wave Sensor/Snaptik.app_7441625542597594400.mp4",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.733,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "no fumbling",
+      "with boxes in his arms"
+     ],
+     "action": {
+      "at": 40.77,
+      "kind": "gets darker",
+      "into_shot": 0.88,
+      "into_line": 0.31,
+      "line": "with boxes in his arms"
+     }
+    },
+    {
+     "start": 41.633,
+     "end": 42.367,
+     "clip": "Red Light/IMG_6612.MOV",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 9.8,
+     "src_len": 0.733,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "on the walk back"
+     ]
+    },
+    {
+     "start": 42.367,
+     "end": 43.967,
+     "clip": "Red Light/IMG_6618.MOV",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 12.2,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "he switches from white light",
+      "to red light"
+     ],
+     "action": {
+      "at": 43.49,
+      "kind": "gets darker",
+      "into_shot": 1.12,
+      "into_line": 0.06,
+      "line": "to red light"
+     }
+    },
+    {
+     "start": 43.967,
+     "end": 45.067,
+     "clip": "Red Light/IMG_6613.MOV",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 3.533,
+     "src_len": 1.1,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "it protects his night vision"
+     ]
+    },
+    {
+     "start": 45.067,
+     "end": 46.767,
+     "clip": "Red Light/IMG_6616.MOV",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 0.733,
+     "src_len": 1.7,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "and there's no swarm of bugs",
+      "in his face"
+     ]
+    },
+    {
+     "start": 46.767,
+     "end": 48.933,
+     "clip": "IMG_7946.mov",
+     "folder": "IMG_7946.mov",
+     "library": true,
+     "hook": false,
+     "src_in": 48.533,
+     "src_len": 2.167,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and the battery lasts",
+      "a full eight-hour shift"
+     ]
+    },
+    {
+     "start": 48.933,
+     "end": 50.7,
+     "clip": "Charging/IMG_9981.MOV",
+     "folder": "Charging",
+     "library": true,
+     "hook": false,
+     "src_in": 3.667,
+     "src_len": 2.12,
+     "speed": 1.2,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "it charges off the same cable",
+      "as his phone"
+     ]
+    },
+    {
+     "start": 50.7,
+     "end": 52.1,
+     "clip": "Charging/Usb and fitting light -3.mov",
+     "folder": "Charging",
+     "library": true,
+     "hook": false,
+     "src_in": 8.267,
+     "src_len": 1.82,
+     "speed": 1.3,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so he just plugs it in",
+      "in the van"
+     ]
+    },
+    {
+     "start": 52.1,
+     "end": 53.867,
+     "clip": "IMG_7946.mov",
+     "folder": "IMG_7946.mov",
+     "library": true,
+     "hook": false,
+     "src_in": 36.4,
+     "src_len": 1.767,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "then he told me",
+      "the real reason he called"
+     ]
+    },
+    {
+     "start": 53.867,
+     "end": 55.2,
+     "clip": "Packaging/IMG_2731.MOV",
+     "folder": "Packaging",
+     "library": true,
+     "hook": false,
+     "src_in": 4.833,
+     "src_len": 1.333,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "half his crew wanted one"
+     ]
+    },
+    {
+     "start": 55.2,
+     "end": 56.567,
+     "clip": "Xmas/IMG_3321.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 8.8,
+     "src_len": 1.367,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so I ordered three more"
+     ]
+    },
+    {
+     "start": 56.567,
+     "end": 58.667,
+     "clip": "Working in Garage/IMG_2491.MOV",
+     "folder": "Working in Garage",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.1,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "because he's not the only one",
+      "I worry about in the dark"
+     ]
+    },
+    {
+     "start": 58.667,
+     "end": 59.467,
+     "clip": "In Hands/IMG_8138 (2).mov",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 13.433,
+     "src_len": 0.8,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "black for my dad"
+     ]
+    },
+    {
+     "start": 59.467,
+     "end": 61.1,
+     "clip": "~/Downloads/5-second-photorealistic-handheld-iPhone (5).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.633,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "who's been a mailman",
+      "for 30 years"
+     ]
+    },
+    {
+     "start": 61.1,
+     "end": 62.033,
+     "clip": "Colour Swatches/IMG_8585.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 15.133,
+     "src_len": 0.933,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "orange for our son"
+     ]
+    },
+    {
+     "start": 62.033,
+     "end": 63.267,
+     "clip": "~/Downloads/5-second-photorealistic-handheld-iPhone (6).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.567,
+     "src_len": 1.233,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "who's a long-haul truck driver"
+     ]
+    },
+    {
+     "start": 63.267,
+     "end": 64.033,
+     "clip": "Colour Swatches/IMG_8584.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 3.167,
+     "src_len": 0.767,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and pink for me"
+     ]
+    },
+    {
+     "start": 64.033,
+     "end": 65.3,
+     "clip": "Dog Walkers/LuxeLight - Dog Walking - No Subs.mov",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 31.433,
+     "src_len": 1.267,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "for the early morning dog walks"
+     ],
+     "action": {
+      "at": 64.91,
+      "kind": "gets brighter",
+      "into_shot": 0.88,
+      "into_line": 0.87,
+      "line": "for the early morning dog walks"
+     }
+    },
+    {
+     "start": 65.3,
+     "end": 67.933,
+     "clip": "Case/IMG_9945.MOV",
+     "folder": "Case",
+     "library": true,
+     "hook": false,
+     "src_in": 1.4,
+     "src_len": 2.633,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "and every one came",
+      "with a free carry case",
+      "so they were gift-ready"
+     ]
+    },
+    {
+     "start": 67.933,
+     "end": 69.733,
+     "clip": "Outside Torch DARK/IMG_2904.MOV",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 20.033,
+     "src_len": 1.8,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and now when my phone rings",
+      "during his shift"
+     ]
+    },
+    {
+     "start": 69.733,
+     "end": 71.1,
+     "clip": "~/Downloads/hf_20261109_200001_12c262dc-826a-4fd9-8a90-4b6ef3c25cfb.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.913,
+     "speed": 1.4,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "I'm not worried",
+      "he's fallen again"
+     ]
+    },
+    {
+     "start": 71.1,
+     "end": 72.767,
+     "clip": "Wave Sensor/IMG_8834.mov",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 4.767,
+     "src_len": 1.667,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [],
+     "action": {
+      "at": 72.31,
+      "kind": "gets brighter",
+      "into_shot": 1.21,
+      "into_line": null,
+      "line": null
+     }
+    },
+    {
+     "start": 72.767,
+     "end": 74.367,
+     "clip": "Colour Swatches/IMG_8586.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 14.167,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": []
+    },
+    {
+     "start": 74.367,
+     "end": 75.967,
+     "clip": "Colour Swatches/IMG_8600.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 4.6,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": []
+    }
+   ],
+   "sfx": [
+    {
+     "at": 20.3,
+     "name": "Mobile phone vibration(52796)",
+     "level": 0.22,
+     "caption": "my phone rang"
+    },
+    {
+     "at": 43.433,
+     "name": "Turn the paper / page [note] # 1(182352)",
+     "level": 0.5,
+     "caption": "to red light"
+    },
+    {
+     "at": 71.1,
+     "name": "swish_whoosh (large)(794558)",
+     "level": 0.37,
+     "caption": null
+    },
+    {
+     "at": 72.767,
+     "name": "Correct answer Piropyrone (Standard)",
+     "level": 0.3,
+     "caption": null
+    },
+    {
+     "at": 74.367,
+     "name": "Click_Mouse_Click_02(864360)",
+     "level": 0.42,
+     "caption": null
+    },
+    {
+     "at": 36.433,
+     "name": "[Sound effect] Correct answer good!(963433)",
+     "level": 0.24,
+     "caption": "and with the wave sensor on"
+    }
+   ],
+   "project": "Delivery Driver - V1 (Hook 1)",
+   "hook_end": 5.57
+  },
+  "CHEAPGENIUS": {
+   "captions": 52,
+   "shots": [
+    {
+     "start": 0.0,
+     "end": 4.667,
+     "clip": "~/Downloads/hf_20261107_145832_99c5a820-bd62-4bc2-baeb-70b453b7b430.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": true,
+     "src_in": 0.4,
+     "src_len": 4.667,
+     "speed": 1.0,
+     "zoom": 1.25,
+     "sound": true,
+     "lines": [
+      "HE CALLED ME CHEAP 😳"
+     ]
+    },
+    {
+     "start": 4.667,
+     "end": 5.433,
+     "clip": "Red Light/04RedLight.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": true,
+     "src_in": 3.967,
+     "src_len": 0.767,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "HE CALLED ME CHEAP 😳"
+     ]
+    },
+    {
+     "start": 5.433,
+     "end": 6.6,
+     "clip": "Colour Swatches/IMG_6565.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": true,
+     "src_in": 3.1,
+     "src_len": 1.4,
+     "speed": 1.2,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "HE CALLED ME CHEAP 😳"
+     ]
+    },
+    {
+     "start": 6.6,
+     "end": 8.2,
+     "clip": "~/Downloads/snaptik_7582326089033338125_v3.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 93.067,
+     "src_len": 1.76,
+     "speed": 1.1,
+     "zoom": 1.04,
+     "sound": false,
+     "lines": [
+      "you spend a fortune at Christmas"
+     ]
+    },
+    {
+     "start": 8.2,
+     "end": 10.533,
+     "clip": "Random BROLL/snaptik_7553398452420398358_v3.mp4",
+     "folder": "Random BROLL",
+     "library": true,
+     "hook": false,
+     "src_in": 0.167,
+     "src_len": 2.333,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and by January",
+      "half of it's shoved in a closet"
+     ],
+     "action": {
+      "at": 8.74,
+      "kind": "gets darker",
+      "into_shot": 0.54,
+      "into_line": 0.54,
+      "line": "and by January"
+     }
+    },
+    {
+     "start": 10.533,
+     "end": 11.8,
+     "clip": "Xmas/hf_20261106_114224_8db3d3d7-13dc-4396-ab74-75219e948d8f.mp4",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.267,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "this year I wanted something"
+     ]
+    },
+    {
+     "start": 11.8,
+     "end": 13.667,
+     "clip": "~/Downloads/hf_20261105_104806_4fe23852-a486-4869-a030-2ed4bce165dc.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.867,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "his whole family would actually use"
+     ]
+    },
+    {
+     "start": 13.667,
+     "end": 15.167,
+     "clip": "Colour Swatches/IMG_6580.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 0.433,
+     "src_len": 1.5,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "so I got them all a LuxeLight"
+     ]
+    },
+    {
+     "start": 15.167,
+     "end": 16.5,
+     "clip": "Xmas/IMG_3313.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 17.467,
+     "src_len": 1.333,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "he looked at the boxes and said"
+     ]
+    },
+    {
+     "start": 16.5,
+     "end": 18.1,
+     "clip": "~/Downloads/hf_20261107_145118_4a002989-a8d9-4aa4-841f-6624bca71848.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 1.233,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.82,
+     "sound": true,
+     "lines": [
+      "you got my family a flashlight?"
+     ]
+    },
+    {
+     "start": 18.1,
+     "end": 19.567,
+     "clip": "~/Downloads/hf_20261107_145118_4a002989-a8d9-4aa4-841f-6624bca71848.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.32,
+     "speed": 0.9,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "in front of everyone"
+     ]
+    },
+    {
+     "start": 19.567,
+     "end": 22.033,
+     "clip": "~/Downloads/hf_20261104_115354_440f4cb6-f08c-4d47-965a-20a2b816d1ba.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.467,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "his dad's 64",
+      "and nothing impresses him"
+     ]
+    },
+    {
+     "start": 22.033,
+     "end": 22.733,
+     "clip": "~/Downloads/hf_20261104_143655_4129e3f3-f909-4d14-a081-ee8f8ec60637.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 0.7,
+     "speed": 1.0,
+     "zoom": 1.18,
+     "sound": false,
+     "lines": [
+      "he put his on"
+     ]
+    },
+    {
+     "start": 22.733,
+     "end": 25.133,
+     "clip": "~/Downloads/hf_20261104_140940_20fdbb92-d544-4c3e-9539-fc5f70adc842.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 11.133,
+     "src_len": 2.4,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "and started waving his hand",
+      "by his head like a magician"
+     ],
+     "action": {
+      "at": 23.61,
+      "kind": "gets brighter",
+      "into_shot": 0.88,
+      "into_line": 0.87,
+      "line": "and started waving his hand"
+     }
+    },
+    {
+     "start": 25.133,
+     "end": 26.267,
+     "clip": "Wave Sensor/IMG_2548.MOV",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 0.233,
+     "src_len": 1.7,
+     "speed": 1.5,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "that's the wave sensor"
+     ],
+     "action": {
+      "at": 25.88,
+      "kind": "gets brighter",
+      "into_shot": 0.75,
+      "into_line": 0.75,
+      "line": "that's the wave sensor"
+     }
+    },
+    {
+     "start": 26.267,
+     "end": 28.133,
+     "clip": "Working on Car/IMG_2502.MOV",
+     "folder": "Working on Car",
+     "library": true,
+     "hook": false,
+     "src_in": 7.5,
+     "src_len": 1.867,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "he's always under the car",
+      "with greasy hands"
+     ],
+     "action": {
+      "at": 27.31,
+      "kind": "gets brighter",
+      "into_shot": 1.04,
+      "into_line": 0.08,
+      "line": "with greasy hands"
+     }
+    },
+    {
+     "start": 28.133,
+     "end": 29.733,
+     "clip": "Wave Sensor/4918ACAE-45C2-42CF-8FB1-1DA6E848A5B0.mov",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 6.1,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so now he just waves it on and off"
+     ],
+     "action": {
+      "at": 28.26,
+      "kind": "gets brighter",
+      "into_shot": 0.12,
+      "into_line": 0.12,
+      "line": "so now he just waves it on and off"
+     }
+    },
+    {
+     "start": 29.733,
+     "end": 31.133,
+     "clip": "Wave Sensor/copy_0DE3092E-F421-46BB-BDBE-1E6B37E15579.mov",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 19.047,
+     "src_len": 1.96,
+     "speed": 1.4,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "instead of fumbling for a button"
+     ]
+    },
+    {
+     "start": 31.133,
+     "end": 32.433,
+     "clip": "Packaging/IMG_1718.mov",
+     "folder": "Packaging",
+     "library": true,
+     "hook": false,
+     "src_in": 2.133,
+     "src_len": 1.3,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "he asked me where I got it"
+     ]
+    },
+    {
+     "start": 32.433,
+     "end": 33.967,
+     "clip": "In Hands/IMG_2618.MOV",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.533,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "not how much",
+      "where"
+     ],
+     "action": {
+      "at": 32.89,
+      "kind": "gets brighter",
+      "into_shot": 0.46,
+      "into_line": 0.46,
+      "line": "not how much"
+     }
+    },
+    {
+     "start": 33.967,
+     "end": 35.4,
+     "clip": "Colour Swatches/IMG_6588.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 2.3,
+     "src_len": 1.433,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "the orange one",
+      "went to his brother"
+     ]
+    },
+    {
+     "start": 35.4,
+     "end": 36.5,
+     "clip": "Campers/IMG_6477.MOV",
+     "folder": "Campers",
+     "library": true,
+     "hook": false,
+     "src_in": 11.167,
+     "src_len": 1.1,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "he's always outdoors"
+     ]
+    },
+    {
+     "start": 36.5,
+     "end": 37.567,
+     "clip": "Fishing/hf_20261028_111629_d6bd2158-0aed-4ea1-a99e-796ecf04dcf6.mp4",
+     "folder": "Fishing",
+     "library": true,
+     "hook": false,
+     "src_in": 1.333,
+     "src_len": 1.067,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "camping or fishing"
+     ]
+    },
+    {
+     "start": 37.567,
+     "end": 39.167,
+     "clip": "Campers/IMG_6467.MOV",
+     "folder": "Campers",
+     "library": true,
+     "hook": false,
+     "src_in": 1.3,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "the 230-degree wide beam"
+     ]
+    },
+    {
+     "start": 39.167,
+     "end": 40.567,
+     "clip": "Campers/IMG_2895.MOV",
+     "folder": "Campers",
+     "library": true,
+     "hook": false,
+     "src_in": 20.467,
+     "src_len": 1.4,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "lights up the whole campsite"
+     ]
+    },
+    {
+     "start": 40.567,
+     "end": 41.833,
+     "clip": "Vs Other Headtorch/LuxeLight_body_2.mp4",
+     "folder": "Vs Other Headtorch",
+     "library": true,
+     "hook": false,
+     "src_in": 4.867,
+     "src_len": 1.14,
+     "speed": 0.9,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "not one tiny spot"
+     ]
+    },
+    {
+     "start": 41.833,
+     "end": 42.767,
+     "clip": "Campers/hf_20261022_104022_9ef3ac5a-17b4-4e6a-bd9d-9a3ebe5fd259.mp4",
+     "folder": "Campers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 0.933,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and when the bugs come out"
+     ]
+    },
+    {
+     "start": 42.767,
+     "end": 44.667,
+     "clip": "Red Light/08RedLight.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 15.6,
+     "src_len": 1.9,
+     "speed": 1.0,
+     "zoom": 1.12,
+     "sound": false,
+     "lines": [
+      "he switches from white light",
+      "to red light"
+     ]
+    },
+    {
+     "start": 44.667,
+     "end": 45.7,
+     "clip": "Campers/hf_20261022_092818_0e8d32f6-3bdd-4344-be90-92d58ebbd519.mp4",
+     "folder": "Campers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.033,
+     "speed": 1.0,
+     "zoom": 1.04,
+     "sound": false,
+     "lines": [
+      "so they're not in his face"
+     ]
+    },
+    {
+     "start": 45.7,
+     "end": 47.733,
+     "clip": "Red Light/copy_1CF022A2-C82C-4FBE-9859-01D35A7935C6.mov",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 3.367,
+     "src_len": 2.033,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and he's not blinding everyone",
+      "around the fire"
+     ]
+    },
+    {
+     "start": 47.733,
+     "end": 48.733,
+     "clip": "Wave Sensor/LeeAnn Headtorch (1).mp4",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 9.7,
+     "src_len": 1.0,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "6am dog walks"
+     ]
+    },
+    {
+     "start": 48.733,
+     "end": 49.833,
+     "clip": "Dog Walkers/IMG_2027.MOV",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.1,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "are his sister's thing"
+     ]
+    },
+    {
+     "start": 49.833,
+     "end": 51.033,
+     "clip": "Wave Sensor/LeeAnn Headtorch (1).mp4",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 27.033,
+     "src_len": 1.2,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "it fits right over her hat"
+     ]
+    },
+    {
+     "start": 51.033,
+     "end": 52.2,
+     "clip": "Weight/IMG_7592.mov",
+     "folder": "Weight",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.167,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and it's as light as a feather"
+     ]
+    },
+    {
+     "start": 52.2,
+     "end": 53.8,
+     "clip": "Dog Walkers/LuxeLight - Dog Walking - No Subs.mov",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 30.167,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so she forgets",
+      "it's even on her head"
+     ],
+     "action": {
+      "at": 53.24,
+      "kind": "gets darker",
+      "into_shot": 1.04,
+      "into_line": 0.41,
+      "line": "it's even on her head"
+     }
+    },
+    {
+     "start": 53.8,
+     "end": 54.6,
+     "clip": "Colour Swatches/IMG_8584.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 3.4,
+     "src_len": 0.8,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and the pink one?"
+     ]
+    },
+    {
+     "start": 54.6,
+     "end": 55.4,
+     "clip": "Stitching/hf_20261023_194000_7f2fd522-34a8-4475-b8d6-2db9495999ca.mp4",
+     "folder": "Stitching",
+     "library": true,
+     "hook": false,
+     "src_in": 2.0,
+     "src_len": 0.8,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "that's his mom's"
+     ]
+    },
+    {
+     "start": 55.4,
+     "end": 58.133,
+     "clip": "Stitching/hf_20261023_201141_44786085-7ccb-4999-89fc-534caad84a03.mp4",
+     "folder": "Stitching",
+     "library": true,
+     "hook": false,
+     "src_in": 0.4,
+     "src_len": 2.733,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "she's stitching most nights",
+      "and with eight hours on one charge"
+     ]
+    },
+    {
+     "start": 58.133,
+     "end": 59.033,
+     "clip": "Stitching/hf_20261023_194727_1fcb61b6-167e-489b-ba7c-1f5b65818110.mp4",
+     "folder": "Stitching",
+     "library": true,
+     "hook": false,
+     "src_in": 0.3,
+     "src_len": 0.9,
+     "speed": 1.0,
+     "zoom": 1.04,
+     "sound": false,
+     "lines": [
+      "it outlasts her"
+     ]
+    },
+    {
+     "start": 59.033,
+     "end": 61.233,
+     "clip": "Charging/IMG_2733.MOV",
+     "folder": "Charging",
+     "library": true,
+     "hook": false,
+     "src_in": 4.333,
+     "src_len": 2.2,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "then she charges it with the same cable",
+      "as her phone"
+     ]
+    },
+    {
+     "start": 60.1,
+     "end": 61.233,
+     "clip": "~/Documents/sound fx/snaptik_7353684892024147206_v3 (1).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 12.367,
+     "src_len": 1.133,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "then she charges it with the same cable",
+      "as her phone"
+     ]
+    },
+    {
+     "start": 61.233,
+     "end": 62.667,
+     "clip": "Stitching/IMG_8602.MOV",
+     "folder": "Stitching",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.433,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so it's ready again the next night"
+     ]
+    },
+    {
+     "start": 62.667,
+     "end": 64.6,
+     "clip": "Case/IMG_9945.MOV",
+     "folder": "Case",
+     "library": true,
+     "hook": false,
+     "src_in": 1.9,
+     "src_len": 2.32,
+     "speed": 1.2,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "every one came in its own carry case"
+     ]
+    },
+    {
+     "start": 64.6,
+     "end": 65.9,
+     "clip": "Xmas/IMG_3322.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.3,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "gift-ready out of the box"
+     ]
+    },
+    {
+     "start": 65.9,
+     "end": 68.133,
+     "clip": "Red Light/IMG_8695.mov",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 4.167,
+     "src_len": 2.233,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": []
+    }
+   ],
+   "sfx": [
+    {
+     "at": 43.933,
+     "name": "click (camera shutter sound single shot)(1111055)",
+     "level": 0.47,
+     "caption": "to red light"
+    },
+    {
+     "at": 65.9,
+     "name": "Click_Mouse_Click_02(864360)",
+     "level": 0.34,
+     "caption": null
+    }
+   ],
+   "project": "Cheap or Genius - V1 (Hook 1)",
+   "hook_end": 6.6
+  },
+  "XMAS3HOOK": {
+   "captions": 34,
+   "shots": [
+    {
+     "start": 0.0,
+     "end": 2.633,
+     "clip": "~/Downloads/hf_20261106_172328_bc864f20-8b94-4b9b-adaa-92e377292e90.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 1.6,
+     "src_len": 2.633,
+     "speed": 1.0,
+     "zoom": 1.2,
+     "sound": true,
+     "lines": [
+      "please don’t let this be your husband ...😣"
+     ]
+    },
+    {
+     "start": 2.633,
+     "end": 4.867,
+     "clip": "Xmas/Shovelling snow /hf_20261105_150400_bc09b74a-201b-4c3c-977b-238e1e81e14a.mp4",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 0.967,
+     "src_len": 2.233,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": []
+    },
+    {
+     "start": 4.867,
+     "end": 8.133,
+     "clip": "Campers/m2-res_854p.mp4",
+     "folder": "Campers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.333,
+     "src_len": 5.88,
+     "speed": 1.8,
+     "zoom": 1.16,
+     "sound": false,
+     "lines": [
+      "wait for it...🤣"
+     ],
+     "action": {
+      "at": 7.3,
+      "kind": "gets brighter",
+      "into_shot": 2.43,
+      "into_line": 2.43,
+      "line": "wait for it...🤣"
+     }
+    },
+    {
+     "start": 8.133,
+     "end": 9.233,
+     "clip": "Campers/hf_20261022_092818_0e8d32f6-3bdd-4344-be90-92d58ebbd519.mp4",
+     "folder": "Campers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.1,
+     "speed": 1.0,
+     "zoom": 1.12,
+     "sound": true,
+     "lines": []
+    },
+    {
+     "start": 9.233,
+     "end": 11.967,
+     "clip": "~/Downloads/hf_20261106_181702_5eedb63b-9f01-4de0-9d65-c9a32c80c0a4.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.933,
+     "src_len": 2.733,
+     "speed": 1.0,
+     "zoom": 1.13,
+     "sound": true,
+     "lines": []
+    },
+    {
+     "start": 11.967,
+     "end": 13.133,
+     "clip": "Dog Walkers/5925345714891161192-a.mp4",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.167,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": []
+    },
+    {
+     "start": 13.133,
+     "end": 14.233,
+     "clip": "Random BROLL/hf_20261002_194855_6b367ea9-c021-4529-942b-077238490cd7.mp4",
+     "folder": "Random BROLL",
+     "library": true,
+     "hook": false,
+     "src_in": 1.18,
+     "src_len": 1.21,
+     "speed": 1.1,
+     "zoom": 1.04,
+     "sound": false,
+     "lines": [
+      "now you could try to"
+     ]
+    },
+    {
+     "start": 14.233,
+     "end": 15.567,
+     "clip": "Bulky Headtorches/ege.mov",
+     "folder": "Bulky Headtorches",
+     "library": true,
+     "hook": false,
+     "src_in": 5.633,
+     "src_len": 1.333,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "hunt down a different headtorch"
+     ]
+    },
+    {
+     "start": 15.567,
+     "end": 16.867,
+     "clip": "ScreenRecording_11-06-2026 16-40-25_1.MP4",
+     "folder": "ScreenRecording_11-06-2026 16-40-25_1.MP4",
+     "library": true,
+     "hook": false,
+     "src_in": 0.767,
+     "src_len": 1.3,
+     "speed": 1.0,
+     "zoom": 1.22,
+     "sound": false,
+     "lines": []
+    },
+    {
+     "start": 15.567,
+     "end": 16.867,
+     "clip": "~/Documents/amazon-logo-amazon-icon-free-free-vector.jpg",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.3,
+     "speed": 1.0,
+     "zoom": 0.67,
+     "sound": true,
+     "lines": []
+    },
+    {
+     "start": 16.867,
+     "end": 19.033,
+     "clip": "Fakes/hf_20261002_114903_5b398124-73bf-4bb8-a8b0-73a60bd5db27.mp4",
+     "folder": "Fakes",
+     "library": true,
+     "hook": false,
+     "src_in": 0.7,
+     "src_len": 2.167,
+     "speed": 1.0,
+     "zoom": 1.14,
+     "sound": true,
+     "lines": [
+      "probably end up returning them",
+      "buying another"
+     ]
+    },
+    {
+     "start": 19.033,
+     "end": 20.5,
+     "clip": "Bulky Headtorches/IMG_8772 (1).mov",
+     "folder": "Bulky Headtorches",
+     "library": true,
+     "hook": false,
+     "src_in": 1.6,
+     "src_len": 1.467,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and still not getting it right"
+     ]
+    },
+    {
+     "start": 20.5,
+     "end": 21.9,
+     "clip": "Xmas/hf_20260924_232616_8f1ac948-aea9-42f9-9960-f172f643fb33.mp4",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 1.967,
+     "src_len": 1.4,
+     "speed": 1.0,
+     "zoom": 1.04,
+     "sound": false,
+     "lines": [
+      "or you could just give him"
+     ]
+    },
+    {
+     "start": 21.9,
+     "end": 23.0,
+     "clip": "Xmas/IMG_6684.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 2.033,
+     "src_len": 1.1,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "a LuxeLight for Christmas"
+     ]
+    },
+    {
+     "start": 23.0,
+     "end": 25.267,
+     "clip": "In Hands/IMG_8138 (2).mov",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 13.567,
+     "src_len": 2.267,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "it's got all of these features",
+      "in one headlamp"
+     ]
+    },
+    {
+     "start": 25.267,
+     "end": 27.0,
+     "clip": "Outside Torch DARK/IMG_2514.MOV",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.733,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "the 230-degree wide beam"
+     ]
+    },
+    {
+     "start": 27.0,
+     "end": 27.967,
+     "clip": "Red Light/07RedLight.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 1.867,
+     "src_len": 0.967,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "the red light mode"
+     ]
+    },
+    {
+     "start": 27.967,
+     "end": 28.633,
+     "clip": "Dog Walkers/IMG_2692.mov",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 2.0,
+     "src_len": 0.667,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "the spotlight"
+     ]
+    },
+    {
+     "start": 28.633,
+     "end": 29.733,
+     "clip": "Wave Sensor/IMG_8834.mov",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 4.7,
+     "src_len": 1.1,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "plus a wave sensor"
+     ],
+     "action": {
+      "at": 29.34,
+      "kind": "gets darker",
+      "into_shot": 0.71,
+      "into_line": 0.71,
+      "line": "plus a wave sensor"
+     }
+    },
+    {
+     "start": 29.733,
+     "end": 32.133,
+     "clip": "Wave Sensor/IMG_3592.MOV",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 17.833,
+     "src_len": 2.4,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so he can flick it on and off",
+      "without ever touching it"
+     ],
+     "action": {
+      "at": 31.11,
+      "kind": "gets darker",
+      "into_shot": 1.38,
+      "into_line": 0.14,
+      "line": "without ever touching it"
+     }
+    },
+    {
+     "start": 32.133,
+     "end": 34.667,
+     "clip": "Charging/IMG_9983.MOV",
+     "folder": "Charging",
+     "library": true,
+     "hook": false,
+     "src_in": 1.733,
+     "src_len": 2.533,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "and it charges off the same cable",
+      "as his phone"
+     ]
+    },
+    {
+     "start": 34.667,
+     "end": 36.233,
+     "clip": "Colour Swatches/hf_20260929_141355_034b7f1f-a858-4027-9015-616d77368d0d.mp4",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.723,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "it also comes in three colors"
+     ]
+    },
+    {
+     "start": 36.233,
+     "end": 36.667,
+     "clip": "Colour Swatches/IMG_8584.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 3.7,
+     "src_len": 0.433,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "pink"
+     ]
+    },
+    {
+     "start": 36.667,
+     "end": 37.1,
+     "clip": "Colour Swatches/IMG_8585.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 6.667,
+     "src_len": 0.433,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "orange"
+     ]
+    },
+    {
+     "start": 37.1,
+     "end": 37.733,
+     "clip": "In Hands/IMG_1717.mov",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 4.367,
+     "src_len": 0.633,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and black"
+     ]
+    },
+    {
+     "start": 37.733,
+     "end": 38.967,
+     "clip": "Case/LuxeLight - V2 - B-roll - No-Subs.mov",
+     "folder": "Case",
+     "library": true,
+     "hook": false,
+     "src_in": 52.267,
+     "src_len": 1.233,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "with a free carry case"
+     ]
+    },
+    {
+     "start": 38.967,
+     "end": 41.033,
+     "clip": "Wave Sensor/IMG_3615.MOV",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 2.5,
+     "src_len": 3.927,
+     "speed": 1.9,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so it's gift ready",
+      "for everyone in the family"
+     ],
+     "action": {
+      "at": 39.56,
+      "kind": "gets brighter",
+      "into_shot": 0.59,
+      "into_line": 0.59,
+      "line": "so it's gift ready"
+     }
+    },
+    {
+     "start": 41.033,
+     "end": 43.0,
+     "clip": "Red Light/IMG_6617.MOV",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 4.5,
+     "src_len": 1.967,
+     "speed": 1.0,
+     "zoom": 1.04,
+     "sound": false,
+     "lines": [
+      "they're actually running",
+      "a pretty big sale right now"
+     ]
+    },
+    {
+     "start": 43.0,
+     "end": 45.333,
+     "clip": "Packaging/IMG_3353.MOV",
+     "folder": "Packaging",
+     "library": true,
+     "hook": false,
+     "src_in": 1.0,
+     "src_len": 2.333,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "up to 50% off",
+      "plus the free case"
+     ]
+    },
+    {
+     "start": 45.333,
+     "end": 46.6,
+     "clip": "Colour Swatches/IMG_6592.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 6.1,
+     "src_len": 1.267,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "I wouldn't wait too long though"
+     ],
+     "action": {
+      "at": 45.71,
+      "kind": "gets brighter",
+      "into_shot": 0.38,
+      "into_line": 0.37,
+      "line": "I wouldn't wait too long though"
+     }
+    },
+    {
+     "start": 46.6,
+     "end": 49.0,
+     "clip": "Packaging/hf_20261003_130725_0b40f7fa-5eda-4f2a-804a-6208d4b906a7.mp4",
+     "folder": "Packaging",
+     "library": true,
+     "hook": false,
+     "src_in": 0.3,
+     "src_len": 2.4,
+     "speed": 1.0,
+     "zoom": 1.04,
+     "sound": false,
+     "lines": [
+      "last time they ran one",
+      "they sold out in a day"
+     ]
+    },
+    {
+     "start": 49.0,
+     "end": 50.067,
+     "clip": "Colour Swatches/IMG_8600.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 13.133,
+     "src_len": 1.067,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "if you've been on the fence"
+     ]
+    },
+    {
+     "start": 50.067,
+     "end": 51.567,
+     "clip": "Packaging/IMG_7341 (1).mov",
+     "folder": "Packaging",
+     "library": true,
+     "hook": false,
+     "src_in": 3.733,
+     "src_len": 1.5,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": []
+    }
+   ],
+   "sfx": [
+    {
+     "at": 1.033,
+     "name": "swish_whoosh (large)(794558)",
+     "level": 0.29,
+     "caption": "please don’t let this be your husband ...😣"
+    },
+    {
+     "at": 4.9,
+     "name": "Pop. Sound to open the lid, stopper, cap (high)",
+     "level": 1.0,
+     "caption": "wait for it...🤣"
+    },
+    {
+     "at": 16.867,
+     "name": "Wrong answer",
+     "level": 0.29,
+     "caption": "probably end up returning them"
+    },
+    {
+     "at": 15.5,
+     "name": "Woosh",
+     "level": 0.53,
+     "caption": "hunt down a different headtorch"
+    },
+    {
+     "at": 50.067,
+     "name": "Correct answer Piropyrone (Standard)",
+     "level": 0.32,
+     "caption": null
+    }
+   ],
+   "project": "Xmas 3 Hooks - V1 (Hook 1 first)",
+   "hook_end": 0.0
+  },
+  "FAKECHECK": {
+   "captions": 57,
+   "shots": [
+    {
+     "start": 0.0,
+     "end": 2.333,
+     "clip": "~/Downloads/Realistic-top-down-smartphone-video-ver.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": true,
+     "src_in": 0.433,
+     "src_len": 2.333,
+     "speed": 1.0,
+     "zoom": 1.14,
+     "sound": true,
+     "lines": []
+    },
+    {
+     "start": 2.333,
+     "end": 3.767,
+     "clip": "Red Light/12RedLight.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": true,
+     "src_in": 25.733,
+     "src_len": 1.433,
+     "speed": 1.0,
+     "zoom": 1.1,
+     "sound": false,
+     "lines": [],
+     "action": {
+      "at": 2.79,
+      "kind": "gets darker",
+      "into_shot": 0.46,
+      "into_line": null,
+      "line": null
+     }
+    },
+    {
+     "start": 3.767,
+     "end": 5.067,
+     "clip": "Fakes/hf_20261008_121416_7b9e65c5-f568-4817-8acb-e1a3fddcd9d6.mp4",
+     "folder": "Fakes",
+     "library": true,
+     "hook": false,
+     "src_in": 0.3,
+     "src_len": 1.3,
+     "speed": 1.0,
+     "zoom": 1.04,
+     "sound": false,
+     "lines": [
+      "RED FLAG NUMBER ONE"
+     ]
+    },
+    {
+     "start": 5.067,
+     "end": 6.533,
+     "clip": "In Hands/IMG_1717.mov",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 3.967,
+     "src_len": 1.467,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "THE REAL LUXELIGHT 2.0"
+     ]
+    },
+    {
+     "start": 6.533,
+     "end": 7.633,
+     "clip": "Red Light/15RedLight.MOV",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 3.433,
+     "src_len": 1.1,
+     "speed": 1.0,
+     "zoom": 1.1,
+     "sound": false,
+     "lines": [
+      "HAS A RED LIGHT MODE"
+     ],
+     "action": {
+      "at": 6.66,
+      "kind": "gets darker",
+      "into_shot": 0.12,
+      "into_line": 0.12,
+      "line": "HAS A RED LIGHT MODE"
+     }
+    },
+    {
+     "start": 7.633,
+     "end": 9.233,
+     "clip": "Red Light/07RedLight.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 1.9,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "THIS IS THE EASIEST GIVEAWAY"
+     ]
+    },
+    {
+     "start": 9.233,
+     "end": 10.6,
+     "clip": "Red Light/04RedLight.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 4.0,
+     "src_len": 1.367,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "TRUST ME",
+      "YOU WANT THIS"
+     ]
+    },
+    {
+     "start": 10.6,
+     "end": 11.733,
+     "clip": "Red Light/IMG_6616.MOV",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 1.5,
+     "src_len": 1.133,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "IT KEEPS BUGS OUT OF YOUR FACE"
+     ]
+    },
+    {
+     "start": 11.733,
+     "end": 12.967,
+     "clip": "Red Light/hf_20261029_125907_c882e18e-5c3a-49f1-b662-6763ec767c95.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.233,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "WHEN YOU'RE OUT CAMPING OR HUNTING"
+     ]
+    },
+    {
+     "start": 12.967,
+     "end": 15.6,
+     "clip": "Red Light/hf_20261015_210756_649988cd-8a09-4946-917a-c7c6bbddd12e.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.633,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": [
+      "IT HELPS PRESERVE YOUR NIGHT VISION",
+      "SO YOU CAN SEE CLEARLY IN THE DARK"
+     ]
+    },
+    {
+     "start": 15.6,
+     "end": 17.5,
+     "clip": "Horses/luxelight_StacieW_LuxeLEDHead_9f818920.mp4",
+     "folder": "Horses",
+     "library": true,
+     "hook": false,
+     "src_in": 0.4,
+     "src_len": 1.9,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "AND IT'S PERFECT AROUND ANIMALS TOO"
+     ]
+    },
+    {
+     "start": 17.5,
+     "end": 18.767,
+     "clip": "Horses/luxelight_StacieW_LuxeLEDHead_f61394ac.mp4",
+     "folder": "Horses",
+     "library": true,
+     "hook": false,
+     "src_in": 3.0,
+     "src_len": 1.267,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "THE RED LIGHT DOESN'T SPOOK THEM"
+     ]
+    },
+    {
+     "start": 18.767,
+     "end": 19.8,
+     "clip": "Horses/hf_20261015_203036_0e5a6e44-3cf5-417d-ab9e-ac74380118cb.mp4",
+     "folder": "Horses",
+     "library": true,
+     "hook": false,
+     "src_in": 5.067,
+     "src_len": 1.033,
+     "speed": 1.0,
+     "zoom": 1.04,
+     "sound": false,
+     "lines": [
+      "THE WAY WHITE LIGHT DOES"
+     ]
+    },
+    {
+     "start": 19.8,
+     "end": 21.6,
+     "clip": "Reviews/ScreenRecording_11-06-2026 16-40-25_1.MP4",
+     "folder": "Reviews",
+     "library": true,
+     "hook": false,
+     "src_in": 1.6,
+     "src_len": 1.8,
+     "speed": 1.0,
+     "zoom": 1.22,
+     "sound": false,
+     "lines": [
+      "THE AMAZON COPYCATS",
+      "DON'T HAVE IT"
+     ]
+    },
+    {
+     "start": 21.6,
+     "end": 22.967,
+     "clip": "Red Light/IMG_8704.mov",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 7.2,
+     "src_len": 1.367,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "NO RED LIGHT",
+      "NOT A REAL ONE"
+     ]
+    },
+    {
+     "start": 22.967,
+     "end": 24.233,
+     "clip": "Fakes/IMG_8637.mov",
+     "folder": "Fakes",
+     "library": true,
+     "hook": false,
+     "src_in": 9.3,
+     "src_len": 1.267,
+     "speed": 1.0,
+     "zoom": 1.25,
+     "sound": false,
+     "lines": [
+      "RED FLAG NUMBER TWO"
+     ]
+    },
+    {
+     "start": 24.233,
+     "end": 26.9,
+     "clip": "Colour Swatches/IMG_8586.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 8.533,
+     "src_len": 2.667,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "THE LUXELIGHT 2.0 COMES IN",
+      "LIMITED EDITION COLORS"
+     ]
+    },
+    {
+     "start": 26.9,
+     "end": 27.267,
+     "clip": "Colour Swatches/IMG_8584.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 3.2,
+     "src_len": 0.367,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "PINK"
+     ]
+    },
+    {
+     "start": 27.267,
+     "end": 27.733,
+     "clip": "Colour Swatches/IMG_8585.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 15.133,
+     "src_len": 0.467,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "ORANGE"
+     ]
+    },
+    {
+     "start": 27.733,
+     "end": 28.3,
+     "clip": "Colour Swatches/hf_20261028_220512_ffee63ef-9440-49c2-ad14-98848f361564.mp4",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 2.3,
+     "src_len": 0.567,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "AND CAMO"
+     ]
+    },
+    {
+     "start": 28.3,
+     "end": 30.0,
+     "clip": "Reviews/ScreenRecording_10-11-2026 14-42-49_1.MP4",
+     "folder": "Reviews",
+     "library": true,
+     "hook": false,
+     "src_in": 2.367,
+     "src_len": 1.7,
+     "speed": 1.0,
+     "zoom": 1.22,
+     "sound": false,
+     "lines": [
+      "ONLY SOLD THROUGH",
+      "OUR OFFICIAL WEBSITE"
+     ]
+    },
+    {
+     "start": 30.0,
+     "end": 31.933,
+     "clip": "Fakes/IMG_8655.mov",
+     "folder": "Fakes",
+     "library": true,
+     "hook": false,
+     "src_in": 1.1,
+     "src_len": 1.45,
+     "speed": 0.75,
+     "zoom": 2.5,
+     "sound": false,
+     "lines": [
+      "THE AMAZON FAKES",
+      "ONLY COME IN BLACK"
+     ]
+    },
+    {
+     "start": 31.933,
+     "end": 33.267,
+     "clip": "Fakes/hf_20261008_121416_7b9e65c5-f568-4817-8acb-e1a3fddcd9d6.mp4",
+     "folder": "Fakes",
+     "library": true,
+     "hook": false,
+     "src_in": 3.0,
+     "src_len": 1.333,
+     "speed": 1.0,
+     "zoom": 1.11,
+     "sound": false,
+     "lines": [
+      "RED FLAG NUMBER THREE"
+     ]
+    },
+    {
+     "start": 33.267,
+     "end": 36.4,
+     "clip": "Case/IMG_9945.MOV",
+     "folder": "Case",
+     "library": true,
+     "hook": false,
+     "src_in": 1.4,
+     "src_len": 3.76,
+     "speed": 1.2,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "EVERY REAL LUXELIGHT",
+      "COMES WITH ITS OWN CARRY CASE",
+      "FREE"
+     ]
+    },
+    {
+     "start": 36.4,
+     "end": 38.833,
+     "clip": "Fakes/IMG_8655.mov",
+     "folder": "Fakes",
+     "library": true,
+     "hook": false,
+     "src_in": 3.533,
+     "src_len": 2.433,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "THE COPYCATS SKIP IT",
+      "BECAUSE A CASE COSTS THEM MONEY"
+     ],
+     "action": {
+      "at": 36.52,
+      "kind": "gets darker",
+      "into_shot": 0.12,
+      "into_line": 0.12,
+      "line": "THE COPYCATS SKIP IT"
+     }
+    },
+    {
+     "start": 38.833,
+     "end": 39.533,
+     "clip": "Packaging/IMG_2731.MOV",
+     "folder": "Packaging",
+     "library": true,
+     "hook": false,
+     "src_in": 48.267,
+     "src_len": 0.7,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "EVERYTHING ELSE"
+     ]
+    },
+    {
+     "start": 39.533,
+     "end": 41.167,
+     "clip": "In Hands/IMG_2618.MOV",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.633,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "THE 230-DEGREE WIDE BEAM"
+     ],
+     "action": {
+      "at": 39.99,
+      "kind": "gets brighter",
+      "into_shot": 0.46,
+      "into_line": 0.46,
+      "line": "THE 230-DEGREE WIDE BEAM"
+     }
+    },
+    {
+     "start": 41.167,
+     "end": 42.0,
+     "clip": "Wave Sensor/copy_0DE3092E-F421-46BB-BDBE-1E6B37E15579.mov",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 20.033,
+     "src_len": 0.833,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "THE WAVE SENSOR"
+     ]
+    },
+    {
+     "start": 42.0,
+     "end": 42.967,
+     "clip": "Charging/IMG_9983.MOV",
+     "folder": "Charging",
+     "library": true,
+     "hook": false,
+     "src_in": 1.7,
+     "src_len": 0.967,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "THE 8-HOUR CHARGE"
+     ]
+    },
+    {
+     "start": 42.967,
+     "end": 44.733,
+     "clip": "Packaging/IMG_2731.MOV",
+     "folder": "Packaging",
+     "library": true,
+     "hook": false,
+     "src_in": 4.833,
+     "src_len": 1.767,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "THOSE ARE STANDARD",
+      "ON THE REAL LUXELIGHT"
+     ]
+    },
+    {
+     "start": 44.733,
+     "end": 47.767,
+     "clip": "Fakes/IMG_8641.mov",
+     "folder": "Fakes",
+     "library": true,
+     "hook": false,
+     "src_in": 6.6,
+     "src_len": 3.033,
+     "speed": 1.0,
+     "zoom": 1.8,
+     "sound": false,
+     "lines": [
+      "BUT THE AMAZON FAKES",
+      "SHIP CHEAP VERSIONS",
+      "THAT DON'T WORK PROPERLY"
+     ]
+    },
+    {
+     "start": 47.767,
+     "end": 48.5,
+     "clip": "Vs Other Headtorch/LuxeLight_body_2.mp4",
+     "folder": "Vs Other Headtorch",
+     "library": true,
+     "hook": false,
+     "src_in": 4.87,
+     "src_len": 0.66,
+     "speed": 0.9,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "WEAK BEAMS"
+     ]
+    },
+    {
+     "start": 48.5,
+     "end": 49.833,
+     "clip": "Fakes/hf_20261002_114903_5b398124-73bf-4bb8-a8b0-73a60bd5db27.mp4",
+     "folder": "Fakes",
+     "library": true,
+     "hook": false,
+     "src_in": 0.7,
+     "src_len": 1.333,
+     "speed": 1.0,
+     "zoom": 1.15,
+     "sound": false,
+     "lines": [
+      "SENSORS THAT STOP RESPONDING"
+     ]
+    },
+    {
+     "start": 49.833,
+     "end": 51.6,
+     "clip": "Fakes/hf_20261002_100835_cdb7d2ef-a701-49de-a516-688da640debd.mp4",
+     "folder": "Fakes",
+     "library": true,
+     "hook": false,
+     "src_in": 1.6,
+     "src_len": 1.767,
+     "speed": 1.0,
+     "zoom": 1.06,
+     "sound": false,
+     "lines": [
+      "AND HEADLAMPS THAT DIE",
+      "AFTER AN HOUR"
+     ]
+    },
+    {
+     "start": 51.6,
+     "end": 52.867,
+     "clip": "Packaging/IMG_3353.MOV",
+     "folder": "Packaging",
+     "library": true,
+     "hook": false,
+     "src_in": 1.5,
+     "src_len": 1.267,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "WE SOLD OUT LAST DECEMBER"
+     ]
+    },
+    {
+     "start": 52.867,
+     "end": 54.3,
+     "clip": "Packaging/IMG_7329 (1).mov",
+     "folder": "Packaging",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.147,
+     "speed": 0.8,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "AND WE'RE ALREADY",
+      "RUNNING LOW AGAIN"
+     ]
+    },
+    {
+     "start": 54.3,
+     "end": 55.733,
+     "clip": "Colour Swatches/IMG_8600.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 15.5,
+     "src_len": 1.433,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "THE LIMITED COLORS ARE GOING FIRST"
+     ]
+    },
+    {
+     "start": 55.733,
+     "end": 57.6,
+     "clip": "Xmas/IMG_3322.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 0.3,
+     "src_len": 1.867,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "AND WE'RE NOT RESTOCKING",
+      "BEFORE CHRISTMAS"
+     ]
+    },
+    {
+     "start": 57.6,
+     "end": 58.767,
+     "clip": "Colour Swatches/IMG_6592.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 6.067,
+     "src_len": 1.167,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "CLICK THE LINK IN THIS VIDEO"
+     ]
+    },
+    {
+     "start": 58.767,
+     "end": 60.533,
+     "clip": "Packaging/luxe light box.mov",
+     "folder": "Packaging",
+     "library": true,
+     "hook": false,
+     "src_in": 0.2,
+     "src_len": 1.767,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "TO GET THE REAL LUXELIGHT 2.0"
+     ]
+    },
+    {
+     "start": 60.533,
+     "end": 62.067,
+     "clip": "Wave Sensor/IMG_8834.mov",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 4.7,
+     "src_len": 1.84,
+     "speed": 1.2,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "50% OFF RIGHT NOW"
+     ],
+     "action": {
+      "at": 61.61,
+      "kind": "gets brighter",
+      "into_shot": 1.08,
+      "into_line": 1.08,
+      "line": "50% OFF RIGHT NOW"
+     }
+    },
+    {
+     "start": 62.067,
+     "end": 63.667,
+     "clip": "Case/LuxeLight - V2 - B-roll - No-Subs.mov",
+     "folder": "Case",
+     "library": true,
+     "hook": false,
+     "src_in": 52.533,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "WITH THE FREE CASE IN EVERY ORDER"
+     ]
+    },
+    {
+     "start": 63.667,
+     "end": 66.5,
+     "clip": "Red Light/IMG_8695.mov",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 4.2,
+     "src_len": 2.833,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "SHOP NOW FOR UP TO 50% OFF 🎁"
+     ]
+    }
+   ],
+   "sfx": [
+    {
+     "at": 2.6,
+     "name": "Turn the paper / page [note] # 1(182352)",
+     "level": 1.0,
+     "caption": null
+    },
+    {
+     "at": 20.933,
+     "name": "Wrong answer",
+     "level": 0.4,
+     "caption": "THE AMAZON COPYCATS"
+    },
+    {
+     "at": 3.767,
+     "name": "Pop. Sound to open the lid, stopper, cap (high)",
+     "level": 0.65,
+     "caption": "RED FLAG NUMBER ONE"
+    },
+    {
+     "at": 6.667,
+     "name": "Fuwa: short wind noise: swipe etc",
+     "level": 1.75,
+     "caption": "HAS A RED LIGHT MODE"
+    },
+    {
+     "at": 22.967,
+     "name": "Pop. Sound to open the lid, stopper, cap (high)",
+     "level": 0.65,
+     "caption": "RED FLAG NUMBER TWO"
+    },
+    {
+     "at": 31.933,
+     "name": "Pop. Sound to open the lid, stopper, cap (high)",
+     "level": 0.65,
+     "caption": "RED FLAG NUMBER THREE"
+    },
+    {
+     "at": 63.667,
+     "name": "Click_Mouse_Click_02(864360)",
+     "level": 0.43,
+     "caption": "SHOP NOW FOR UP TO 50% OFF 🎁"
+    }
+   ],
+   "project": "3 Red Flags STYLE 3 - V1 - Ferg",
+   "hook_end": 3.767
+  },
+  "XMASFAM": {
+   "captions": 63,
+   "shots": [
+    {
+     "start": 0.0,
+     "end": 2.8,
+     "clip": "~/Downloads/FORMAT-vertical-9-16-7-seconds-courie.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": true,
+     "src_in": 0.3,
+     "src_len": 2.8,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "Last-minute gift or genius move? 🤔"
+     ]
+    },
+    {
+     "start": 2.8,
+     "end": 4.933,
+     "clip": "hf_20261104_140940_20fdbb92-d544-4c3e-9539-fc5f70adc842.mp4",
+     "folder": "hf_20261104_140940_20fdbb92-d544-4c3e-9539-fc5f70adc842.mp4",
+     "library": true,
+     "hook": true,
+     "src_in": 11.133,
+     "src_len": 2.133,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": [
+      "Last-minute gift or genius move? 🤔"
+     ],
+     "action": {
+      "at": 3.67,
+      "kind": "gets brighter",
+      "into_shot": 0.88,
+      "into_line": 3.67,
+      "line": "Last-minute gift or genius move? 🤔"
+     }
+    },
+    {
+     "start": 4.933,
+     "end": 6.067,
+     "clip": "In Hands/IMG_2618.MOV",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.133,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "I've used my LuxeLight"
+     ],
+     "action": {
+      "at": 5.39,
+      "kind": "gets brighter",
+      "into_shot": 0.46,
+      "into_line": 0.46,
+      "line": "I've used my LuxeLight"
+     }
+    },
+    {
+     "start": 6.067,
+     "end": 7.6,
+     "clip": "Working on Car/IMG_2711.MOV",
+     "folder": "Working on Car",
+     "library": true,
+     "hook": false,
+     "src_in": 25.567,
+     "src_len": 1.533,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "every single day",
+      "since I got it"
+     ]
+    },
+    {
+     "start": 7.6,
+     "end": 8.5,
+     "clip": "Xmas/IMG_6683.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 3.6,
+     "src_len": 0.9,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so this Christmas"
+     ]
+    },
+    {
+     "start": 8.5,
+     "end": 9.8,
+     "clip": "Xmas/IMG_3322.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 0.1,
+     "src_len": 1.3,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "she bought one for everybody"
+     ]
+    },
+    {
+     "start": 9.8,
+     "end": 12.3,
+     "clip": "hf_20261107_160553_267e146c-f015-4171-832f-31c92c0573c7.mp4",
+     "folder": "hf_20261107_160553_267e146c-f015-4171-832f-31c92c0573c7.mp4",
+     "library": true,
+     "hook": false,
+     "src_in": 0.933,
+     "src_len": 2.5,
+     "speed": 1.0,
+     "zoom": 1.19,
+     "sound": false,
+     "lines": [
+      "and it nearly ruined Christmas Day",
+      "let me explain"
+     ]
+    },
+    {
+     "start": 12.3,
+     "end": 13.267,
+     "clip": "Outside Torch DARK/copy_E531449E-1557-42E7-B4AE-644A4337579E.mov",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 14.8,
+     "src_len": 0.967,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "first thing her dad did"
+     ]
+    },
+    {
+     "start": 13.267,
+     "end": 14.8,
+     "clip": "Outside Torch DARK/copy_32B103BD-7776-49AA-A3F8-1ED24F313CF5.mov",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.533,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "was take his out to the backyard"
+     ]
+    },
+    {
+     "start": 14.8,
+     "end": 16.567,
+     "clip": "Outside Torch DARK/IMG_2514.MOV",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.767,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "with the 230-degree beam"
+     ]
+    },
+    {
+     "start": 16.567,
+     "end": 17.967,
+     "clip": "Outside Torch DARK/4426D861-8647-40AE-831E-914185AC57CB.mov",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 0.233,
+     "src_len": 1.4,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "the whole yard lit up"
+     ],
+     "action": {
+      "at": 16.69,
+      "kind": "gets brighter",
+      "into_shot": 0.12,
+      "into_line": 0.13,
+      "line": "the whole yard lit up"
+     }
+    },
+    {
+     "start": 17.967,
+     "end": 20.4,
+     "clip": "Vs Other Headtorch/IMG_9975.MOV",
+     "folder": "Vs Other Headtorch",
+     "library": true,
+     "hook": false,
+     "src_in": 13.1,
+     "src_len": 2.433,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "not the narrow little spotlight",
+      "his old headlamp gives him"
+     ]
+    },
+    {
+     "start": 20.4,
+     "end": 21.8,
+     "clip": "Outside Torch DARK/snaptik_7461349711644069152_v2 (1).mp4",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 26.6,
+     "src_len": 1.4,
+     "speed": 1.0,
+     "zoom": 1.33,
+     "sound": false,
+     "lines": [
+      "then he pressed the button once"
+     ]
+    },
+    {
+     "start": 21.8,
+     "end": 23.3,
+     "clip": "Outside Torch DARK/snaptik_7461349711644069152_v2 (1).mp4",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 30.833,
+     "src_len": 2.1,
+     "speed": 1.4,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "to switch on the wave sensor mode"
+     ],
+     "action": {
+      "at": 22.72,
+      "kind": "gets brighter",
+      "into_shot": 0.92,
+      "into_line": 0.92,
+      "line": "to switch on the wave sensor mode"
+     }
+    },
+    {
+     "start": 23.3,
+     "end": 25.0,
+     "clip": "Wave Sensor/588C2E7C-5F30-4145-B7E0-EBE027E810A7.mov",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 2.367,
+     "src_len": 1.7,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "now one wave turns it on"
+     ],
+     "action": {
+      "at": 23.84,
+      "kind": "gets brighter",
+      "into_shot": 0.54,
+      "into_line": 0.54,
+      "line": "now one wave turns it on"
+     }
+    },
+    {
+     "start": 25.0,
+     "end": 26.6,
+     "clip": "Wave Sensor/IMG_2718.MOV",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 3.533,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "even with his hands full",
+      "of fishing gear"
+     ],
+     "action": {
+      "at": 25.96,
+      "kind": "gets brighter",
+      "into_shot": 0.96,
+      "into_line": 0.13,
+      "line": "of fishing gear"
+     }
+    },
+    {
+     "start": 26.6,
+     "end": 28.567,
+     "clip": "Red Light/IMG_6618.MOV",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 18.967,
+     "src_len": 1.967,
+     "speed": 1.0,
+     "zoom": 1.12,
+     "sound": true,
+     "lines": [
+      "and before sunrise",
+      "he flicks it to red"
+     ],
+     "action": {
+      "at": 27.39,
+      "kind": "gets darker",
+      "into_shot": 0.79,
+      "into_line": 0.79,
+      "line": "and before sunrise"
+     }
+    },
+    {
+     "start": 28.567,
+     "end": 30.967,
+     "clip": "Campers/m2-res_854p.mp4",
+     "folder": "Campers",
+     "library": true,
+     "hook": false,
+     "src_in": 3.233,
+     "src_len": 2.4,
+     "speed": 1.0,
+     "zoom": 1.2,
+     "sound": false,
+     "lines": [
+      "unlike white light",
+      "red keeps the bugs out of his face"
+     ],
+     "action": {
+      "at": 29.36,
+      "kind": "gets brighter",
+      "into_shot": 0.79,
+      "into_line": 0.79,
+      "line": "unlike white light"
+     }
+    },
+    {
+     "start": 30.967,
+     "end": 32.3,
+     "clip": "Red Light/IMG_6612.MOV",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 10.867,
+     "src_len": 1.333,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "and doesn't wreck his night vision"
+     ]
+    },
+    {
+     "start": 32.3,
+     "end": 33.733,
+     "clip": "Delivery Drivers/5-second-photorealistic-handheld-iPhone (3).mp4",
+     "folder": "Delivery Drivers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.533,
+     "src_len": 1.433,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "her brother drives for Amazon"
+     ]
+    },
+    {
+     "start": 33.733,
+     "end": 34.833,
+     "clip": "Delivery Drivers/hf_20261109_200711_cb4f81d9-36d2-4b12-9d74-e209e58feeae.mp4",
+     "folder": "Delivery Drivers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.1,
+     "src_len": 1.1,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and it's dark by four"
+     ]
+    },
+    {
+     "start": 34.833,
+     "end": 36.333,
+     "clip": "Outside Torch DARK/IMG_7245.mov",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 7.6,
+     "src_len": 1.5,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "now he can read the house numbers"
+     ]
+    },
+    {
+     "start": 36.333,
+     "end": 37.267,
+     "clip": "Delivery Drivers/hf_20261109_193718_9a42324f-0e32-4189-87d5-8568460c4193.mp4",
+     "folder": "Delivery Drivers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.933,
+     "src_len": 1.027,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and see the porch steps"
+     ]
+    },
+    {
+     "start": 37.267,
+     "end": 38.367,
+     "clip": "Delivery Drivers/hf_20261109_175810_f1eb9877-9233-4229-84dc-1f66dbbdb469.mp4",
+     "folder": "Delivery Drivers",
+     "library": true,
+     "hook": false,
+     "src_in": 3.033,
+     "src_len": 1.1,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "without his phone in his hand"
+     ]
+    },
+    {
+     "start": 38.367,
+     "end": 40.9,
+     "clip": "Durability/IMG_8777 (1).mov",
+     "folder": "Durability",
+     "library": true,
+     "hook": false,
+     "src_in": 4.267,
+     "src_len": 2.533,
+     "speed": 1.0,
+     "zoom": 1.13,
+     "sound": true,
+     "lines": [
+      "he even poured a bottle of water over it",
+      "to see if it'd survive"
+     ]
+    },
+    {
+     "start": 40.9,
+     "end": 42.5,
+     "clip": "Durability/IMG_8777 (1).mov",
+     "folder": "Durability",
+     "library": true,
+     "hook": false,
+     "src_in": 9.433,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "still lit",
+      "it's water resistant"
+     ],
+     "action": {
+      "at": 41.52,
+      "kind": "gets darker",
+      "into_shot": 0.62,
+      "into_line": 0.62,
+      "line": "still lit"
+     }
+    },
+    {
+     "start": 42.5,
+     "end": 44.067,
+     "clip": "Durability/IMG_7299.mov",
+     "folder": "Durability",
+     "library": true,
+     "hook": false,
+     "src_in": 3.567,
+     "src_len": 3.133,
+     "speed": 2.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so rain on his route",
+      "won't stop it"
+     ]
+    },
+    {
+     "start": 44.067,
+     "end": 45.5,
+     "clip": "Dog Walkers/IMG_2707.MOV",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 10.567,
+     "src_len": 1.433,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "her mom took the dogs out that night"
+     ]
+    },
+    {
+     "start": 45.5,
+     "end": 47.2,
+     "clip": "Dog Walkers/LuxeLight - Dog Walking - No Subs.mov",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 16.867,
+     "src_len": 1.7,
+     "speed": 1.0,
+     "zoom": 1.44,
+     "sound": false,
+     "lines": [
+      "and came back still wearing hers"
+     ]
+    },
+    {
+     "start": 47.2,
+     "end": 48.667,
+     "clip": "Dog Walkers/LuxeLight - Dog Walking - No Subs.mov",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 91.4,
+     "src_len": 2.053,
+     "speed": 1.4,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "said she forgot",
+      "it was even on her head"
+     ]
+    },
+    {
+     "start": 48.667,
+     "end": 50.533,
+     "clip": "~/Downloads/hf_20261104_063011_5c456053-ba90-4917-bc41-08f9f5b5047a.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.867,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so what nearly ruined Christmas?"
+     ]
+    },
+    {
+     "start": 50.533,
+     "end": 52.4,
+     "clip": "~/Downloads/hf_20261027_120028_eff2c359-8a2f-4e8e-8b76-04a07384dae8.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 3.433,
+     "src_len": 2.053,
+     "speed": 1.1,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "everybody was fighting",
+      "over the colors"
+     ]
+    },
+    {
+     "start": 52.4,
+     "end": 54.9,
+     "clip": "Colour Swatches/hf_20261030_191637_9db0e841-dc8d-450a-acde-e7a3152be7f4.mp4",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.75,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "she'd bought black",
+      "pink",
+      "orange",
+      "and camo"
+     ]
+    },
+    {
+     "start": 54.9,
+     "end": 56.7,
+     "clip": "~/Downloads/hf_20261030_184359_7f19ff53-9f96-4602-8dc7-e4777b86c88a (1).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.16,
+     "speed": 1.2,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": [
+      "and nobody could agree",
+      "who got which"
+     ]
+    },
+    {
+     "start": 56.7,
+     "end": 57.967,
+     "clip": "Charging/IMG_9983.MOV",
+     "folder": "Charging",
+     "library": true,
+     "hook": false,
+     "src_in": 1.767,
+     "src_len": 1.267,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "they charge by USB"
+     ]
+    },
+    {
+     "start": 56.933,
+     "end": 57.967,
+     "clip": "~/Documents/sound fx/snaptik_7353684892024147206_v3 (1).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 11.967,
+     "src_len": 1.033,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "they charge by USB"
+     ]
+    },
+    {
+     "start": 57.967,
+     "end": 58.8,
+     "clip": "Working in Garage/IMG_9957.MOV",
+     "folder": "Working in Garage",
+     "library": true,
+     "hook": false,
+     "src_in": 3.067,
+     "src_len": 0.833,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "last eight hours"
+     ]
+    },
+    {
+     "start": 58.8,
+     "end": 60.833,
+     "clip": "Case/IMG_9945.MOV",
+     "folder": "Case",
+     "library": true,
+     "hook": false,
+     "src_in": 1.367,
+     "src_len": 2.237,
+     "speed": 1.1,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "and every one comes",
+      "with a free travel case"
+     ]
+    },
+    {
+     "start": 60.833,
+     "end": 62.3,
+     "clip": "Photorealistic-candid-smartphone-UGC-vid.mp4",
+     "folder": "Photorealistic-candid-smartphone-UGC-vid.mp4",
+     "library": true,
+     "hook": false,
+     "src_in": 0.567,
+     "src_len": 1.467,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "here's the thing",
+      "nobody asks"
+     ]
+    },
+    {
+     "start": 62.3,
+     "end": 63.6,
+     "clip": "Photorealistic-candid-smartphone-UGC-vid (3).mp4",
+     "folder": "Photorealistic-candid-smartphone-UGC-vid (3).mp4",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.3,
+     "speed": 1.0,
+     "zoom": 1.17,
+     "sound": false,
+     "lines": [
+      "for a headlamp",
+      "for Christmas"
+     ]
+    },
+    {
+     "start": 63.6,
+     "end": 64.933,
+     "clip": "Campers/IMG_6464.MOV",
+     "folder": "Campers",
+     "library": true,
+     "hook": false,
+     "src_in": 1.5,
+     "src_len": 1.333,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "but it's the most practical gift"
+     ]
+    },
+    {
+     "start": 64.933,
+     "end": 66.267,
+     "clip": "Working in house/IMG_9952.MOV",
+     "folder": "Working in house",
+     "library": true,
+     "hook": false,
+     "src_in": 17.633,
+     "src_len": 1.333,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "they'll use all year round"
+     ]
+    },
+    {
+     "start": 66.267,
+     "end": 67.633,
+     "clip": "Packaging/IMG_7329 (1).mov",
+     "folder": "Packaging",
+     "library": true,
+     "hook": false,
+     "src_in": 0.067,
+     "src_len": 1.367,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "stock's already running low"
+     ]
+    },
+    {
+     "start": 67.633,
+     "end": 68.767,
+     "clip": "Red Light/04RedLight.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 3.867,
+     "src_len": 1.473,
+     "speed": 1.3,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and with Black Friday coming"
+     ]
+    },
+    {
+     "start": 68.767,
+     "end": 70.267,
+     "clip": "Packaging/hf_20261003_130725_0b40f7fa-5eda-4f2a-804a-6208d4b906a7.mp4",
+     "folder": "Packaging",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.5,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": [
+      "nobody knows",
+      "how long they'll last"
+     ]
+    },
+    {
+     "start": 70.267,
+     "end": 72.033,
+     "clip": "~/Downloads/hf_20261104_074539_716b63d0-0041-49d6-9a34-e8401177d455.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.767,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "right now they're up to 50% off"
+     ]
+    },
+    {
+     "start": 72.033,
+     "end": 75.167,
+     "clip": "Colour Swatches/IMG_8600.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 3.0,
+     "src_len": 3.133,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": []
+    }
+   ],
+   "sfx": [
+    {
+     "at": 20.833,
+     "name": "Click sound / mouse / PC / 1 time(1094791)",
+     "level": 1.0,
+     "caption": "then he pressed the button once"
+    },
+    {
+     "at": 21.8,
+     "name": "Wave",
+     "level": 0.37,
+     "caption": "to switch on the wave sensor mode"
+    },
+    {
+     "at": 22.767,
+     "name": "Wave",
+     "level": 0.37,
+     "caption": "to switch on the wave sensor mode"
+    },
+    {
+     "at": 27.3,
+     "name": "Click Mechanical Keyboard 10",
+     "level": 1.0,
+     "caption": "and before sunrise"
+    },
+    {
+     "at": 28.567,
+     "name": "Drip Drip, the Wrong Answer",
+     "level": 0.37,
+     "caption": "unlike white light"
+    },
+    {
+     "at": 30.967,
+     "name": "Correct answer Piropyrone (Standard)",
+     "level": 0.37,
+     "caption": "and doesn't wreck his night vision"
+    },
+    {
+     "at": 40.9,
+     "name": "Follow/like notification ding",
+     "level": 1.0,
+     "caption": "still lit"
+    },
+    {
+     "at": 72.033,
+     "name": "[Sound effect] Correct answer good!(963433)",
+     "level": 0.63,
+     "caption": null
+    },
+    {
+     "at": 73.567,
+     "name": "Click_Mouse_Click_02(864360)",
+     "level": 1.0,
+     "caption": null
+    }
+   ],
+   "project": "Xmas Gift Family - V1 - Ferg",
+   "hook_end": 4.933
+  },
+  "GIFTGIVER2": {
+   "captions": 53,
+   "shots": [
+    {
+     "start": 0.0,
+     "end": 4.033,
+     "clip": "~/Downloads/Realistic-candid-smartphone-video-verti (1).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": true,
+     "src_in": 0.0,
+     "src_len": 4.033,
+     "speed": 1.0,
+     "zoom": 1.13,
+     "sound": false,
+     "lines": []
+    },
+    {
+     "start": 4.033,
+     "end": 5.333,
+     "clip": "~/Downloads/FORMAT-vertical-9-16-6-seconds-candid (1).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 2.3,
+     "src_len": 1.3,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "let me rewind a few weeks"
+     ]
+    },
+    {
+     "start": 5.333,
+     "end": 6.967,
+     "clip": "~/Downloads/hf_20261116_152728_ab056f76-1dee-4362-91eb-9a3b02b82c3d.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.633,
+     "speed": 1.0,
+     "zoom": 1.19,
+     "sound": false,
+     "lines": [
+      "every night",
+      "I stitch on the sofa"
+     ]
+    },
+    {
+     "start": 6.967,
+     "end": 9.433,
+     "clip": "~/Downloads/hf_20261116_153832_32c3c917-d8eb-4848-b92f-0add11169a5a.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 1.067,
+     "src_len": 2.467,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and by 8 o'clock",
+      "I'm squinting at my own needle"
+     ]
+    },
+    {
+     "start": 9.433,
+     "end": 10.467,
+     "clip": "~/Downloads/snaptik_7177562833134112046_v3.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 5.733,
+     "src_len": 1.033,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so before I wrapped"
+     ]
+    },
+    {
+     "start": 10.467,
+     "end": 12.1,
+     "clip": "~/Downloads/snaptik_7177562833134112046_v3.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 15.9,
+     "src_len": 1.633,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "a single thing for anyone else"
+     ]
+    },
+    {
+     "start": 12.1,
+     "end": 13.7,
+     "clip": "Xmas/IMG_6683.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 3.067,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "I bought myself a LuxeLight"
+     ]
+    },
+    {
+     "start": 13.7,
+     "end": 15.333,
+     "clip": "Stitching/IMG_8602.MOV",
+     "folder": "Stitching",
+     "library": true,
+     "hook": false,
+     "src_in": 1.467,
+     "src_len": 1.633,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "the light follows wherever I look"
+     ]
+    },
+    {
+     "start": 15.333,
+     "end": 16.867,
+     "clip": "Stitching/IMG_8604.MOV",
+     "folder": "Stitching",
+     "library": true,
+     "hook": false,
+     "src_in": 0.9,
+     "src_len": 1.533,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and both hands stay on the needle"
+     ]
+    },
+    {
+     "start": 16.867,
+     "end": 19.4,
+     "clip": "~/Downloads/IMG_2589.MOV",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 6.6,
+     "src_len": 2.533,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "my husband said I looked like",
+      "I was heading down a coal mine"
+     ]
+    },
+    {
+     "start": 19.4,
+     "end": 20.7,
+     "clip": "hf_20261104_115354_440f4cb6-f08c-4d47-965a-20a2b816d1ba.mp4",
+     "folder": "hf_20261104_115354_440f4cb6-f08c-4d47-965a-20a2b816d1ba.mp4",
+     "library": true,
+     "hook": false,
+     "src_in": 14.433,
+     "src_len": 1.3,
+     "speed": 1.0,
+     "zoom": 1.72,
+     "sound": false,
+     "lines": [
+      "then he tried it on"
+     ]
+    },
+    {
+     "start": 20.7,
+     "end": 22.467,
+     "clip": "~/Downloads/hf_20261116_155553_a5ceb166-da81-41e1-afd0-8ea7c8fc1c0a.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 3.133,
+     "src_len": 1.767,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "how is this so bright?"
+     ]
+    },
+    {
+     "start": 22.467,
+     "end": 23.967,
+     "clip": "In Hands/IMG_1717.mov",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 3.967,
+     "src_len": 1.5,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "by the weekend",
+      "it was gone"
+     ]
+    },
+    {
+     "start": 23.967,
+     "end": 24.7,
+     "clip": "Photorealistic-candid-smartphone-UGC-vid (4).mp4",
+     "folder": "Photorealistic-candid-smartphone-UGC-vid (4).mp4",
+     "library": true,
+     "hook": false,
+     "src_in": 2.967,
+     "src_len": 0.733,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "let me explain"
+     ]
+    },
+    {
+     "start": 24.7,
+     "end": 25.8,
+     "clip": "Campers/hf_20261029_130509_9df12f5f-6ca5-40ba-a2ca-d2ea4ecdb318.mp4",
+     "folder": "Campers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.1,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "he'd taken it hunting"
+     ]
+    },
+    {
+     "start": 25.8,
+     "end": 28.1,
+     "clip": "Red Light/IMG_6618.MOV",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 18.667,
+     "src_len": 2.3,
+     "speed": 1.0,
+     "zoom": 1.09,
+     "sound": true,
+     "lines": [
+      "he switches it from white to red",
+      "for the walk-in"
+     ],
+     "action": {
+      "at": 26.84,
+      "kind": "gets darker",
+      "into_shot": 1.04,
+      "into_line": 1.04,
+      "line": "he switches it from white to red"
+     }
+    },
+    {
+     "start": 28.1,
+     "end": 29.667,
+     "clip": "~/Downloads/FORMAT-vertical-9-16-6-seconds-candid.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.32,
+     "src_len": 1.88,
+     "speed": 1.2,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "the red light doesn't spook the deer"
+     ]
+    },
+    {
+     "start": 29.667,
+     "end": 30.867,
+     "clip": "Red Light/hf_20261029_125907_b8fd5835-a079-435f-9b65-ebc9c49dd82c.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 1.2,
+     "src_len": 1.2,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "it protects his night vision"
+     ]
+    },
+    {
+     "start": 30.867,
+     "end": 32.5,
+     "clip": "Red Light/hf_20261029_125907_c882e18e-5c3a-49f1-b662-6763ec767c95.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 0.7,
+     "src_len": 1.633,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and it keeps the bugs out of his face"
+     ]
+    },
+    {
+     "start": 32.5,
+     "end": 33.333,
+     "clip": "~/Downloads/hf_20261029_130511_b1e58174-36e7-4978-a90f-a3ca488b9770.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 0.833,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "on the way back"
+     ]
+    },
+    {
+     "start": 33.333,
+     "end": 34.833,
+     "clip": "In Hands/IMG_2618.MOV",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.5,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "the 230-degree beam"
+     ],
+     "action": {
+      "at": 33.79,
+      "kind": "gets brighter",
+      "into_shot": 0.46,
+      "into_line": 0.46,
+      "line": "the 230-degree beam"
+     }
+    },
+    {
+     "start": 34.833,
+     "end": 37.667,
+     "clip": "Outside Torch DARK/4426D861-8647-40AE-831E-914185AC57CB.mov",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.833,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "lights the whole trail",
+      "not a little circle at his boots"
+     ],
+     "action": {
+      "at": 35.12,
+      "kind": "gets brighter",
+      "into_shot": 0.29,
+      "into_line": 0.29,
+      "line": "lights the whole trail"
+     }
+    },
+    {
+     "start": 37.667,
+     "end": 39.033,
+     "clip": "Wave Sensor/copy_8BEF55CC-E716-4408-B8CD-4BBB2CE50FF9.mov",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 1.1,
+     "src_len": 1.367,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and the wave sensor only works"
+     ],
+     "action": {
+      "at": 37.96,
+      "kind": "gets darker",
+      "into_shot": 0.29,
+      "into_line": 0.29,
+      "line": "and the wave sensor only works"
+     }
+    },
+    {
+     "start": 39.033,
+     "end": 40.067,
+     "clip": "Outside Torch DARK/snaptik_7461349711644069152_v2 (1).mp4",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 26.533,
+     "src_len": 1.033,
+     "speed": 1.0,
+     "zoom": 1.38,
+     "sound": false,
+     "lines": [
+      "when he turns it on"
+     ]
+    },
+    {
+     "start": 40.067,
+     "end": 41.367,
+     "clip": "Wave Sensor/Snaptik.app_7441625542597594400.mp4",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 0.467,
+     "src_len": 1.3,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so a branch brushing past"
+     ]
+    },
+    {
+     "start": 41.367,
+     "end": 42.333,
+     "clip": "Red Light/04RedLight.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 0.833,
+     "src_len": 0.967,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "won't switch his light off"
+     ]
+    },
+    {
+     "start": 42.333,
+     "end": 43.767,
+     "clip": "Dog Walkers/LuxeLight - Dog Walking - No Subs.mov",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 90.5,
+     "src_len": 1.433,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "next it was my sister's"
+     ]
+    },
+    {
+     "start": 43.767,
+     "end": 46.233,
+     "clip": "~/Downloads/Realistic-candid-smartphone-video-verti.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.767,
+     "src_len": 2.467,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "reading in bed on red",
+      "without waking her husband"
+     ]
+    },
+    {
+     "start": 46.233,
+     "end": 48.533,
+     "clip": "Wave Sensor/LeeAnn Headtorch.mp4",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 30.0,
+     "src_len": 2.3,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "then my mom started taking it",
+      "on her evening dog walks"
+     ]
+    },
+    {
+     "start": 48.533,
+     "end": 49.467,
+     "clip": "Wave Sensor/LeeAnn Headtorch.mp4",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 24.967,
+     "src_len": 0.933,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "leash in one hand"
+     ]
+    },
+    {
+     "start": 49.467,
+     "end": 50.267,
+     "clip": "Wave Sensor/LeeAnn Headtorch.mp4",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 34.8,
+     "src_len": 0.8,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "treats in the other"
+     ]
+    },
+    {
+     "start": 50.267,
+     "end": 52.233,
+     "clip": "Dog Walkers/LuxeLight - Dog Walking - No Subs.mov",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 31.067,
+     "src_len": 1.967,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and she can see every crack",
+      "in the sidewalk"
+     ],
+     "action": {
+      "at": 50.39,
+      "kind": "gets darker",
+      "into_shot": 0.12,
+      "into_line": 0.13,
+      "line": "and she can see every crack"
+     }
+    },
+    {
+     "start": 52.233,
+     "end": 53.633,
+     "clip": "Realistic-top-down-smartphone-video-ver.mp4",
+     "folder": "Realistic-top-down-smartphone-video-ver.mp4",
+     "library": true,
+     "hook": false,
+     "src_in": 1.6,
+     "src_len": 1.4,
+     "speed": 1.0,
+     "zoom": 1.13,
+     "sound": true,
+     "lines": [
+      "so I stopped lending it out"
+     ]
+    },
+    {
+     "start": 53.633,
+     "end": 54.967,
+     "clip": "Photorealistic-candid-smartphone-UGC-vid.mp4",
+     "folder": "Photorealistic-candid-smartphone-UGC-vid.mp4",
+     "library": true,
+     "hook": false,
+     "src_in": 0.367,
+     "src_len": 1.333,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and bought each of them their own"
+     ]
+    },
+    {
+     "start": 54.967,
+     "end": 56.767,
+     "clip": "Xmas/IMG_3321.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 7.833,
+     "src_len": 1.8,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "plus two more",
+      "for the guys at his deer camp"
+     ]
+    },
+    {
+     "start": 56.767,
+     "end": 58.5,
+     "clip": "Stitching/hf_20261027_212004_01455d53-4b35-4e31-b47e-63b8a2b18bbe (1).mp4",
+     "folder": "Stitching",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.733,
+     "speed": 1.0,
+     "zoom": 1.19,
+     "sound": true,
+     "lines": [
+      "mine's back",
+      "hidden where it belongs"
+     ]
+    },
+    {
+     "start": 58.5,
+     "end": 59.933,
+     "clip": "Colour Swatches/IMG_6565.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 1.7,
+     "src_len": 1.433,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "nobody's touching the pink one"
+     ],
+     "action": {
+      "at": 59.04,
+      "kind": "gets darker",
+      "into_shot": 0.54,
+      "into_line": 0.54,
+      "line": "nobody's touching the pink one"
+     }
+    },
+    {
+     "start": 59.933,
+     "end": 61.5,
+     "clip": "Charging/IMG_9983.MOV",
+     "folder": "Charging",
+     "library": true,
+     "hook": false,
+     "src_in": 1.833,
+     "src_len": 1.567,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "they charge by USB-C"
+     ]
+    },
+    {
+     "start": 61.5,
+     "end": 63.533,
+     "clip": "Case/IMG_9945.MOV",
+     "folder": "Case",
+     "library": true,
+     "hook": false,
+     "src_in": 1.633,
+     "src_len": 2.033,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "and every one comes",
+      "in a free travel case"
+     ]
+    },
+    {
+     "start": 63.533,
+     "end": 65.633,
+     "clip": "Outside Torch DARK/IMG_6597.MOV",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 3.867,
+     "src_len": 2.1,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "right now they're up to 50% off"
+     ],
+     "action": {
+      "at": 64.16,
+      "kind": "gets brighter",
+      "into_shot": 0.62,
+      "into_line": 0.62,
+      "line": "right now they're up to 50% off"
+     }
+    },
+    {
+     "start": 65.633,
+     "end": 67.867,
+     "clip": "Dog Walkers/IMG_2567.MOV",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.233,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "which is the only reason",
+      "I could get one for everyone"
+     ]
+    },
+    {
+     "start": 67.867,
+     "end": 70.4,
+     "clip": "~/Downloads/hf_20261030_184359_7f19ff53-9f96-4602-8dc7-e4777b86c88a (2).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.533,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": []
+    },
+    {
+     "start": 70.4,
+     "end": 72.767,
+     "clip": "Colour Swatches/IMG_8600.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 2.2,
+     "src_len": 2.367,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": []
+    }
+   ],
+   "sfx": [
+    {
+     "at": 39.267,
+     "name": "Click (small button sound) D(971927)",
+     "level": 1.0,
+     "caption": "when he turns it on"
+    },
+    {
+     "at": 67.867,
+     "name": "[Sound effect] Correct answer good!(963433)",
+     "level": 0.5,
+     "caption": null
+    },
+    {
+     "at": 63.533,
+     "name": "ElevenLabs_2026-11-16T13_45_57_gift giver 2_ivc_s50_sim75_v4 (mp3cut.net).mp3",
+     "level": 1.0,
+     "caption": "right now they're up to 50% off"
+    },
+    {
+     "at": 65.633,
+     "name": "ElevenLabs_2026-11-16T13_45_57_gift giver 2_ivc_s50_sim75_v4 (mp3cut.net).mp3",
+     "level": 1.0,
+     "caption": "which is the only reason"
+    },
+    {
+     "at": 67.867,
+     "name": "ElevenLabs_2026-11-16T13_45_57_gift giver 2_ivc_s50_sim75_v4 (mp3cut.net).mp3",
+     "level": 1.0,
+     "caption": null
+    },
+    {
+     "at": 70.4,
+     "name": "ElevenLabs_2026-11-16T13_45_57_gift giver 2_ivc_s50_sim75_v4 (mp3cut.net).mp3",
+     "level": 1.0,
+     "caption": null
+    },
+    {
+     "at": 70.4,
+     "name": "whoosh_large.mp3",
+     "level": 0.51,
+     "caption": null
+    }
+   ],
+   "project": "Gift Giver 2 - V1 - Ferg",
+   "hook_end": 4.033
+  },
+  "WONXMAS": {
+   "captions": 81,
+   "shots": [
+    {
+     "start": 0.0,
+     "end": 3.167,
+     "clip": "~/Documents/sume-realistic-candid-iphone-video-vertical-9-16-comp (3).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": true,
+     "src_in": 1.467,
+     "src_len": 3.8,
+     "speed": 1.2,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "The gift that made me the favourite again 🫶🎁"
+     ]
+    },
+    {
+     "start": 3.167,
+     "end": 5.167,
+     "clip": "~/Documents/hf_20261117_132001_ef3403d7-2536-4920-b756-6654fdd66775.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": true,
+     "src_in": 0.867,
+     "src_len": 2.0,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "The gift that made me the favourite again 🫶🎁"
+     ]
+    },
+    {
+     "start": 5.167,
+     "end": 5.9,
+     "clip": "~/Documents/sume-realistic-candid-iphone-video-vertical-9-16-comp.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 5.067,
+     "src_len": 0.733,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "here's how I did it"
+     ]
+    },
+    {
+     "start": 5.9,
+     "end": 7.9,
+     "clip": "Xmas/snaptik_7582326089033338125_v3.mp4",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 44.167,
+     "src_len": 2.0,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "my gifts are always",
+      "the safe ones"
+     ]
+    },
+    {
+     "start": 7.9,
+     "end": 8.833,
+     "clip": "Xmas/hf_20260924_234558_e6d7dc9c-1c66-44b7-b070-0aef126e3e84.mp4",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 1.033,
+     "src_len": 0.933,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": [
+      "a nice shirt"
+     ]
+    },
+    {
+     "start": 8.833,
+     "end": 9.7,
+     "clip": "Random BROLL/8936090723938079377-a.mp4",
+     "folder": "Random BROLL",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 0.867,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "a gift card"
+     ],
+     "action": {
+      "at": 9.29,
+      "kind": "gets brighter",
+      "into_shot": 0.46,
+      "into_line": 0.46,
+      "line": "a gift card"
+     }
+    },
+    {
+     "start": 9.7,
+     "end": 10.4,
+     "clip": "~/Documents/sume_20261118-184141_realistic-candid-smartphone_ab60f470.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 5.967,
+     "src_len": 0.84,
+     "speed": 1.2,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "\"thanks, Mom\""
+     ]
+    },
+    {
+     "start": 10.4,
+     "end": 11.833,
+     "clip": "Xmas/Photorealistic-candid-smartphone-UGC-vid (4).mp4",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 2.267,
+     "src_len": 1.433,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and it's in a drawer",
+      "by New Year's"
+     ]
+    },
+    {
+     "start": 11.833,
+     "end": 13.433,
+     "clip": "~/Documents/sume-realistic-candid-iphone-video-vertical-9-16-comp (1).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.76,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "so this year",
+      "I had a plan"
+     ]
+    },
+    {
+     "start": 13.433,
+     "end": 14.933,
+     "clip": "~/Documents/sume-realistic-candid-iphone-video-vertical-9-16-comp (2).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 1.167,
+     "src_len": 1.5,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and I didn't tell a soul"
+     ]
+    },
+    {
+     "start": 14.933,
+     "end": 15.733,
+     "clip": "~/Documents/snaptik_7587888280369253654_v3.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 17.767,
+     "src_len": 0.8,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "Christmas morning"
+     ]
+    },
+    {
+     "start": 15.733,
+     "end": 17.667,
+     "clip": "~/Documents/sume-realistic-candid-smartphone-video-vertical-9-16- (5).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.8,
+     "src_len": 1.933,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "I handed my son",
+      "one small box"
+     ]
+    },
+    {
+     "start": 17.667,
+     "end": 18.733,
+     "clip": "Xmas/IMG_6683.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.067,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "a LuxeLight headlamp"
+     ]
+    },
+    {
+     "start": 18.733,
+     "end": 19.633,
+     "clip": "~/Documents/snaptik_7587888280369253654_v3.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 10.8,
+     "src_len": 0.9,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "what nobody knew"
+     ]
+    },
+    {
+     "start": 19.633,
+     "end": 21.733,
+     "clip": "~/Documents/snaptik_7587888280369253654_v3.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 23.433,
+     "src_len": 2.1,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "was there were four more",
+      "hidden under the tree"
+     ]
+    },
+    {
+     "start": 21.733,
+     "end": 24.0,
+     "clip": "~/Documents/sume-realistic-candid-smartphone-video-vertical-9-16- (1).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.167,
+     "src_len": 2.493,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "he's got a four-month-old",
+      "so he's up at 3am"
+     ]
+    },
+    {
+     "start": 24.0,
+     "end": 26.433,
+     "clip": "~/Documents/sume-realistic-candid-smartphone-video-vertical-9-16- (2).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 3.3,
+     "src_len": 2.433,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "he uses the red light mode",
+      "so he can see what he's doing"
+     ]
+    },
+    {
+     "start": 26.433,
+     "end": 29.067,
+     "clip": "~/Documents/sume-realistic-candid-smartphone-video-at-night-verti.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.897,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and unlike his phone flashlight",
+      "it doesn't wake the baby"
+     ]
+    },
+    {
+     "start": 29.067,
+     "end": 31.067,
+     "clip": "~/Documents/sume-realistic-handheld-iphone-video-vertical-9-16-sa.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 1.033,
+     "src_len": 2.2,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "his wife's present",
+      "was on the arm of the couch"
+     ]
+    },
+    {
+     "start": 31.067,
+     "end": 32.5,
+     "clip": "~/Documents/sume-realistic-handheld-iphone-video-vertical-9-16-po.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 2.933,
+     "src_len": 1.72,
+     "speed": 1.2,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "a watch",
+      "still in the box"
+     ]
+    },
+    {
+     "start": 32.5,
+     "end": 34.333,
+     "clip": "Colour Swatches/dsvsv.mp4",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 1.14,
+     "src_len": 2.2,
+     "speed": 1.2,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": [
+      "the camo went straight",
+      "to my youngest"
+     ]
+    },
+    {
+     "start": 34.333,
+     "end": 36.333,
+     "clip": "Campers/hf_20261029_130509_9df12f5f-6ca5-40ba-a2ca-d2ea4ecdb318.mp4",
+     "folder": "Campers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.9,
+     "src_len": 2.0,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "he hunts",
+      "so he's out in pitch-black woods"
+     ]
+    },
+    {
+     "start": 36.333,
+     "end": 37.167,
+     "clip": "Red Light/hf_20261029_125907_c882e18e-5c3a-49f1-b662-6763ec767c95.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 2.4,
+     "src_len": 1.0,
+     "speed": 1.2,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "before sunrise"
+     ]
+    },
+    {
+     "start": 37.167,
+     "end": 38.867,
+     "clip": "In Hands/IMG_8047.mov",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 3.767,
+     "src_len": 1.7,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and that 230-degree beam"
+     ]
+    },
+    {
+     "start": 38.867,
+     "end": 40.133,
+     "clip": "Hunting/hf_20261029_130511_b1e58174-36e7-4978-a90f-a3ca488b9770.mp4",
+     "folder": "Hunting",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.267,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "lights up the whole trail"
+     ]
+    },
+    {
+     "start": 40.133,
+     "end": 41.467,
+     "clip": "Outside Torch DARK/copy_32B103BD-7776-49AA-A3F8-1ED24F313CF5.mov",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.333,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and everything either side of it"
+     ]
+    },
+    {
+     "start": 41.467,
+     "end": 43.033,
+     "clip": "Campers/m2-res_854p.mp4",
+     "folder": "Campers",
+     "library": true,
+     "hook": false,
+     "src_in": 3.733,
+     "src_len": 1.567,
+     "speed": 1.0,
+     "zoom": 1.18,
+     "sound": false,
+     "lines": [
+      "if the bugs start swarming his face"
+     ],
+     "action": {
+      "at": 41.76,
+      "kind": "gets brighter",
+      "into_shot": 0.29,
+      "into_line": 0.29,
+      "line": "if the bugs start swarming his face"
+     }
+    },
+    {
+     "start": 43.033,
+     "end": 43.967,
+     "clip": "Red Light/IMG_6618.MOV",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 19.633,
+     "src_len": 0.933,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "he flicks it to red"
+     ],
+     "action": {
+      "at": 43.16,
+      "kind": "gets darker",
+      "into_shot": 0.12,
+      "into_line": 0.12,
+      "line": "he flicks it to red"
+     }
+    },
+    {
+     "start": 43.967,
+     "end": 46.033,
+     "clip": "~/Documents/hf_20261116_134151_03b043ff-e70d-481f-8ca4-a13fa23d4d66.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.893,
+     "speed": 1.4,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": [
+      "because they're not drawn to red",
+      "the way they are to white"
+     ]
+    },
+    {
+     "start": 46.033,
+     "end": 47.933,
+     "clip": "Dog Walkers/IMG_2567.MOV",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.9,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "and my husband?",
+      "he walks the dogs in the dark"
+     ]
+    },
+    {
+     "start": 47.933,
+     "end": 49.333,
+     "clip": "Dog Walkers/IMG_2594.MOV",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.4,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "and they love to wander"
+     ],
+     "action": {
+      "at": 49.06,
+      "kind": "gets darker",
+      "into_shot": 1.12,
+      "into_line": 1.12,
+      "line": "and they love to wander"
+     }
+    },
+    {
+     "start": 49.333,
+     "end": 50.933,
+     "clip": "Outside Torch DARK/IMG_7245.mov",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 10.267,
+     "src_len": 1.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "the 350-lumen spotlight"
+     ]
+    },
+    {
+     "start": 50.933,
+     "end": 52.633,
+     "clip": "Dog Walkers/IMG_2692.mov",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.7,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "picks them out",
+      "clear across the field"
+     ]
+    },
+    {
+     "start": 52.633,
+     "end": 54.067,
+     "clip": "Dog Walkers/IMG_2629.MOV",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 30.867,
+     "src_len": 1.433,
+     "speed": 1.0,
+     "zoom": 1.02,
+     "sound": false,
+     "lines": [
+      "so he always knows",
+      "where they are"
+     ]
+    },
+    {
+     "start": 54.067,
+     "end": 54.933,
+     "clip": "In Hands/IMG_8138 (2).mov",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 13.533,
+     "src_len": 0.867,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "black, of course"
+     ]
+    },
+    {
+     "start": 54.933,
+     "end": 56.3,
+     "clip": "Colour Swatches/IMG_8585.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 4.533,
+     "src_len": 1.367,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "he'd never be seen in orange"
+     ]
+    },
+    {
+     "start": 56.3,
+     "end": 58.633,
+     "clip": "Colour Swatches/IMG_6592.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 5.467,
+     "src_len": 2.333,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "which worked out",
+      "because the orange went",
+      "to my son-in-law"
+     ]
+    },
+    {
+     "start": 58.633,
+     "end": 60.633,
+     "clip": "Delivery Drivers/FORMAT-9-16-vertical-7-seconds-CAPTUR.mp4",
+     "folder": "Delivery Drivers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.0,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "he's a delivery driver",
+      "so most of the winter"
+     ]
+    },
+    {
+     "start": 60.633,
+     "end": 61.8,
+     "clip": "Delivery Drivers/hf_20261109_175810_f1eb9877-9233-4229-84dc-1f66dbbdb469.mp4",
+     "folder": "Delivery Drivers",
+     "library": true,
+     "hook": false,
+     "src_in": 5.067,
+     "src_len": 1.167,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "he's delivering in the dark"
+     ]
+    },
+    {
+     "start": 61.8,
+     "end": 63.033,
+     "clip": "~/Documents/sume-realistic-candid-smartphone-video-at-night-verti (1).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.733,
+     "src_len": 1.233,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "eight hours on one charge"
+     ]
+    },
+    {
+     "start": 63.033,
+     "end": 64.033,
+     "clip": "Weight/IMG_7592.mov",
+     "folder": "Weight",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.0,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and at 60 grams"
+     ]
+    },
+    {
+     "start": 64.033,
+     "end": 65.467,
+     "clip": "~/Documents/sume-realistic-candid-iphone-video-vertical-9-16-comp (4).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 3.9,
+     "src_len": 1.433,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "he forgets it's even on his head"
+     ]
+    },
+    {
+     "start": 65.467,
+     "end": 66.7,
+     "clip": "Colour Swatches/IMG_6571.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 1.667,
+     "src_len": 1.233,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": [
+      "the pink?",
+      "that one's mine"
+     ]
+    },
+    {
+     "start": 66.7,
+     "end": 68.067,
+     "clip": "Stitching/hf_20261023_194727_1fcb61b6-167e-489b-ba7c-1f5b65818110.mp4",
+     "folder": "Stitching",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.367,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": [
+      "I crochet, I craft"
+     ]
+    },
+    {
+     "start": 68.067,
+     "end": 69.367,
+     "clip": "Stitching/hf_20261027_222736_9cea5e3e-1738-48a8-8ddc-9af080160cf2.mp4",
+     "folder": "Stitching",
+     "library": true,
+     "hook": false,
+     "src_in": 9.067,
+     "src_len": 1.3,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "I'm always making something"
+     ]
+    },
+    {
+     "start": 69.367,
+     "end": 71.467,
+     "clip": "Stitching/hf_20261027_212004_01455d53-4b35-4e31-b47e-63b8a2b18bbe (1).mp4",
+     "folder": "Stitching",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.1,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": [
+      "and this makes it so much easier",
+      "on my eyes"
+     ]
+    },
+    {
+     "start": 71.467,
+     "end": 73.133,
+     "clip": "~/Documents/sume-realistic-candid-smartphone-video-vertical-9-16- (3).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.667,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "that I can keep going for hours"
+     ]
+    },
+    {
+     "start": 73.133,
+     "end": 75.6,
+     "clip": "Colour Swatches/IMG_8586.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.467,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "then my daughter-in-law",
+      "found me in the kitchen",
+      "and asked, very quietly"
+     ]
+    },
+    {
+     "start": 75.6,
+     "end": 77.733,
+     "clip": "Working on Car/IMG_2711.MOV",
+     "folder": "Working on Car",
+     "library": true,
+     "hook": false,
+     "src_in": 9.1,
+     "src_len": 2.133,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and asked, very quietly",
+      "for the link",
+      "for her dad"
+     ]
+    },
+    {
+     "start": 77.733,
+     "end": 78.567,
+     "clip": "Xmas/Photorealistic-candid-smartphone-UGC-vid (3).mp4",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 1.567,
+     "src_len": 0.833,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "five headlamps"
+     ]
+    },
+    {
+     "start": 78.567,
+     "end": 80.033,
+     "clip": "Xmas/Realistic-top-down-smartphone-video-ver.mp4",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.467,
+     "speed": 1.0,
+     "zoom": 1.14,
+     "sound": true,
+     "lines": [
+      "one watch still in its box"
+     ]
+    },
+    {
+     "start": 80.033,
+     "end": 81.3,
+     "clip": "Xmas/hf_20261104_074431_090591de-8199-4263-a2f5-a4a610c3f4fa.mp4",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 1.367,
+     "src_len": 1.267,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and every man in this house"
+     ]
+    },
+    {
+     "start": 81.3,
+     "end": 82.5,
+     "clip": "~/Documents/hf_20261106_113817_6a160cea-6c3b-4b99-9b1c-2f4391ea78a3.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.2,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": [
+      "is wearing my present"
+     ]
+    },
+    {
+     "start": 82.5,
+     "end": 83.833,
+     "clip": "Xmas/IMG_3313.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 3.3,
+     "src_len": 1.333,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "Christmas delivery has a cutoff"
+     ]
+    },
+    {
+     "start": 83.833,
+     "end": 86.067,
+     "clip": "Colour Swatches/hf_20261028_213220_e8c92e49-4082-449f-a5b5-454e9853be28.mp4",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 0.367,
+     "src_len": 2.903,
+     "speed": 1.3,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and the camo sold out",
+      "in three days last time"
+     ]
+    },
+    {
+     "start": 86.067,
+     "end": 87.833,
+     "clip": "Colour Swatches/hf_20261030_191637_9db0e841-dc8d-450a-acde-e7a3152be7f4.mp4",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.767,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "BLACK FRIDAY UP TO 50% OFF 🎁"
+     ]
+    },
+    {
+     "start": 87.833,
+     "end": 90.233,
+     "clip": "Case/LuxeLight - V2 - B-roll - No-Subs.mov",
+     "folder": "Case",
+     "library": true,
+     "hook": false,
+     "src_in": 52.267,
+     "src_len": 2.64,
+     "speed": 1.1,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "🚨 FREE CASE INCL 🚨"
+     ]
+    }
+   ],
+   "sfx": [
+    {
+     "at": 86.067,
+     "name": "swish_whoosh (large)(794558)",
+     "level": 0.51,
+     "caption": "BLACK FRIDAY UP TO 50% OFF 🎁"
+    },
+    {
+     "at": 87.833,
+     "name": "Correct answer Piropyrone (Standard)",
+     "level": 0.47,
+     "caption": "🚨 FREE CASE INCL 🚨"
+    }
+   ],
+   "project": "Won Christmas - V1 - Ferg",
+   "hook_end": 5.17
+  },
+  "AUNT14": {
+   "captions": 63,
+   "shots": [
+    {
+     "start": 0.0,
+     "end": 4.333,
+     "clip": "~/Downloads/sume-format-vertical-9-16-5-seconds-youtube-thumbnail.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": true,
+     "src_in": 0.0,
+     "src_len": 4.333,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": [
+      "WHOSE GIFT WON? 🏆🎁"
+     ]
+    },
+    {
+     "start": 4.333,
+     "end": 6.633,
+     "clip": "~/Downloads/sume-format-vertical-9-16-6-seconds-real-candid-iphon (2).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 2.167,
+     "src_len": 2.3,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "last Christmas",
+      "my aunt laughed at my present"
+     ]
+    },
+    {
+     "start": 6.633,
+     "end": 9.6,
+     "clip": "~/Downloads/sume-format-vertical-9-16-7-seconds-real-candid-iphon (1).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 4.1,
+     "src_len": 2.967,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "said it looked cheap",
+      "and told me to spend the money",
+      "on my kids instead"
+     ]
+    },
+    {
+     "start": 9.6,
+     "end": 12.333,
+     "clip": "~/Downloads/sume-format-vertical-9-16-6-seconds-real-candid-iphon (3).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 1.467,
+     "src_len": 3.007,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "while my husband",
+      "sat right next to me",
+      "and said nothing"
+     ]
+    },
+    {
+     "start": 12.333,
+     "end": 14.167,
+     "clip": "~/Downloads/sume-format-vertical-9-16-6-seconds-real-candid-iphon (4).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.833,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "so this year",
+      "I went even cheaper"
+     ]
+    },
+    {
+     "start": 14.167,
+     "end": 15.567,
+     "clip": "~/Downloads/sume_20261120-173350_replace-both-headlamps-in-the_eaf576ba.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.4,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "a $14 gift"
+     ]
+    },
+    {
+     "start": 15.567,
+     "end": 18.067,
+     "clip": "Reactions/hf_20261104_140940_20fdbb92-d544-4c3e-9539-fc5f70adc842.mp4",
+     "folder": "Reactions",
+     "library": true,
+     "hook": false,
+     "src_in": 10.8,
+     "src_len": 2.5,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "and it beat every one",
+      "of her $400 presents"
+     ],
+     "action": {
+      "at": 16.78,
+      "kind": "gets brighter",
+      "into_shot": 1.21,
+      "into_line": 0.18,
+      "line": "of her $400 presents"
+     }
+    },
+    {
+     "start": 18.067,
+     "end": 20.033,
+     "clip": "Xmas/sume-realistic-candid-smartphone-video-vertical-9-16- (5).mp4",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 0.733,
+     "src_len": 1.967,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "I handed my husband",
+      "his LuxeLight first"
+     ]
+    },
+    {
+     "start": 20.033,
+     "end": 21.767,
+     "clip": "Working on Car/IMG_2713.MOV",
+     "folder": "Working on Car",
+     "library": true,
+     "hook": false,
+     "src_in": 4.8,
+     "src_len": 1.733,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "the man who couldn't defend me",
+      "last year"
+     ],
+     "action": {
+      "at": 21.41,
+      "kind": "gets brighter",
+      "into_shot": 1.38,
+      "into_line": 0.31,
+      "line": "last year"
+     }
+    },
+    {
+     "start": 21.767,
+     "end": 23.7,
+     "clip": "Wave Sensor/IMG_2710.MOV",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 8.4,
+     "src_len": 4.253,
+     "speed": 2.2,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "now won't shut up",
+      "about the wave sensor"
+     ],
+     "action": {
+      "at": 23.34,
+      "kind": "gets darker",
+      "into_shot": 1.57,
+      "into_line": 0.71,
+      "line": "about the wave sensor"
+     }
+    },
+    {
+     "start": 23.7,
+     "end": 25.2,
+     "clip": "Working on Car/IMG_2711.MOV",
+     "folder": "Working on Car",
+     "library": true,
+     "hook": false,
+     "src_in": 18.167,
+     "src_len": 1.5,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "because under the hood of his truck"
+     ]
+    },
+    {
+     "start": 25.2,
+     "end": 28.3,
+     "clip": "Working on Car/IMG_2492.mov",
+     "folder": "Working on Car",
+     "library": true,
+     "hook": false,
+     "src_in": 23.1,
+     "src_len": 3.1,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "one wave turns it on",
+      "without his greasy hands",
+      "touching a thing"
+     ],
+     "action": {
+      "at": 25.32,
+      "kind": "gets brighter",
+      "into_shot": 0.12,
+      "into_line": 0.12,
+      "line": "one wave turns it on"
+     }
+    },
+    {
+     "start": 28.3,
+     "end": 29.533,
+     "clip": "Baby/sume-realistic-candid-smartphone-video-vertical-9-16- (2).mp4",
+     "folder": "Baby",
+     "library": true,
+     "hook": false,
+     "src_in": 1.167,
+     "src_len": 1.357,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "my brother's got a newborn"
+     ]
+    },
+    {
+     "start": 29.533,
+     "end": 31.5,
+     "clip": "Baby/sume-realistic-candid-smartphone-video-vertical-9-16- (1).mp4",
+     "folder": "Baby",
+     "library": true,
+     "hook": false,
+     "src_in": 3.907,
+     "src_len": 2.163,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and he uses the red light mode",
+      "for night feeds"
+     ]
+    },
+    {
+     "start": 31.5,
+     "end": 34.133,
+     "clip": "Baby/sume-realistic-candid-smartphone-video-at-night-verti.mp4",
+     "folder": "Baby",
+     "library": true,
+     "hook": false,
+     "src_in": 3.433,
+     "src_len": 2.633,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "so he can see clearly in the dark",
+      "without setting the baby off"
+     ]
+    },
+    {
+     "start": 34.133,
+     "end": 36.3,
+     "clip": "Wave Sensor/IMG_0520.mov",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 47.233,
+     "src_len": 3.9,
+     "speed": 1.8,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "but the one I cared about most",
+      "was my dad's"
+     ],
+     "action": {
+      "at": 34.53,
+      "kind": "gets brighter",
+      "into_shot": 0.39,
+      "into_line": 0.39,
+      "line": "but the one I cared about most"
+     }
+    },
+    {
+     "start": 36.3,
+     "end": 38.9,
+     "clip": "~/Downloads/sume-format-vertical-9-16-6-seconds-real-candid-iphon (5).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 1.787,
+     "src_len": 2.86,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "two winters ago",
+      "he slipped on the ice",
+      "walking the dog"
+     ]
+    },
+    {
+     "start": 38.9,
+     "end": 41.3,
+     "clip": "~/Downloads/sume-format-vertical-9-16-6-seconds-real-candid-iphon (6).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 1.833,
+     "src_len": 2.64,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "and lay there 20 minutes",
+      "before anyone found him"
+     ]
+    },
+    {
+     "start": 41.3,
+     "end": 43.2,
+     "clip": "In Hands/IMG_2729.MOV",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 7.867,
+     "src_len": 1.9,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "now the 230-degree beam"
+     ]
+    },
+    {
+     "start": 43.2,
+     "end": 44.933,
+     "clip": "Dog Walkers/IMG_2567.MOV",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.733,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "lights up the whole path",
+      "in front of him"
+     ]
+    },
+    {
+     "start": 44.933,
+     "end": 47.467,
+     "clip": "Dog Walkers/Raw - LuxeLight.mp4",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 167.1,
+     "src_len": 2.533,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so he can see every icy patch",
+      "before he steps on it"
+     ]
+    },
+    {
+     "start": 47.467,
+     "end": 48.967,
+     "clip": "Dog Walkers/IMG_2708.MOV",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 5.7,
+     "src_len": 1.5,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and I finally stopped worrying"
+     ]
+    },
+    {
+     "start": 48.967,
+     "end": 51.6,
+     "clip": "Campers/IMG_6467.MOV",
+     "folder": "Campers",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.633,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "and the uncles and cousins",
+      "I can never afford",
+      "to waste money on?"
+     ]
+    },
+    {
+     "start": 51.6,
+     "end": 53.1,
+     "clip": "Red Light/04RedLight.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 3.967,
+     "src_len": 1.5,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "they're the ones",
+      "sending me videos"
+     ]
+    },
+    {
+     "start": 53.1,
+     "end": 54.9,
+     "clip": "Horses/luxelight_StacieW_LuxeLEDHead_3670e3b5.mp4",
+     "folder": "Horses",
+     "library": true,
+     "hook": false,
+     "src_in": 21.467,
+     "src_len": 1.8,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "like my cousin",
+      "doing the early morning feed"
+     ]
+    },
+    {
+     "start": 54.9,
+     "end": 56.067,
+     "clip": "Horses/snaptik_7561213426178034966_v2.mp4",
+     "folder": "Horses",
+     "library": true,
+     "hook": false,
+     "src_in": 11.733,
+     "src_len": 1.167,
+     "speed": 1.0,
+     "zoom": 1.21,
+     "sound": false,
+     "lines": [
+      "with the whole barn lit up"
+     ]
+    },
+    {
+     "start": 56.067,
+     "end": 58.533,
+     "clip": "~/Downloads/sume-format-vertical-9-16-7-seconds-real-candid-iphon (2).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.867,
+     "src_len": 2.713,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "then my aunt",
+      "the one who laughed at hers",
+      "called"
+     ]
+    },
+    {
+     "start": 58.533,
+     "end": 60.3,
+     "clip": "Crafting/FORMAT-vertical-9-16-6-seconds-candid (1).mp4",
+     "folder": "Crafting",
+     "library": true,
+     "hook": false,
+     "src_in": 0.6,
+     "src_len": 1.943,
+     "speed": 1.1,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "she'd been sewing at night",
+      "with hers on"
+     ]
+    },
+    {
+     "start": 60.3,
+     "end": 61.8,
+     "clip": "~/Downloads/sume-realistic-candid-iphone-video-vertical-9-16-comp (4).mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.6,
+     "src_len": 1.5,
+     "speed": 1.0,
+     "zoom": 1.04,
+     "sound": false,
+     "lines": [
+      "and she finally apologized"
+     ]
+    },
+    {
+     "start": 61.8,
+     "end": 64.0,
+     "clip": "Xmas/IMG_6683.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 1.967,
+     "src_len": 2.2,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "then she admitted",
+      "it was the best present"
+     ]
+    },
+    {
+     "start": 64.0,
+     "end": 65.833,
+     "clip": "Outside Torch DARK/IMG_8269 (1).mov",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 13.533,
+     "src_len": 2.383,
+     "speed": 1.3,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "better than any",
+      "of her expensive gifts"
+     ]
+    },
+    {
+     "start": 65.833,
+     "end": 67.833,
+     "clip": "Xmas/IMG_3322.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 2.8,
+     "src_len": 2.0,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "I got ten for 61% off"
+     ]
+    },
+    {
+     "start": 67.833,
+     "end": 69.9,
+     "clip": "Tradies/IMG_2507.MOV",
+     "folder": "Tradies",
+     "library": true,
+     "hook": false,
+     "src_in": 5.233,
+     "src_len": 2.067,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "which works out at",
+      "$14 a headlamp"
+     ]
+    },
+    {
+     "start": 69.9,
+     "end": 72.767,
+     "clip": "Colour Swatches/hf_20261030_184359_7f19ff53-9f96-4602-8dc7-e4777b86c88a (1).mp4",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.867,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": true,
+     "lines": []
+    },
+    {
+     "start": 72.767,
+     "end": 74.167,
+     "clip": "Colour Swatches/IMG_6565.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 1.867,
+     "src_len": 1.82,
+     "speed": 1.3,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [],
+     "action": {
+      "at": 73.06,
+      "kind": "gets darker",
+      "into_shot": 0.29,
+      "into_line": null,
+      "line": null
+     }
+    },
+    {
+     "start": 74.167,
+     "end": 76.9,
+     "clip": "Case/IMG_6621.MOV",
+     "folder": "Case",
+     "library": true,
+     "hook": false,
+     "src_in": 4.867,
+     "src_len": 4.1,
+     "speed": 1.5,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": []
+    },
+    {
+     "start": 76.9,
+     "end": 78.467,
+     "clip": "Colour Swatches/hf_20261030_191637_9db0e841-dc8d-450a-acde-e7a3152be7f4.mp4",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.88,
+     "speed": 1.2,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": []
+    },
+    {
+     "start": 78.467,
+     "end": 81.133,
+     "clip": "Xmas/IMG_6684.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 0.267,
+     "src_len": 2.667,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": []
+    }
+   ],
+   "sfx": [
+    {
+     "at": 4.233,
+     "name": "Turn the paper / page [note] # 1(182352)",
+     "level": 1.0,
+     "caption": "WHOSE GIFT WON? 🏆🎁"
+    },
+    {
+     "at": 76.9,
+     "name": "Bass impact(1171693)",
+     "level": 0.28,
+     "caption": null
+    },
+    {
+     "at": 78.467,
+     "name": "Click_Mouse_Click_02(864360)",
+     "level": 0.62,
+     "caption": null
+    }
+   ],
+   "project": "Judgy Aunt - V1 - Ferg",
+   "hook_end": 4.33
+  },
+  "XMASCUTOFF": {
+   "captions": 58,
+   "shots": [
+    {
+     "start": 0.0,
+     "end": 0.9,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/heygen_full.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": true,
+     "src_in": 0.0,
+     "src_len": 0.9,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": []
+    },
+    {
+     "start": 0.0,
+     "end": 5.067,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/reply_bubble.png",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": true,
+     "src_in": 0.0,
+     "src_len": 5.067,
+     "speed": 1.0,
+     "zoom": 0.59,
+     "sound": false,
+     "lines": []
+    },
+    {
+     "start": 0.9,
+     "end": 3.133,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/heygen_full.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": true,
+     "src_in": 0.9,
+     "src_len": 2.233,
+     "speed": 1.0,
+     "zoom": 1.12,
+     "sound": false,
+     "lines": []
+    },
+    {
+     "start": 3.133,
+     "end": 5.067,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/heygen_full.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": true,
+     "src_in": 3.433,
+     "src_len": 1.933,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": []
+    },
+    {
+     "start": 5.067,
+     "end": 6.533,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/heygen_full.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 17.067,
+     "src_len": 1.467,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so I've had a few of these"
+     ]
+    },
+    {
+     "start": 5.067,
+     "end": 6.533,
+     "clip": "Packaging/IMG_2731.MOV",
+     "folder": "Packaging",
+     "library": true,
+     "hook": false,
+     "src_in": 4.833,
+     "src_len": 1.467,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so I've had a few of these"
+     ]
+    },
+    {
+     "start": 6.533,
+     "end": 8.9,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/heygen_full.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 18.6,
+     "src_len": 2.367,
+     "speed": 1.0,
+     "zoom": 1.12,
+     "sound": false,
+     "lines": [
+      "and honestly",
+      "it's a fair thing to worry about"
+     ]
+    },
+    {
+     "start": 8.9,
+     "end": 12.2,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/BW_hf_20261008_121416_7b9e65c5-f568-4817-8acb-e1a3fddcd9d6.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.3,
+     "src_len": 3.3,
+     "speed": 1.0,
+     "zoom": 1.04,
+     "sound": false,
+     "lines": [
+      "because there are a lot of",
+      "copycat LuxeLights",
+      "going around right now"
+     ]
+    },
+    {
+     "start": 12.2,
+     "end": 13.167,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/heygen_full.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 24.733,
+     "src_len": 0.967,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "let me quickly show you"
+     ]
+    },
+    {
+     "start": 13.167,
+     "end": 14.867,
+     "clip": "Fakes/IMG_8655.mov",
+     "folder": "Fakes",
+     "library": true,
+     "hook": false,
+     "src_in": 3.533,
+     "src_len": 1.7,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "how to make sure you get the real one"
+     ],
+     "action": {
+      "at": 13.29,
+      "kind": "gets darker",
+      "into_shot": 0.12,
+      "into_line": 0.13,
+      "line": "how to make sure you get the real one"
+     }
+    },
+    {
+     "start": 14.867,
+     "end": 16.667,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/heygen_full.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 27.4,
+     "src_len": 1.8,
+     "speed": 1.0,
+     "zoom": 1.12,
+     "sound": false,
+     "lines": [
+      "because I learned this the hard way"
+     ]
+    },
+    {
+     "start": 16.667,
+     "end": 17.267,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/heygen_full.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 29.533,
+     "src_len": 0.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "first"
+     ]
+    },
+    {
+     "start": 17.267,
+     "end": 19.8,
+     "clip": "Reviews/ScreenRecording_10-11-2026 14-42-49_1.MP4",
+     "folder": "Reviews",
+     "library": true,
+     "hook": false,
+     "src_in": 1.5,
+     "src_len": 2.533,
+     "speed": 1.0,
+     "zoom": 1.22,
+     "sound": false,
+     "lines": [
+      "only ever buy from",
+      "the official LuxeLight store"
+     ]
+    },
+    {
+     "start": 19.8,
+     "end": 21.167,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/heygen_full.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 32.833,
+     "src_len": 1.367,
+     "speed": 1.0,
+     "zoom": 1.12,
+     "sound": false,
+     "lines": [
+      "using the link on this video"
+     ]
+    },
+    {
+     "start": 21.167,
+     "end": 23.967,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/BLUR_amazon_scroll.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 1.6,
+     "src_len": 2.8,
+     "speed": 1.0,
+     "zoom": 1.48,
+     "sound": false,
+     "lines": [
+      "those cheap marketplace listings",
+      "the $5 ones"
+     ]
+    },
+    {
+     "start": 23.967,
+     "end": 25.267,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/BW_IMG_8637.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 9.3,
+     "src_len": 1.3,
+     "speed": 1.0,
+     "zoom": 1.25,
+     "sound": false,
+     "lines": [
+      "that's where the fakes are"
+     ]
+    },
+    {
+     "start": 25.267,
+     "end": 27.867,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/heygen_full.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 39.067,
+     "src_len": 2.6,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and the real one",
+      "is genuinely brilliant"
+     ]
+    },
+    {
+     "start": 27.867,
+     "end": 29.6,
+     "clip": "In Hands/IMG_2729.MOV",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 7.533,
+     "src_len": 1.733,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "this 230-degree beam"
+     ]
+    },
+    {
+     "start": 29.6,
+     "end": 31.333,
+     "clip": "Colour Swatches/IMG_6596.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 1.9,
+     "src_len": 1.733,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "lights up everything in front of you"
+     ],
+     "action": {
+      "at": 29.89,
+      "kind": "gets brighter",
+      "into_shot": 0.29,
+      "into_line": 0.29,
+      "line": "lights up everything in front of you"
+     }
+    },
+    {
+     "start": 31.333,
+     "end": 32.533,
+     "clip": "Vs Other Headtorch/LuxeLight_body_2.mp4",
+     "folder": "Vs Other Headtorch",
+     "library": true,
+     "hook": false,
+     "src_in": 4.87,
+     "src_len": 1.08,
+     "speed": 0.9,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "not just one little spot"
+     ]
+    },
+    {
+     "start": 32.533,
+     "end": 33.667,
+     "clip": "Outside Torch DARK/snaptik_7461349711644069152_v2 (1).mp4",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 30.73,
+     "src_len": 1.473,
+     "speed": 1.3,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "click the wave sensor on"
+     ],
+     "action": {
+      "at": 32.82,
+      "kind": "gets darker",
+      "into_shot": 0.29,
+      "into_line": 0.29,
+      "line": "click the wave sensor on"
+     }
+    },
+    {
+     "start": 33.667,
+     "end": 35.033,
+     "clip": "Red Light/04RedLight.mp4",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 3.0,
+     "src_len": 1.367,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and it works every time"
+     ]
+    },
+    {
+     "start": 35.033,
+     "end": 36.133,
+     "clip": "Wave Sensor/IMG_2548.MOV",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 0.23,
+     "src_len": 1.65,
+     "speed": 1.5,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "you just wave your hand"
+     ],
+     "action": {
+      "at": 35.78,
+      "kind": "gets brighter",
+      "into_shot": 0.75,
+      "into_line": 0.75,
+      "line": "you just wave your hand"
+     }
+    },
+    {
+     "start": 36.133,
+     "end": 37.533,
+     "clip": "Wave Sensor/Snaptik.app_7441625542597594400.mp4",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 1.4,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "perfect when your hands are full"
+     ],
+     "action": {
+      "at": 37.01,
+      "kind": "gets darker",
+      "into_shot": 0.88,
+      "into_line": 0.87,
+      "line": "perfect when your hands are full"
+     }
+    },
+    {
+     "start": 37.533,
+     "end": 40.267,
+     "clip": "Charging/IMG_9981.MOV",
+     "folder": "Charging",
+     "library": true,
+     "hook": false,
+     "src_in": 3.67,
+     "src_len": 3.28,
+     "speed": 1.2,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "and it charges with USB-C",
+      "no batteries"
+     ]
+    },
+    {
+     "start": 40.267,
+     "end": 41.467,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/heygen_full.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 55.867,
+     "src_len": 1.2,
+     "speed": 1.0,
+     "zoom": 1.12,
+     "sound": false,
+     "lines": [
+      "here's how you know it's real"
+     ]
+    },
+    {
+     "start": 41.467,
+     "end": 42.433,
+     "clip": "In Hands/IMG_1717.mov",
+     "folder": "In Hands",
+     "library": true,
+     "hook": false,
+     "src_in": 4.0,
+     "src_len": 0.967,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "only the real one"
+     ]
+    },
+    {
+     "start": 42.433,
+     "end": 44.233,
+     "clip": "Red Light/IMG_6618.MOV",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 12.4,
+     "src_len": 1.8,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "switches from white light",
+      "to red light"
+     ],
+     "action": {
+      "at": 43.39,
+      "kind": "gets darker",
+      "into_shot": 0.96,
+      "into_line": 0.96,
+      "line": "switches from white light"
+     }
+    },
+    {
+     "start": 44.233,
+     "end": 46.533,
+     "clip": "Colour Swatches/hf_20260929_141355_034b7f1f-a858-4027-9015-616d77368d0d.mp4",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 0.0,
+     "src_len": 2.53,
+     "speed": 1.1,
+     "zoom": 1.04,
+     "sound": false,
+     "lines": [
+      "and only the real one comes in",
+      "limited edition"
+     ]
+    },
+    {
+     "start": 46.533,
+     "end": 47.433,
+     "clip": "Colour Swatches/IMG_8586.mov",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 2.933,
+     "src_len": 0.9,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "pink",
+      "and orange"
+     ]
+    },
+    {
+     "start": 47.433,
+     "end": 48.667,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/BW_IMG_8641.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 6.6,
+     "src_len": 1.233,
+     "speed": 1.0,
+     "zoom": 1.8,
+     "sound": false,
+     "lines": [
+      "the fakes have neither"
+     ]
+    },
+    {
+     "start": 48.667,
+     "end": 50.1,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/BW_hf_20261002_100835_cdb7d2ef-a701-49de-a516-688da640debd.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 1.6,
+     "src_len": 1.433,
+     "speed": 1.0,
+     "zoom": 1.04,
+     "sound": false,
+     "lines": [
+      "they dim",
+      "they flicker"
+     ]
+    },
+    {
+     "start": 50.1,
+     "end": 51.8,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/BW_hf_20261002_114903_5b398124-73bf-4bb8-a8b0-73a60bd5db27.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 0.7,
+     "src_len": 1.7,
+     "speed": 1.0,
+     "zoom": 1.15,
+     "sound": false,
+     "lines": [
+      "and the wave sensor does nothing"
+     ]
+    },
+    {
+     "start": 51.8,
+     "end": 53.667,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/heygen_full.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 68.867,
+     "src_len": 1.867,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "I got my husband the real one in black"
+     ]
+    },
+    {
+     "start": 53.667,
+     "end": 55.433,
+     "clip": "Wave Sensor/IMG_0359.mp4",
+     "folder": "Wave Sensor",
+     "library": true,
+     "hook": false,
+     "src_in": 29.5,
+     "src_len": 1.767,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and he has not taken it off since"
+     ]
+    },
+    {
+     "start": 55.433,
+     "end": 56.5,
+     "clip": "Outside Torch DARK/IMG_8269 (1).mov",
+     "folder": "Outside Torch DARK",
+     "library": true,
+     "hook": false,
+     "src_in": 13.533,
+     "src_len": 1.067,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "taking the bins out"
+     ]
+    },
+    {
+     "start": 56.5,
+     "end": 57.6,
+     "clip": "Dog Walkers/LuxeLight - Dog Walking - No Subs.mov",
+     "folder": "Dog Walkers",
+     "library": true,
+     "hook": false,
+     "src_in": 31.033,
+     "src_len": 1.1,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "walking the dog"
+     ],
+     "action": {
+      "at": 56.71,
+      "kind": "gets darker",
+      "into_shot": 0.21,
+      "into_line": 0.21,
+      "line": "walking the dog"
+     }
+    },
+    {
+     "start": 57.6,
+     "end": 58.8,
+     "clip": "IMG_7946.mov",
+     "folder": "IMG_7946.mov",
+     "library": true,
+     "hook": false,
+     "src_in": 48.533,
+     "src_len": 1.2,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "off to work at 5am"
+     ]
+    },
+    {
+     "start": 58.8,
+     "end": 60.333,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/heygen_full.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 76.633,
+     "src_len": 1.533,
+     "speed": 1.0,
+     "zoom": 1.12,
+     "sound": false,
+     "lines": [
+      "I even went back",
+      "and got a few more"
+     ]
+    },
+    {
+     "start": 60.333,
+     "end": 61.833,
+     "clip": "Xmas/IMG_3321.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 8.8,
+     "src_len": 1.5,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "for the rest of the men in the family"
+     ]
+    },
+    {
+     "start": 61.833,
+     "end": 62.4,
+     "clip": "Colour Swatches/hf_20261028_220512_ffee63ef-9440-49c2-ad14-98848f361564.mp4",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 2.3,
+     "src_len": 0.567,
+     "speed": 1.0,
+     "zoom": 1.03,
+     "sound": false,
+     "lines": [
+      "a camo"
+     ]
+    },
+    {
+     "start": 62.4,
+     "end": 63.133,
+     "clip": "Colour Swatches/IMG_6589.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 13.2,
+     "src_len": 0.733,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": true,
+     "lines": [
+      "and an orange"
+     ]
+    },
+    {
+     "start": 63.133,
+     "end": 64.2,
+     "clip": "Colour Swatches/IMG_6576.MOV",
+     "folder": "Colour Swatches",
+     "library": true,
+     "hook": false,
+     "src_in": 1.0,
+     "src_len": 1.067,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and a pink one for me"
+     ]
+    },
+    {
+     "start": 64.2,
+     "end": 65.867,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/heygen_full.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 82.467,
+     "src_len": 1.667,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "so don't let the fakes put you off"
+     ]
+    },
+    {
+     "start": 65.867,
+     "end": 67.333,
+     "clip": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/Resources/media/heygen_full.mp4",
+     "folder": "(one-off)",
+     "library": false,
+     "hook": false,
+     "src_in": 84.333,
+     "src_len": 1.467,
+     "speed": 1.0,
+     "zoom": 1.12,
+     "sound": false,
+     "lines": [
+      "the real ones are worth it"
+     ]
+    },
+    {
+     "start": 67.333,
+     "end": 69.767,
+     "clip": "Case/LuxeLight - V2 - B-roll - No-Subs.mov",
+     "folder": "Case",
+     "library": true,
+     "hook": false,
+     "src_in": 52.533,
+     "src_len": 2.433,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "every real LuxeLight",
+      "comes with a free carry case"
+     ]
+    },
+    {
+     "start": 69.767,
+     "end": 71.433,
+     "clip": "Xmas/IMG_3313.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 2.8,
+     "src_len": 1.667,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "and the more you get",
+      "the more you save"
+     ]
+    },
+    {
+     "start": 71.433,
+     "end": 74.267,
+     "clip": "Xmas/IMG_6684.mov",
+     "folder": "Xmas",
+     "library": true,
+     "hook": false,
+     "src_in": 1.4,
+     "src_len": 2.833,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": [
+      "order by the 12th of December",
+      "and it's guaranteed for Christmas"
+     ]
+    },
+    {
+     "start": 74.267,
+     "end": 77.733,
+     "clip": "Red Light/IMG_8695.mov",
+     "folder": "Red Light",
+     "library": true,
+     "hook": false,
+     "src_in": 4.2,
+     "src_len": 3.467,
+     "speed": 1.0,
+     "zoom": 1.0,
+     "sound": false,
+     "lines": []
+    }
+   ],
+   "sfx": [
+    {
+     "at": 74.267,
+     "name": "Click_Mouse_Click_02(864360)",
+     "level": 0.62,
+     "caption": null
+    }
+   ],
+   "project": "[CLAUDE] XMAS CUT OFF - V1 - FERG",
+   "hook_end": 5.07
+  }
+ }
+}

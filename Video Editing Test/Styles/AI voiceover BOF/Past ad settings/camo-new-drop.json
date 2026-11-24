@@ -1,0 +1,136 @@
+{
+  "name": "LuxeLight_Camo_NewDrop",
+  "voiceover": "drive/vo_all.wav",
+  "fixes": {
+    "lux light": "LuxeLight",
+    "lux lights,": "LuxeLights,",
+    "lux lights": "LuxeLights",
+    "8 ,000": "8,000",
+    "3": "three",
+    "2.": "two."
+  },
+  "proper_nouns": [
+    "Camo",
+    "LuxeLight",
+    "LuxeLights",
+    "Halloween"
+  ],
+  "captions_in_hook": true,
+  "captions": [
+    "the new Camo LuxeLight just dropped",
+    "and the launch deal won't last",
+    "they only made 8,000 Camo LuxeLights",
+    "and this Halloween drop ends tonight",
+    "here's how to get three Camo LuxeLights",
+    "for under $23 each",
+    "here's the part most people miss",
+    "click that link below",
+    "and head to checkout",
+    "no code",
+    "your discount",
+    "and free carry case get added",
+    "just don't wait",
+    "when these 8,000 are gone",
+    "they're gone"
+  ],
+  "hook_y": 400,
+  "hook_font_size": 72,
+  "hook_styles": [
+    [
+      "white",
+      [
+        238,
+        45,
+        66
+      ]
+    ],
+    [
+      "black",
+      "white"
+    ]
+  ],
+  "caption_wrap": 0.62,
+  "caption_bottom": 1500,
+  "body": {
+    "shots": [
+      [
+        "Here's the part",
+        "hf_220512b",
+        1.0
+      ],
+      [
+        "Click that link",
+        "hf_191645b",
+        2.9
+      ],
+      [
+        "No code",
+        "hf_093458",
+        1.9
+      ],
+      [
+        "and free carry",
+        "IMG_6458_case",
+        0.0
+      ],
+      [
+        "Just don't wait",
+        "hf_191645a",
+        1.6
+      ]
+    ]
+  },
+  "versions": [
+    {
+      "name": "Version1",
+      "hook": [
+        "3 FOR UNDER $67",
+        "ONLY 8,000 MADE ⚠️"
+      ],
+      "shots": [
+        [
+          "Here's how to get",
+          "hf_220512a",
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "Version2",
+      "hook": [
+        "50% OFF",
+        "FINAL HOURS 🚨"
+      ],
+      "shots": [
+        [
+          "The new camo",
+          "hf_164138",
+          0.0
+        ]
+      ],
+      "end": "They only made",
+      "hook_font_size": 96
+    },
+    {
+      "name": "Version3",
+      "hook": [
+        "LIMITED EDITION SALE 🎃",
+        "ENDS TONIGHT"
+      ],
+      "shots": [
+        [
+          "They only made",
+          "hf_093458",
+          0.0
+        ],
+        [
+          "and this Halloween",
+          "hf_164138",
+          1.5
+        ]
+      ],
+      "end": "Here's how to",
+      "hook_y": 285
+    }
+  ]
+}

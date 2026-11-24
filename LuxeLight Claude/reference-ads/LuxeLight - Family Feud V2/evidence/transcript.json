@@ -1,0 +1,2484 @@
+{
+ "text": " I didn't expect a $30 gift to cause this much chaos at our family Christmas. My brother-in-law steals them from my cousin. My cousin steals them back. My uncle freezes them. It became the gift nobody wanted to give up. Everyone else brought candles and gift cards. I brought five of these Luxe Light headlamps. The first time someone tried the motion sensor, the whole room went quiet. Just wave your hand. Light turns on. Wave again. Off. No fumbling with buttons. My nephew, who works construction, puts his on. Goes outside to his truck. Comes back 10 minutes later, still wearing it. Says it's better than the $50 headlamp his company bought him. The wide beam lights up everything at once. Not just one tiny spot like regular headlamps. You can see your whole work area without constantly turning your head. My mom uses hers for morning dog walks. Loves that when her hands are full with the leash, she can turn it on and off with a wave. Small enough to fit in a stocking, charges with USB-C, and people get genuinely excited when they try it. Oh, and they just dropped new limited edition colors too. Pink and orange. Which honestly make great gifts if you want to pick the color to match the person. Every single one comes with a free carry case as well. So they're basically gift ready out of the box. Right now, they've got up to 50% off. Which is how I managed to grab five of them. Best Christmas gift I've given that everyone actually fought over.",
+ "segments": [
+  {
+   "id": 0,
+   "seek": 0,
+   "start": 0.0,
+   "end": 3.48,
+   "text": " I didn't expect a $30 gift to cause this much chaos at our family Christmas.",
+   "tokens": [
+    50365,
+    286,
+    994,
+    380,
+    2066,
+    257,
+    1848,
+    3446,
+    5306,
+    281,
+    3082,
+    341,
+    709,
+    14158,
+    412,
+    527,
+    1605,
+    5272,
+    13,
+    50540
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " I",
+     "start": 0.0,
+     "end": 0.12,
+     "probability": 0.74462890625
+    },
+    {
+     "word": " didn't",
+     "start": 0.12,
+     "end": 0.3,
+     "probability": 0.9921875
+    },
+    {
+     "word": " expect",
+     "start": 0.3,
+     "end": 0.56,
+     "probability": 0.99560546875
+    },
+    {
+     "word": " a",
+     "start": 0.56,
+     "end": 0.78,
+     "probability": 0.955078125
+    },
+    {
+     "word": " $30",
+     "start": 0.78,
+     "end": 1.02,
+     "probability": 0.94482421875
+    },
+    {
+     "word": " gift",
+     "start": 1.02,
+     "end": 1.44,
+     "probability": 0.98193359375
+    },
+    {
+     "word": " to",
+     "start": 1.44,
+     "end": 1.58,
+     "probability": 0.9931640625
+    },
+    {
+     "word": " cause",
+     "start": 1.58,
+     "end": 1.76,
+     "probability": 0.9892578125
+    },
+    {
+     "word": " this",
+     "start": 1.76,
+     "end": 2.02,
+     "probability": 0.9794921875
+    },
+    {
+     "word": " much",
+     "start": 2.02,
+     "end": 2.24,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " chaos",
+     "start": 2.24,
+     "end": 2.6,
+     "probability": 0.998046875
+    },
+    {
+     "word": " at",
+     "start": 2.6,
+     "end": 2.8,
+     "probability": 0.9921875
+    },
+    {
+     "word": " our",
+     "start": 2.8,
+     "end": 2.88,
+     "probability": 0.99169921875
+    },
+    {
+     "word": " family",
+     "start": 2.88,
+     "end": 3.12,
+     "probability": 0.99169921875
+    },
+    {
+     "word": " Christmas.",
+     "start": 3.12,
+     "end": 3.48,
+     "probability": 0.95556640625
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "seek": 0,
+   "start": 3.7,
+   "end": 5.26,
+   "text": " My brother-in-law steals them from my cousin.",
+   "tokens": [
+    50551,
+    1222,
+    3708,
+    12,
+    259,
+    12,
+    5901,
+    46962,
+    552,
+    490,
+    452,
+    16207,
+    13,
+    50629
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " My",
+     "start": 3.7,
+     "end": 3.8,
+     "probability": 0.98876953125
+    },
+    {
+     "word": " brother",
+     "start": 3.8,
+     "end": 4.04,
+     "probability": 0.98828125
+    },
+    {
+     "word": "-in",
+     "start": 4.04,
+     "end": 4.18,
+     "probability": 0.9326171875
+    },
+    {
+     "word": "-law",
+     "start": 4.18,
+     "end": 4.26,
+     "probability": 0.998046875
+    },
+    {
+     "word": " steals",
+     "start": 4.26,
+     "end": 4.56,
+     "probability": 0.99267578125
+    },
+    {
+     "word": " them",
+     "start": 4.56,
+     "end": 4.76,
+     "probability": 0.9912109375
+    },
+    {
+     "word": " from",
+     "start": 4.76,
+     "end": 4.9,
+     "probability": 0.99609375
+    },
+    {
+     "word": " my",
+     "start": 4.9,
+     "end": 5.04,
+     "probability": 0.998046875
+    },
+    {
+     "word": " cousin.",
+     "start": 5.04,
+     "end": 5.26,
+     "probability": 0.99609375
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "seek": 0,
+   "start": 5.42,
+   "end": 6.5,
+   "text": " My cousin steals them back.",
+   "tokens": [
+    50637,
+    1222,
+    16207,
+    46962,
+    552,
+    646,
+    13,
+    50695
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " My",
+     "start": 5.42,
+     "end": 5.54,
+     "probability": 0.99755859375
+    },
+    {
+     "word": " cousin",
+     "start": 5.54,
+     "end": 5.82,
+     "probability": 0.99267578125
+    },
+    {
+     "word": " steals",
+     "start": 5.82,
+     "end": 6.12,
+     "probability": 0.98876953125
+    },
+    {
+     "word": " them",
+     "start": 6.12,
+     "end": 6.28,
+     "probability": 0.99755859375
+    },
+    {
+     "word": " back.",
+     "start": 6.28,
+     "end": 6.5,
+     "probability": 0.9990234375
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "seek": 0,
+   "start": 6.74,
+   "end": 7.88,
+   "text": " My uncle freezes them.",
+   "tokens": [
+    50702,
+    1222,
+    9153,
+    1737,
+    12214,
+    552,
+    13,
+    50761
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " My",
+     "start": 6.74,
+     "end": 6.86,
+     "probability": 0.998046875
+    },
+    {
+     "word": " uncle",
+     "start": 6.86,
+     "end": 7.16,
+     "probability": 0.982421875
+    },
+    {
+     "word": " freezes",
+     "start": 7.16,
+     "end": 7.72,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " them.",
+     "start": 7.72,
+     "end": 7.88,
+     "probability": 0.99853515625
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "seek": 0,
+   "start": 8.02,
+   "end": 9.74,
+   "text": " It became the gift nobody wanted to give up.",
+   "tokens": [
+    50766,
+    467,
+    3062,
+    264,
+    5306,
+    5079,
+    1415,
+    281,
+    976,
+    493,
+    13,
+    50853
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " It",
+     "start": 8.02,
+     "end": 8.12,
+     "probability": 0.9970703125
+    },
+    {
+     "word": " became",
+     "start": 8.12,
+     "end": 8.34,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " the",
+     "start": 8.34,
+     "end": 8.46,
+     "probability": 0.970703125
+    },
+    {
+     "word": " gift",
+     "start": 8.46,
+     "end": 8.62,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " nobody",
+     "start": 8.62,
+     "end": 9.02,
+     "probability": 0.98486328125
+    },
+    {
+     "word": " wanted",
+     "start": 9.02,
+     "end": 9.34,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " to",
+     "start": 9.34,
+     "end": 9.46,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " give",
+     "start": 9.46,
+     "end": 9.58,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " up.",
+     "start": 9.58,
+     "end": 9.74,
+     "probability": 0.9990234375
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "seek": 0,
+   "start": 9.88,
+   "end": 11.58,
+   "text": " Everyone else brought candles and gift cards.",
+   "tokens": [
+    50861,
+    5198,
+    1646,
+    3038,
+    23774,
+    293,
+    5306,
+    5632,
+    13,
+    50943
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " Everyone",
+     "start": 9.88,
+     "end": 10.16,
+     "probability": 0.99609375
+    },
+    {
+     "word": " else",
+     "start": 10.16,
+     "end": 10.36,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " brought",
+     "start": 10.36,
+     "end": 10.54,
+     "probability": 0.98681640625
+    },
+    {
+     "word": " candles",
+     "start": 10.54,
+     "end": 10.96,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " and",
+     "start": 10.96,
+     "end": 11.14,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " gift",
+     "start": 11.14,
+     "end": 11.3,
+     "probability": 0.998046875
+    },
+    {
+     "word": " cards.",
+     "start": 11.3,
+     "end": 11.58,
+     "probability": 0.99560546875
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "seek": 0,
+   "start": 11.72,
+   "end": 13.72,
+   "text": " I brought five of these Luxe Light headlamps.",
+   "tokens": [
+    50952,
+    286,
+    3038,
+    1732,
+    295,
+    613,
+    25767,
+    68,
+    8279,
+    1378,
+    75,
+    23150,
+    13,
+    51051
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " I",
+     "start": 11.72,
+     "end": 11.92,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " brought",
+     "start": 11.92,
+     "end": 12.14,
+     "probability": 0.99169921875
+    },
+    {
+     "word": " five",
+     "start": 12.14,
+     "end": 12.52,
+     "probability": 0.8798828125
+    },
+    {
+     "word": " of",
+     "start": 12.52,
+     "end": 12.68,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " these",
+     "start": 12.68,
+     "end": 12.84,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " Luxe",
+     "start": 12.84,
+     "end": 13.18,
+     "probability": 0.52490234375
+    },
+    {
+     "word": " Light",
+     "start": 13.18,
+     "end": 13.28,
+     "probability": 0.2802734375
+    },
+    {
+     "word": " headlamps.",
+     "start": 13.28,
+     "end": 13.72,
+     "probability": 0.97607421875
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "seek": 0,
+   "start": 13.84,
+   "end": 16.64,
+   "text": " The first time someone tried the motion sensor, the whole room went quiet.",
+   "tokens": [
+    51058,
+    440,
+    700,
+    565,
+    1580,
+    3031,
+    264,
+    5394,
+    10200,
+    11,
+    264,
+    1379,
+    1808,
+    1437,
+    5677,
+    13,
+    51199
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " The",
+     "start": 13.84,
+     "end": 13.96,
+     "probability": 0.998046875
+    },
+    {
+     "word": " first",
+     "start": 13.96,
+     "end": 14.12,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " time",
+     "start": 14.12,
+     "end": 14.28,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " someone",
+     "start": 14.28,
+     "end": 14.5,
+     "probability": 0.99560546875
+    },
+    {
+     "word": " tried",
+     "start": 14.5,
+     "end": 14.72,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " the",
+     "start": 14.72,
+     "end": 14.82,
+     "probability": 0.9970703125
+    },
+    {
+     "word": " motion",
+     "start": 14.82,
+     "end": 15.04,
+     "probability": 0.9853515625
+    },
+    {
+     "word": " sensor,",
+     "start": 15.04,
+     "end": 15.38,
+     "probability": 0.99658203125
+    },
+    {
+     "word": " the",
+     "start": 15.48,
+     "end": 15.62,
+     "probability": 0.99462890625
+    },
+    {
+     "word": " whole",
+     "start": 15.62,
+     "end": 15.88,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " room",
+     "start": 15.88,
+     "end": 16.18,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " went",
+     "start": 16.18,
+     "end": 16.3,
+     "probability": 0.9794921875
+    },
+    {
+     "word": " quiet.",
+     "start": 16.3,
+     "end": 16.64,
+     "probability": 0.9970703125
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "seek": 0,
+   "start": 16.82,
+   "end": 17.4,
+   "text": " Just wave your hand.",
+   "tokens": [
+    51206,
+    1449,
+    5772,
+    428,
+    1011,
+    13,
+    51237
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " Just",
+     "start": 16.82,
+     "end": 16.92,
+     "probability": 0.99365234375
+    },
+    {
+     "word": " wave",
+     "start": 16.92,
+     "end": 17.08,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " your",
+     "start": 17.08,
+     "end": 17.18,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " hand.",
+     "start": 17.18,
+     "end": 17.4,
+     "probability": 0.99853515625
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "seek": 0,
+   "start": 17.54,
+   "end": 18.08,
+   "text": " Light turns on.",
+   "tokens": [
+    51244,
+    8279,
+    4523,
+    322,
+    13,
+    51272
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " Light",
+     "start": 17.54,
+     "end": 17.68,
+     "probability": 0.99365234375
+    },
+    {
+     "word": " turns",
+     "start": 17.68,
+     "end": 17.88,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " on.",
+     "start": 17.88,
+     "end": 18.08,
+     "probability": 0.99853515625
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "seek": 0,
+   "start": 18.22,
+   "end": 18.54,
+   "text": " Wave again.",
+   "tokens": [
+    51277,
+    28530,
+    797,
+    13,
+    51294
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " Wave",
+     "start": 18.22,
+     "end": 18.34,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " again.",
+     "start": 18.34,
+     "end": 18.54,
+     "probability": 0.99951171875
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "seek": 0,
+   "start": 18.68,
+   "end": 18.88,
+   "text": " Off.",
+   "tokens": [
+    51300,
+    6318,
+    13,
+    51311
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " Off.",
+     "start": 18.68,
+     "end": 18.88,
+     "probability": 0.986328125
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "seek": 0,
+   "start": 19.02,
+   "end": 19.94,
+   "text": " No fumbling with buttons.",
+   "tokens": [
+    51318,
+    883,
+    283,
+    14188,
+    365,
+    9905,
+    13,
+    51363
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " No",
+     "start": 19.02,
+     "end": 19.22,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " fumbling",
+     "start": 19.22,
+     "end": 19.54,
+     "probability": 1.0
+    },
+    {
+     "word": " with",
+     "start": 19.54,
+     "end": 19.7,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " buttons.",
+     "start": 19.7,
+     "end": 19.94,
+     "probability": 0.99951171875
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "seek": 0,
+   "start": 20.14,
+   "end": 21.98,
+   "text": " My nephew, who works construction, puts his on.",
+   "tokens": [
+    51372,
+    1222,
+    30799,
+    11,
+    567,
+    1985,
+    6435,
+    11,
+    8137,
+    702,
+    322,
+    13,
+    51465
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " My",
+     "start": 20.14,
+     "end": 20.24,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " nephew,",
+     "start": 20.24,
+     "end": 20.52,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " who",
+     "start": 20.52,
+     "end": 20.76,
+     "probability": 1.0
+    },
+    {
+     "word": " works",
+     "start": 20.76,
+     "end": 20.94,
+     "probability": 1.0
+    },
+    {
+     "word": " construction,",
+     "start": 20.94,
+     "end": 21.32,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " puts",
+     "start": 21.54,
+     "end": 21.68,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " his",
+     "start": 21.68,
+     "end": 21.84,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " on.",
+     "start": 21.84,
+     "end": 21.98,
+     "probability": 0.9990234375
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "seek": 0,
+   "start": 22.08,
+   "end": 22.92,
+   "text": " Goes outside to his truck.",
+   "tokens": [
+    51469,
+    44471,
+    2380,
+    281,
+    702,
+    5898,
+    13,
+    51512
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " Goes",
+     "start": 22.08,
+     "end": 22.2,
+     "probability": 0.99658203125
+    },
+    {
+     "word": " outside",
+     "start": 22.2,
+     "end": 22.48,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " to",
+     "start": 22.48,
+     "end": 22.58,
+     "probability": 1.0
+    },
+    {
+     "word": " his",
+     "start": 22.58,
+     "end": 22.7,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " truck.",
+     "start": 22.7,
+     "end": 22.92,
+     "probability": 0.99951171875
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "seek": 0,
+   "start": 23.04,
+   "end": 24.94,
+   "text": " Comes back 10 minutes later, still wearing it.",
+   "tokens": [
+    51518,
+    47290,
+    646,
+    1266,
+    2077,
+    1780,
+    11,
+    920,
+    4769,
+    309,
+    13,
+    51613
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " Comes",
+     "start": 23.04,
+     "end": 23.22,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " back",
+     "start": 23.22,
+     "end": 23.38,
+     "probability": 1.0
+    },
+    {
+     "word": " 10",
+     "start": 23.38,
+     "end": 23.6,
+     "probability": 0.6259765625
+    },
+    {
+     "word": " minutes",
+     "start": 23.6,
+     "end": 23.84,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " later,",
+     "start": 23.84,
+     "end": 24.12,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " still",
+     "start": 24.18,
+     "end": 24.5,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " wearing",
+     "start": 24.5,
+     "end": 24.78,
+     "probability": 1.0
+    },
+    {
+     "word": " it.",
+     "start": 24.78,
+     "end": 24.94,
+     "probability": 0.99951171875
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "seek": 0,
+   "start": 25.0,
+   "end": 27.4,
+   "text": " Says it's better than the $50 headlamp his company bought him.",
+   "tokens": [
+    51616,
+    36780,
+    309,
+    311,
+    1101,
+    813,
+    264,
+    1848,
+    2803,
+    1378,
+    75,
+    1215,
+    702,
+    2237,
+    4243,
+    796,
+    13,
+    51737
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " Says",
+     "start": 25.0,
+     "end": 25.14,
+     "probability": 0.9052734375
+    },
+    {
+     "word": " it's",
+     "start": 25.14,
+     "end": 25.32,
+     "probability": 0.9970703125
+    },
+    {
+     "word": " better",
+     "start": 25.32,
+     "end": 25.5,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " than",
+     "start": 25.5,
+     "end": 25.64,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " the",
+     "start": 25.64,
+     "end": 25.78,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " $50",
+     "start": 25.78,
+     "end": 26.06,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " headlamp",
+     "start": 26.06,
+     "end": 26.64,
+     "probability": 0.9970703125
+    },
+    {
+     "word": " his",
+     "start": 26.64,
+     "end": 26.76,
+     "probability": 0.99755859375
+    },
+    {
+     "word": " company",
+     "start": 26.76,
+     "end": 27.06,
+     "probability": 1.0
+    },
+    {
+     "word": " bought",
+     "start": 27.06,
+     "end": 27.3,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " him.",
+     "start": 27.3,
+     "end": 27.4,
+     "probability": 0.958984375
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "seek": 0,
+   "start": 27.5,
+   "end": 29.2,
+   "text": " The wide beam lights up everything at once.",
+   "tokens": [
+    51737,
+    440,
+    4874,
+    14269,
+    5811,
+    493,
+    1203,
+    412,
+    1564,
+    13,
+    51827
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.13692128718807006,
+   "compression_ratio": 1.6329411764705883,
+   "no_speech_prob": 2.4559538430724004e-12,
+   "words": [
+    {
+     "word": " The",
+     "start": 27.5,
+     "end": 27.64,
+     "probability": 0.99658203125
+    },
+    {
+     "word": " wide",
+     "start": 27.64,
+     "end": 27.84,
+     "probability": 0.70703125
+    },
+    {
+     "word": " beam",
+     "start": 27.84,
+     "end": 28.04,
+     "probability": 0.89501953125
+    },
+    {
+     "word": " lights",
+     "start": 28.04,
+     "end": 28.24,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " up",
+     "start": 28.24,
+     "end": 28.44,
+     "probability": 0.99755859375
+    },
+    {
+     "word": " everything",
+     "start": 28.44,
+     "end": 28.78,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " at",
+     "start": 28.78,
+     "end": 29.0,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " once.",
+     "start": 29.0,
+     "end": 29.2,
+     "probability": 0.9990234375
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "seek": 2920,
+   "start": 29.2,
+   "end": 31.44,
+   "text": " Not just one tiny spot like regular headlamps.",
+   "tokens": [
+    50365,
+    1726,
+    445,
+    472,
+    5870,
+    4008,
+    411,
+    3890,
+    1378,
+    75,
+    23150,
+    13,
+    50478
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.08557726234518072,
+   "compression_ratio": 1.6423529411764706,
+   "no_speech_prob": 1.7832424989774887e-12,
+   "words": [
+    {
+     "word": " Not",
+     "start": 29.2,
+     "end": 29.52,
+     "probability": 0.736328125
+    },
+    {
+     "word": " just",
+     "start": 29.52,
+     "end": 29.74,
+     "probability": 0.99365234375
+    },
+    {
+     "word": " one",
+     "start": 29.74,
+     "end": 29.96,
+     "probability": 0.9853515625
+    },
+    {
+     "word": " tiny",
+     "start": 29.96,
+     "end": 30.24,
+     "probability": 0.99169921875
+    },
+    {
+     "word": " spot",
+     "start": 30.24,
+     "end": 30.56,
+     "probability": 0.99609375
+    },
+    {
+     "word": " like",
+     "start": 30.56,
+     "end": 30.72,
+     "probability": 0.92822265625
+    },
+    {
+     "word": " regular",
+     "start": 30.72,
+     "end": 31.0,
+     "probability": 0.99560546875
+    },
+    {
+     "word": " headlamps.",
+     "start": 31.0,
+     "end": 31.44,
+     "probability": 0.98779296875
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "seek": 2920,
+   "start": 31.54,
+   "end": 34.16,
+   "text": " You can see your whole work area without constantly turning your head.",
+   "tokens": [
+    50484,
+    509,
+    393,
+    536,
+    428,
+    1379,
+    589,
+    1859,
+    1553,
+    6460,
+    6246,
+    428,
+    1378,
+    13,
+    50617
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.08557726234518072,
+   "compression_ratio": 1.6423529411764706,
+   "no_speech_prob": 1.7832424989774887e-12,
+   "words": [
+    {
+     "word": " You",
+     "start": 31.54,
+     "end": 31.64,
+     "probability": 0.9931640625
+    },
+    {
+     "word": " can",
+     "start": 31.64,
+     "end": 31.74,
+     "probability": 0.9970703125
+    },
+    {
+     "word": " see",
+     "start": 31.74,
+     "end": 31.88,
+     "probability": 0.99755859375
+    },
+    {
+     "word": " your",
+     "start": 31.88,
+     "end": 32.04,
+     "probability": 0.9951171875
+    },
+    {
+     "word": " whole",
+     "start": 32.04,
+     "end": 32.28,
+     "probability": 0.99658203125
+    },
+    {
+     "word": " work",
+     "start": 32.28,
+     "end": 32.54,
+     "probability": 0.9921875
+    },
+    {
+     "word": " area",
+     "start": 32.54,
+     "end": 32.78,
+     "probability": 0.99609375
+    },
+    {
+     "word": " without",
+     "start": 32.78,
+     "end": 33.0,
+     "probability": 0.99169921875
+    },
+    {
+     "word": " constantly",
+     "start": 33.0,
+     "end": 33.58,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " turning",
+     "start": 33.58,
+     "end": 33.82,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " your",
+     "start": 33.82,
+     "end": 33.98,
+     "probability": 0.99658203125
+    },
+    {
+     "word": " head.",
+     "start": 33.98,
+     "end": 34.16,
+     "probability": 0.99951171875
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "seek": 2920,
+   "start": 34.32,
+   "end": 35.9,
+   "text": " My mom uses hers for morning dog walks.",
+   "tokens": [
+    50622,
+    1222,
+    1225,
+    4960,
+    6820,
+    337,
+    2446,
+    3000,
+    12896,
+    13,
+    50700
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.08557726234518072,
+   "compression_ratio": 1.6423529411764706,
+   "no_speech_prob": 1.7832424989774887e-12,
+   "words": [
+    {
+     "word": " My",
+     "start": 34.32,
+     "end": 34.42,
+     "probability": 0.99755859375
+    },
+    {
+     "word": " mom",
+     "start": 34.42,
+     "end": 34.58,
+     "probability": 0.98291015625
+    },
+    {
+     "word": " uses",
+     "start": 34.58,
+     "end": 34.82,
+     "probability": 0.99658203125
+    },
+    {
+     "word": " hers",
+     "start": 34.82,
+     "end": 34.98,
+     "probability": 0.98193359375
+    },
+    {
+     "word": " for",
+     "start": 34.98,
+     "end": 35.16,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " morning",
+     "start": 35.16,
+     "end": 35.38,
+     "probability": 0.9951171875
+    },
+    {
+     "word": " dog",
+     "start": 35.38,
+     "end": 35.58,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " walks.",
+     "start": 35.58,
+     "end": 35.9,
+     "probability": 0.97412109375
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "seek": 2920,
+   "start": 36.04,
+   "end": 39.08,
+   "text": " Loves that when her hands are full with the leash, she can turn it on and off with a wave.",
+   "tokens": [
+    50709,
+    6130,
+    977,
+    300,
+    562,
+    720,
+    2377,
+    366,
+    1577,
+    365,
+    264,
+    41616,
+    11,
+    750,
+    393,
+    1261,
+    309,
+    322,
+    293,
+    766,
+    365,
+    257,
+    5772,
+    13,
+    50861
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.08557726234518072,
+   "compression_ratio": 1.6423529411764706,
+   "no_speech_prob": 1.7832424989774887e-12,
+   "words": [
+    {
+     "word": " Loves",
+     "start": 36.04,
+     "end": 36.32,
+     "probability": 0.99658203125
+    },
+    {
+     "word": " that",
+     "start": 36.32,
+     "end": 36.42,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " when",
+     "start": 36.42,
+     "end": 36.52,
+     "probability": 0.99755859375
+    },
+    {
+     "word": " her",
+     "start": 36.52,
+     "end": 36.6,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " hands",
+     "start": 36.6,
+     "end": 36.84,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " are",
+     "start": 36.84,
+     "end": 36.92,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " full",
+     "start": 36.92,
+     "end": 37.06,
+     "probability": 0.99755859375
+    },
+    {
+     "word": " with",
+     "start": 37.06,
+     "end": 37.18,
+     "probability": 0.99755859375
+    },
+    {
+     "word": " the",
+     "start": 37.18,
+     "end": 37.26,
+     "probability": 0.90380859375
+    },
+    {
+     "word": " leash,",
+     "start": 37.26,
+     "end": 37.48,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " she",
+     "start": 37.56,
+     "end": 37.68,
+     "probability": 0.9931640625
+    },
+    {
+     "word": " can",
+     "start": 37.68,
+     "end": 37.8,
+     "probability": 1.0
+    },
+    {
+     "word": " turn",
+     "start": 37.8,
+     "end": 37.94,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " it",
+     "start": 37.94,
+     "end": 38.06,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " on",
+     "start": 38.06,
+     "end": 38.28,
+     "probability": 0.998046875
+    },
+    {
+     "word": " and",
+     "start": 38.28,
+     "end": 38.46,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " off",
+     "start": 38.46,
+     "end": 38.66,
+     "probability": 1.0
+    },
+    {
+     "word": " with",
+     "start": 38.66,
+     "end": 38.8,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " a",
+     "start": 38.8,
+     "end": 38.88,
+     "probability": 0.98583984375
+    },
+    {
+     "word": " wave.",
+     "start": 38.88,
+     "end": 39.08,
+     "probability": 0.98583984375
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "seek": 2920,
+   "start": 39.24,
+   "end": 43.5,
+   "text": " Small enough to fit in a stocking, charges with USB-C, and people get genuinely excited when they try it.",
+   "tokens": [
+    50866,
+    15287,
+    1547,
+    281,
+    3318,
+    294,
+    257,
+    4127,
+    278,
+    11,
+    12235,
+    365,
+    10109,
+    12,
+    34,
+    11,
+    293,
+    561,
+    483,
+    17839,
+    2919,
+    562,
+    436,
+    853,
+    309,
+    13,
+    51081
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.08557726234518072,
+   "compression_ratio": 1.6423529411764706,
+   "no_speech_prob": 1.7832424989774887e-12,
+   "words": [
+    {
+     "word": " Small",
+     "start": 39.24,
+     "end": 39.4,
+     "probability": 0.9951171875
+    },
+    {
+     "word": " enough",
+     "start": 39.4,
+     "end": 39.58,
+     "probability": 1.0
+    },
+    {
+     "word": " to",
+     "start": 39.58,
+     "end": 39.72,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " fit",
+     "start": 39.72,
+     "end": 39.82,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " in",
+     "start": 39.82,
+     "end": 39.9,
+     "probability": 0.998046875
+    },
+    {
+     "word": " a",
+     "start": 39.9,
+     "end": 40.0,
+     "probability": 0.9873046875
+    },
+    {
+     "word": " stocking,",
+     "start": 40.0,
+     "end": 40.34,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " charges",
+     "start": 40.46,
+     "end": 40.7,
+     "probability": 0.982421875
+    },
+    {
+     "word": " with",
+     "start": 40.7,
+     "end": 40.86,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " USB",
+     "start": 40.86,
+     "end": 41.16,
+     "probability": 0.93408203125
+    },
+    {
+     "word": "-C,",
+     "start": 41.16,
+     "end": 41.42,
+     "probability": 0.99462890625
+    },
+    {
+     "word": " and",
+     "start": 41.52,
+     "end": 41.64,
+     "probability": 0.998046875
+    },
+    {
+     "word": " people",
+     "start": 41.64,
+     "end": 41.82,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " get",
+     "start": 41.82,
+     "end": 42.0,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " genuinely",
+     "start": 42.0,
+     "end": 42.48,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " excited",
+     "start": 42.48,
+     "end": 42.88,
+     "probability": 1.0
+    },
+    {
+     "word": " when",
+     "start": 42.88,
+     "end": 43.06,
+     "probability": 1.0
+    },
+    {
+     "word": " they",
+     "start": 43.06,
+     "end": 43.16,
+     "probability": 1.0
+    },
+    {
+     "word": " try",
+     "start": 43.16,
+     "end": 43.34,
+     "probability": 1.0
+    },
+    {
+     "word": " it.",
+     "start": 43.34,
+     "end": 43.5,
+     "probability": 1.0
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "seek": 2920,
+   "start": 43.56,
+   "end": 46.18,
+   "text": " Oh, and they just dropped new limited edition colors too.",
+   "tokens": [
+    51083,
+    876,
+    11,
+    293,
+    436,
+    445,
+    8119,
+    777,
+    5567,
+    11377,
+    4577,
+    886,
+    13,
+    51217
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.08557726234518072,
+   "compression_ratio": 1.6423529411764706,
+   "no_speech_prob": 1.7832424989774887e-12,
+   "words": [
+    {
+     "word": " Oh,",
+     "start": 43.56,
+     "end": 43.68,
+     "probability": 0.998046875
+    },
+    {
+     "word": " and",
+     "start": 43.9,
+     "end": 44.14,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " they",
+     "start": 44.14,
+     "end": 44.34,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " just",
+     "start": 44.34,
+     "end": 44.56,
+     "probability": 0.93896484375
+    },
+    {
+     "word": " dropped",
+     "start": 44.56,
+     "end": 44.78,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " new",
+     "start": 44.78,
+     "end": 45.02,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " limited",
+     "start": 45.02,
+     "end": 45.3,
+     "probability": 0.9931640625
+    },
+    {
+     "word": " edition",
+     "start": 45.3,
+     "end": 45.64,
+     "probability": 0.9169921875
+    },
+    {
+     "word": " colors",
+     "start": 45.64,
+     "end": 45.92,
+     "probability": 0.9736328125
+    },
+    {
+     "word": " too.",
+     "start": 45.92,
+     "end": 46.18,
+     "probability": 0.83642578125
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "seek": 2920,
+   "start": 46.32,
+   "end": 46.98,
+   "text": " Pink and orange.",
+   "tokens": [
+    51222,
+    17118,
+    293,
+    7671,
+    13,
+    51255
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.08557726234518072,
+   "compression_ratio": 1.6423529411764706,
+   "no_speech_prob": 1.7832424989774887e-12,
+   "words": [
+    {
+     "word": " Pink",
+     "start": 46.32,
+     "end": 46.5,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " and",
+     "start": 46.5,
+     "end": 46.68,
+     "probability": 1.0
+    },
+    {
+     "word": " orange.",
+     "start": 46.68,
+     "end": 46.98,
+     "probability": 0.9970703125
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "seek": 2920,
+   "start": 47.12,
+   "end": 49.96,
+   "text": " Which honestly make great gifts if you want to pick the color to match the person.",
+   "tokens": [
+    51260,
+    3013,
+    6095,
+    652,
+    869,
+    11449,
+    498,
+    291,
+    528,
+    281,
+    1888,
+    264,
+    2017,
+    281,
+    2995,
+    264,
+    954,
+    13,
+    51405
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.08557726234518072,
+   "compression_ratio": 1.6423529411764706,
+   "no_speech_prob": 1.7832424989774887e-12,
+   "words": [
+    {
+     "word": " Which",
+     "start": 47.12,
+     "end": 47.26,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " honestly",
+     "start": 47.26,
+     "end": 47.62,
+     "probability": 0.8515625
+    },
+    {
+     "word": " make",
+     "start": 47.62,
+     "end": 47.88,
+     "probability": 0.9521484375
+    },
+    {
+     "word": " great",
+     "start": 47.88,
+     "end": 48.2,
+     "probability": 1.0
+    },
+    {
+     "word": " gifts",
+     "start": 48.2,
+     "end": 48.46,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " if",
+     "start": 48.46,
+     "end": 48.6,
+     "probability": 0.99853515625
+    },
+    {
+     "word": " you",
+     "start": 48.6,
+     "end": 48.66,
+     "probability": 1.0
+    },
+    {
+     "word": " want",
+     "start": 48.66,
+     "end": 48.76,
+     "probability": 0.95849609375
+    },
+    {
+     "word": " to",
+     "start": 48.76,
+     "end": 48.86,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " pick",
+     "start": 48.86,
+     "end": 49.0,
+     "probability": 1.0
+    },
+    {
+     "word": " the",
+     "start": 49.0,
+     "end": 49.12,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " color",
+     "start": 49.12,
+     "end": 49.3,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " to",
+     "start": 49.3,
+     "end": 49.42,
+     "probability": 1.0
+    },
+    {
+     "word": " match",
+     "start": 49.42,
+     "end": 49.58,
+     "probability": 1.0
+    },
+    {
+     "word": " the",
+     "start": 49.58,
+     "end": 49.7,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " person.",
+     "start": 49.7,
+     "end": 49.96,
+     "probability": 1.0
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "seek": 2920,
+   "start": 50.16,
+   "end": 52.28,
+   "text": " Every single one comes with a free carry case as well.",
+   "tokens": [
+    51413,
+    2048,
+    2167,
+    472,
+    1487,
+    365,
+    257,
+    1737,
+    3985,
+    1389,
+    382,
+    731,
+    13,
+    51521
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.08557726234518072,
+   "compression_ratio": 1.6423529411764706,
+   "no_speech_prob": 1.7832424989774887e-12,
+   "words": [
+    {
+     "word": " Every",
+     "start": 50.16,
+     "end": 50.4,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " single",
+     "start": 50.4,
+     "end": 50.62,
+     "probability": 1.0
+    },
+    {
+     "word": " one",
+     "start": 50.62,
+     "end": 50.84,
+     "probability": 1.0
+    },
+    {
+     "word": " comes",
+     "start": 50.84,
+     "end": 51.08,
+     "probability": 1.0
+    },
+    {
+     "word": " with",
+     "start": 51.08,
+     "end": 51.2,
+     "probability": 1.0
+    },
+    {
+     "word": " a",
+     "start": 51.2,
+     "end": 51.36,
+     "probability": 1.0
+    },
+    {
+     "word": " free",
+     "start": 51.36,
+     "end": 51.48,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " carry",
+     "start": 51.48,
+     "end": 51.74,
+     "probability": 0.99755859375
+    },
+    {
+     "word": " case",
+     "start": 51.74,
+     "end": 51.98,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " as",
+     "start": 51.98,
+     "end": 52.14,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " well.",
+     "start": 52.14,
+     "end": 52.28,
+     "probability": 1.0
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "seek": 2920,
+   "start": 52.44,
+   "end": 54.1,
+   "text": " So they're basically gift ready out of the box.",
+   "tokens": [
+    51524,
+    407,
+    436,
+    434,
+    1936,
+    5306,
+    1919,
+    484,
+    295,
+    264,
+    2424,
+    13,
+    51612
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.08557726234518072,
+   "compression_ratio": 1.6423529411764706,
+   "no_speech_prob": 1.7832424989774887e-12,
+   "words": [
+    {
+     "word": " So",
+     "start": 52.44,
+     "end": 52.52,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " they're",
+     "start": 52.52,
+     "end": 52.76,
+     "probability": 0.98046875
+    },
+    {
+     "word": " basically",
+     "start": 52.76,
+     "end": 53.06,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " gift",
+     "start": 53.06,
+     "end": 53.36,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " ready",
+     "start": 53.36,
+     "end": 53.56,
+     "probability": 0.78271484375
+    },
+    {
+     "word": " out",
+     "start": 53.56,
+     "end": 53.72,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " of",
+     "start": 53.72,
+     "end": 53.76,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " the",
+     "start": 53.76,
+     "end": 53.84,
+     "probability": 1.0
+    },
+    {
+     "word": " box.",
+     "start": 53.84,
+     "end": 54.1,
+     "probability": 1.0
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "seek": 2920,
+   "start": 54.26,
+   "end": 55.94,
+   "text": " Right now, they've got up to 50% off.",
+   "tokens": [
+    51612,
+    1779,
+    586,
+    11,
+    436,
+    600,
+    658,
+    493,
+    281,
+    2625,
+    4,
+    766,
+    13,
+    51705
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.08557726234518072,
+   "compression_ratio": 1.6423529411764706,
+   "no_speech_prob": 1.7832424989774887e-12,
+   "words": [
+    {
+     "word": " Right",
+     "start": 54.26,
+     "end": 54.4,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " now,",
+     "start": 54.4,
+     "end": 54.54,
+     "probability": 1.0
+    },
+    {
+     "word": " they've",
+     "start": 54.62,
+     "end": 54.8,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " got",
+     "start": 54.8,
+     "end": 54.84,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " up",
+     "start": 54.84,
+     "end": 54.96,
+     "probability": 1.0
+    },
+    {
+     "word": " to",
+     "start": 54.96,
+     "end": 55.12,
+     "probability": 1.0
+    },
+    {
+     "word": " 50",
+     "start": 55.12,
+     "end": 55.4,
+     "probability": 0.99951171875
+    },
+    {
+     "word": "%",
+     "start": 55.4,
+     "end": 55.64,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " off.",
+     "start": 55.64,
+     "end": 55.94,
+     "probability": 1.0
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "seek": 2920,
+   "start": 56.1,
+   "end": 57.86,
+   "text": " Which is how I managed to grab five of them.",
+   "tokens": [
+    51710,
+    3013,
+    307,
+    577,
+    286,
+    6453,
+    281,
+    4444,
+    1732,
+    295,
+    552,
+    13,
+    51800
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.08557726234518072,
+   "compression_ratio": 1.6423529411764706,
+   "no_speech_prob": 1.7832424989774887e-12,
+   "words": [
+    {
+     "word": " Which",
+     "start": 56.1,
+     "end": 56.22,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " is",
+     "start": 56.22,
+     "end": 56.38,
+     "probability": 1.0
+    },
+    {
+     "word": " how",
+     "start": 56.38,
+     "end": 56.52,
+     "probability": 1.0
+    },
+    {
+     "word": " I",
+     "start": 56.52,
+     "end": 56.76,
+     "probability": 1.0
+    },
+    {
+     "word": " managed",
+     "start": 56.76,
+     "end": 57.04,
+     "probability": 0.9677734375
+    },
+    {
+     "word": " to",
+     "start": 57.04,
+     "end": 57.18,
+     "probability": 1.0
+    },
+    {
+     "word": " grab",
+     "start": 57.18,
+     "end": 57.32,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " five",
+     "start": 57.32,
+     "end": 57.58,
+     "probability": 0.81494140625
+    },
+    {
+     "word": " of",
+     "start": 57.58,
+     "end": 57.7,
+     "probability": 1.0
+    },
+    {
+     "word": " them.",
+     "start": 57.7,
+     "end": 57.86,
+     "probability": 1.0
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "seek": 5786,
+   "start": 57.86,
+   "end": 61.14,
+   "text": " Best Christmas gift I've given that everyone actually fought over.",
+   "tokens": [
+    50365,
+    9752,
+    5272,
+    5306,
+    286,
+    600,
+    2212,
+    300,
+    1518,
+    767,
+    11391,
+    670,
+    13,
+    50531
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.08852192560831705,
+   "compression_ratio": 0.9295774647887324,
+   "no_speech_prob": 1.7605345349960833e-12,
+   "words": [
+    {
+     "word": " Best",
+     "start": 57.86,
+     "end": 58.74,
+     "probability": 0.6474609375
+    },
+    {
+     "word": " Christmas",
+     "start": 58.74,
+     "end": 59.02,
+     "probability": 0.99267578125
+    },
+    {
+     "word": " gift",
+     "start": 59.02,
+     "end": 59.24,
+     "probability": 0.98974609375
+    },
+    {
+     "word": " I've",
+     "start": 59.24,
+     "end": 59.4,
+     "probability": 0.9931640625
+    },
+    {
+     "word": " given",
+     "start": 59.4,
+     "end": 59.6,
+     "probability": 0.998046875
+    },
+    {
+     "word": " that",
+     "start": 59.6,
+     "end": 59.8,
+     "probability": 0.9765625
+    },
+    {
+     "word": " everyone",
+     "start": 59.8,
+     "end": 60.18,
+     "probability": 0.99609375
+    },
+    {
+     "word": " actually",
+     "start": 60.18,
+     "end": 60.6,
+     "probability": 0.99658203125
+    },
+    {
+     "word": " fought",
+     "start": 60.6,
+     "end": 60.88,
+     "probability": 0.998046875
+    },
+    {
+     "word": " over.",
+     "start": 60.88,
+     "end": 61.14,
+     "probability": 0.99951171875
+    }
+   ]
+  }
+ ],
+ "language": "en"
+}

@@ -1,0 +1,7 @@
+imageio-ffmpeg
+mlx-whisper==0.4.3
+pillow==11.3.0
+numpy==2.0.2
+opencv-python-headless
+torch==2.8.0
+torchaudio==2.8.0

@@ -1,0 +1,185 @@
+length 71.40s -> 71.17s
+removed video IMG_6683.mov at 4.73-5.23
+removed video snaptik_7445477381474716959_v3.mp4 at 5.23-6.27
+removed video IMG_3321.mov at 6.27-7.10
+removed video IMG_9940.MOV at 7.10-8.70
+removed video 08RedLight.mp4 at 8.70-10.70
+removed video hf_20261012_174755_e77de02c-dcf0-4c62-9986-65646c1f022f.mp4 at 10.70-11.90
+removed video hf_20261012_185649_2ad7f962-3dd1-4f56-a4b0-23b1f87d879d.mp4 at 11.90-14.00
+removed video IMG_6616.MOV at 14.00-15.63
+removed video hf_20260924_232616_8f1ac948-aea9-42f9-9960-f172f643fb33.mp4 at 18.07-18.97
+removed video snaptik_7180393593092328709_v3.mp4 at 18.97-22.20
+removed video Snaptik.app_7441625542597594400.mp4 at 22.20-23.23
+removed video IMG_2699.MOV at 23.23-25.53
+removed video IMG_2484.mov at 25.53-27.67
+removed video IMG_1717.mov at 27.67-30.17
+removed video IMG_8834.mov at 32.00-32.73
+removed video Usb and fitting light -7.mov at 32.73-35.03
+removed video IMG_2600.MOV at 35.03-36.93
+removed video 04RedLight.mp4 at 36.93-38.27
+removed video IMG_3597.MOV at 38.27-40.13
+removed video IMG_2711.MOV at 40.13-41.57
+removed video IMG_8047.mov at 41.57-43.23
+removed video 588C2E7C-5F30-4145-B7E0-EBE027E810A7.mov at 43.23-44.93
+removed video hf_20260924_234558_e6d7dc9c-1c66-44b7-b070-0aef126e3e84.mp4 at 44.93-45.93
+removed video IMG_2548.MOV at 45.93-46.77
+removed video IMG_0357.mp4 at 46.77-49.07
+removed video IMG_2578.MOV at 49.07-51.17
+removed video IMG_2491.MOV at 55.07-57.03
+removed video IMG_8586.mov at 57.03-58.93
+removed video IMG_8600.mov at 58.93-60.13
+removed video IMG_3313.mov at 60.13-61.63
+removed video FullSizeRender (8).mov at 62.43-64.43
+removed text "this year" at 4.73-5.23
+removed text "I didn't want to break the bank" at 5.23-6.27
+removed text "so I picked him up" at 6.27-7.10
+removed text "not only can he switch" at 8.70-9.67
+removed text "so he was forever" at 25.53-26.37
+removed text "this has a 230-degree wide beam" at 27.67-30.17
+removed text "it comes in limited edition" at 57.03-58.30
+removed text "as well as black" at 58.93-60.13
+removed text "I'm doing everyone's stockings" at 60.13-61.63
+4 segments from 62.45s on shifted +0.48s (ripple)
+8 segments from 43.22s on shifted +0.78s (ripple)
+changed video hook_card.mp4: timing 0.00-4.73 -> 0.00-4.77; src_out 4.733 -> 4.767
+added video hf_20260924_232616_8f1ac948-aea9-42f9-9960-f172f643fb33.mp4 at 4.77-5.73
+added video 9387779090576862897-a.mp4 at 5.73-6.37
+added video IMG_6683.mov at 6.37-7.10
+added video IMG_0519.mov at 7.10-8.73
+added video 15RedLight.MOV at 8.73-10.70
+added video copy_1CF022A2-C82C-4FBE-9859-01D35A7935C6.mov at 10.70-12.23
+added video IMG_6613.MOV at 12.23-14.00
+added video hf_20261022_101251_fa9b28bd-4c3e-4433-a08b-f7df79063370.mp4 at 14.00-15.90
+changed video hf_20261022_104022_9ef3ac5a-17b4-4e6a-bd9d-9a3ebe5fd259.mp4: timing 15.63-16.80 -> 15.90-16.90; src_in 0.5 -> 0.767; src_out 1.667 -> 1.767
+changed video IMG_6612.MOV: timing 16.80-18.07 -> 16.90-18.20; src_in 2.6 -> 0.0; src_out 3.867 -> 1.3; file 'IMG_6612.MOV' -> 'hf_20261029_132401_c7ea6aba-5881-412f-b25f-d6517eb8b653.mp4'; scale 1.0 -> 1.03
+added video hf_20260924_234558_e6d7dc9c-1c66-44b7-b070-0aef126e3e84.mp4 at 18.20-19.00
+added video IMG_8675 (4).mov at 19.00-20.10
+added video 8859858376615638626-a.mp4 at 20.10-21.20
+added video FullSizeRender (8).mov at 22.23-23.23
+added video IMG_9976.MOV at 23.23-25.83
+added video IMG_9975.MOV at 25.83-27.70
+added video IMG_2618.MOV at 27.70-30.20
+changed video IMG_6597.MOV: timing 30.17-32.00 -> 30.20-32.03; src_in 5.6 -> 5.633; src_out 7.433 -> 7.467
+added video snaptik_7461349711644069152_v2 (1).mp4 at 32.03-33.77
+added video snaptik_7461349711644069152_v2 (1).mp4 at 33.77-35.07
+added video IMG_2710.MOV at 35.07-38.27
+added video Snaptik.app_7441625542597594400.mp4 at 38.27-40.13
+added video IMG_3597.MOV at 40.13-41.57
+added video hf_20261104_150115_9c16e2a5-b569-4a70-b825-1b830227cdba.mp4 at 41.57-44.00
+added video IMG_6684.mov at 44.00-45.73
+added video snaptik_7453118117296753942_v3.mp4 at 45.73-46.97
+added video IMG_2502.MOV at 46.97-47.97
+added video IMG_2502.MOV at 47.97-49.87
+added video hf_20261105_160503_cab8ea54-dfc1-4fda-b7e8-2a5f99525dab.mp4 at 49.87-51.97
+changed video IMG_7558.mov: timing 51.17-52.27 -> 51.97-53.27; src_in 22.5 -> 0.0; src_out 23.6 -> 1.3; file 'IMG_7558.mov' -> 'IMG_2567.MOV'
+changed video IMG_2714.MOV: timing 52.27-53.83 -> 53.27-54.63; src_in 15.4 -> 0.8; src_out 16.967 -> 2.167; file 'IMG_2714.MOV' -> 'hf_20261028_112658_ecfefdb3-ccfd-4e66-8303-57e3286fa243.mp4'; scale 1.0 -> 1.03
+changed video FullSizeRender (9).mov: timing 53.83-55.07 -> 54.63-55.90; src_in 20.0 -> 56.8; src_out 21.233 -> 59.587; file 'FullSizeRender (9).mov' -> 'IMG_0520.mov'; speed None -> 2.2
+added video IMG_0520.mov at 55.90-57.83
+added video IMG_8586.mov at 57.83-60.77
+added video IMG_3313.mov at 60.77-62.10
+changed video hf_20261002_203252_fffd1669-0a1c-4900-9bd0-9ffbe37b32a1.mp4: timing 61.63-62.43 -> 62.10-62.93; src_in 0.8 -> 1.6; src_out 1.6 -> 2.433; file 'hf_20261002_203252_fffd1669-0a1c-4900-9bd0-9ffbe37b32a1.mp4' -> 'IMG_8581.mov'
+added video 9362ACA7-CBEF-4160-8F24-B925C5BDC3D4.mov at 62.93-65.17
+changed video copy_8BEF55CC-E716-4408-B8CD-4BBB2CE50FF9.mov: timing 64.43-66.83 -> 65.17-67.33; src_in 0.2 -> 0.697; src_out 2.6 -> 3.08; file 'copy_8BEF55CC-E716-4408-B8CD-4BBB2CE50FF9.mov' -> 'hf_20261105_150400_bc09b74a-201b-4c3c-977b-238e1e81e14a.mp4'; scale 1.0 -> 1.03; speed None -> 1.1
+changed video IMG_7339.mov: timing 66.83-68.03 -> 67.33-68.33; src_in 2.5 -> 52.267; src_out 4.06 -> 53.567; file 'IMG_7339.mov' -> 'LuxeLight - V2 - B-roll - No-Subs.mov'
+changed video IMG_8695.mov: timing 68.03-71.40 -> 68.33-69.80; src_out 5.667 -> 3.767
+added video IMG_8593.mov at 69.80-71.17
+added text "this year I didn't want to" at 4.77-5.73
+added text "break the bank" at 5.73-6.37
+added text "so I picked him up" at 6.37-7.10
+changed text "one of these LuxeLight headlamps": timing 7.10-8.70 -> 7.10-8.73; text 'one of these LuxeLight headlamps' -> 'one of these\nLuxeLight headlamps'; size 10.0 -> 11
+added text "not only can he" at 8.73-9.47
+changed text "to red light mode": timing 9.67-10.70 -> 9.47-10.70; text 'to red light mode' -> 'switch to red light mode'; size 10.0 -> 11
+changed text "which helps protect his night vision": timing 10.70-11.90 -> 10.70-12.23; text 'which helps protect his night vision' -> 'which helps protect\nhis night vision'; size 10.0 -> 11
+changed text "so he can see more clearly in the dark": timing 11.90-14.00 -> 12.23-14.00; text 'so he can see more clearly in the dark' -> 'so he can see more\nclearly in the dark'; size 10.0 -> 11
+changed text "plus": size 10.0 -> 11
+changed text "flies don't get drawn to red light": timing 14.50-15.63 -> 14.50-15.90; text "flies don't get drawn to red light" -> "flies don't get\ndrawn to red light"; size 10.0 -> 11
+changed text "the way they do with white": timing 15.63-16.80 -> 15.90-16.90; text 'the way they do with white' -> 'the way they\ndo with white'; size 10.0 -> 11
+changed text "so they stay out of his face": timing 16.80-18.07 -> 16.90-18.20; text 'so they stay out of his face' -> 'so they stay\nout of his face'; size 10.0 -> 11
+changed text "but best of all": timing 18.07-18.97 -> 18.20-19.00; size 10.0 -> 11
+changed text "it's not another year": timing 18.97-19.60 -> 19.00-20.10; text "it's not another year" -> "it's not another year of "; size 10.0 -> 11
+changed text "of socks and aftershave": timing 19.60-21.00 -> 20.10-21.20; text 'of socks and aftershave' -> 'socks and aftershave'; size 10.0 -> 11
+changed text "he'll never use": timing 21.00-22.20 -> 21.20-22.23; size 10.0 -> 11
+changed text "I knew he'd love this": timing 22.20-23.23 -> 22.23-23.23; size 10.0 -> 11
+changed text "because his old headlamp": text 'because his old headlamp' -> 'because his\nold headlamp'; size 10.0 -> 11
+changed text "lit up one tiny spot": timing 24.30-25.53 -> 24.30-25.83; size 10.0 -> 11
+added text "so he was forever" at 25.83-26.37
+changed text "turning his head to see": timing 26.37-27.67 -> 26.37-27.70; size 10.0 -> 11
+added text "this has a" at 27.70-28.27
+added text "230-degree wide beam" at 28.27-30.20
+changed text "it lights the whole garage at once": timing 30.17-32.00 -> 30.20-32.03; text 'it lights the whole garage at once' -> 'it lights the whole\ngarage at once'; size 10.0 -> 11
+changed text "and check this": timing 32.00-32.73 -> 32.03-32.73; size 10.0 -> 11
+changed text "press the button once": timing 32.73-33.33 -> 32.73-33.77; size 10.0 -> 11
+changed text "to switch on the wave sensor": timing 33.33-35.03 -> 33.77-35.07; text 'to switch on the wave sensor' -> 'to switch on\nthe wave sensor'; size 10.0 -> 11
+changed text "then just wave your hand": timing 35.03-35.93 -> 35.07-36.30; text 'then just wave your hand' -> 'then just\nwave your hand'; size 10.0 -> 11
+changed text "and it's on": timing 35.93-36.93 -> 36.30-36.97; size 10.0 -> 11
+changed text "wave again and it's off": timing 36.93-38.27 -> 36.97-37.63; text "wave again and it's off" -> 'wave again'; size 10.0 -> 11
+added text "and it's off" at 37.63-38.27
+changed text "so even with greasy hands": timing 38.27-39.13 -> 38.27-39.57; text 'so even with greasy hands' -> 'so even with\ngreasy hands'; size 10.0 -> 11
+changed text "or gloves": timing 39.13-40.13 -> 39.57-40.13; size 10.0 -> 11
+changed text "he never fumbles for a button": text 'he never fumbles for a button' -> 'he never fumbles\nfor a button'; size 10.0 -> 11
+changed text "look at how bright that is": timing 41.57-43.23 -> 41.57-42.60; text 'look at how bright that is' -> 'babe'; size 10.0 -> 11
+added text "it lights up everything" at 42.60-44.00
+changed text "that was when I knew I nailed it": timing 43.23-44.93 -> 44.00-45.73; text 'that was when I knew I nailed it' -> 'that was when\nI knew I nailed it'; size 10.0 -> 11
+changed text "20 years together": timing 44.93-45.93 -> 45.73-46.97; size 10.0 -> 11
+changed text "and he'll never admit": timing 45.93-46.77 -> 46.97-47.97; size 10.0 -> 11
+changed text "the jobs get a bit harder every year": timing 46.77-49.07 -> 47.97-49.87; text 'the jobs get a bit harder every year' -> 'the jobs get a bit\nharder every year'; size 10.0 -> 11
+changed text "and in winter": timing 49.07-49.67 -> 49.87-50.43; size 10.0 -> 11
+changed text "it's dark by 4pm": timing 49.67-51.17 -> 50.43-51.97; size 10.0 -> 11
+changed text "this just keeps him out there": timing 51.17-52.27 -> 51.97-53.27; text 'this just keeps him out there' -> 'this just keeps\nhim out there'; size 10.0 -> 11
+changed text "doing everything he loves": timing 52.27-53.83 -> 53.27-54.63; text 'doing everything he loves' -> 'doing everything\nhe loves'; size 10.0 -> 11
+changed text "you can't stop the years": timing 53.83-55.07 -> 54.63-55.90; size 10.0 -> 11
+changed text "but you can keep him": timing 55.07-55.97 -> 55.90-56.73; size 10.0 -> 11
+changed text "doing what he loves": timing 55.97-57.03 -> 56.73-57.83; size 10.0 -> 11
+added text "it comes in / limited edition" at 57.83-59.10
+changed text "pink and orange": timing 58.30-58.93 -> 59.10-59.97; size 10.0 -> 11
+added text "as well as black" at 59.97-60.77
+added text "I'm doing / everyone's stockings" at 60.77-62.10
+changed text "with one this year": timing 61.63-62.43 -> 62.10-62.93; size 10.0 -> 11
+changed text "best gift I've given him": timing 62.43-63.17 -> 62.93-64.07; size 10.0 -> 11
+changed text "in 20 years": timing 63.17-64.43 -> 64.07-65.17; size 10.0 -> 11
+changed text "and honestly": timing 64.43-65.33 -> 65.17-65.83; size 10.0 -> 11
+changed text "he'll tell everyone I nailed it": timing 65.33-66.83 -> 65.83-67.33; text "he'll tell everyone I nailed it" -> "he'll tell\neveryone I nailed it"; size 10.0 -> 11
+changed text "free case included": timing 66.83-68.03 -> 67.33-68.33; size 10.0 -> 11
+changed text "Click Shop Now / + FREE CASE 🚨": timing 68.03-71.40 -> 68.33-71.17; text 'Click Shop Now\n+ FREE CASE 🚨' -> 'SHOP NOW FOR\nUP TO 50% OFF 🎁'; font 'en.ttf' -> 'Montserrat-Bold.otf'; y -0.125 -> 0.406
+added text "60-DAY GUARANTEE ✅" at 68.33-71.17
+added text "LOW STOCK ⚠️" at 68.33-71.17
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: timing 6.37-8.73 -> 6.37-8.73; volume 1.0 -> 1.999
+changed audio voiceover.mp3: timing 8.73-10.70 -> 8.73-10.70; volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: timing 57.05-60.15 -> 57.83-59.97; src_in 73.967 -> 74.133; src_out 77.067 -> 76.267; volume 1.0 -> 1.999
+added audio voiceover.mp3 at 59.97-60.77
+changed audio voiceover.mp3: timing 60.15-62.45 -> 60.77-62.93; src_in 77.267 -> 77.4; volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: volume 1.0 -> 1.999
+changed audio voiceover.mp3: timing 67.85-69.52 -> 68.33-69.80; src_in 86.233 -> 86.4; src_out 87.9 -> 87.867; volume 1.0 -> 1.999
+changed audio voiceover.mp3: timing 69.52-70.92 -> 69.80-71.17; src_in 88.0 -> 88.033; volume 1.0 -> 1.999
+changed audio Christmas_five.mp3: timing 0.00-71.40 -> 0.00-71.17; src_out 71.4 -> 71.167
+added audio [Sound effect] Correct answer good!(963433) at 9.47-11.17
+added audio Click_Mouse_Click_02(864360) at 68.33-69.20

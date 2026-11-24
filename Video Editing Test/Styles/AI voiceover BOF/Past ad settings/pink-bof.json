@@ -1,0 +1,141 @@
+{
+ "voiceover": "drive/vo_raw.mp3",
+ "proper_nouns": [
+  "LuxeLight",
+  "LuxeLights",
+  "LuxeLight's",
+  "Halloween",
+  "Halloween's",
+  "I"
+ ],
+ "captions_in_hook": true,
+ "hook_y": 290,
+ "hook_font_size": 68,
+ "hook_styles": [
+  [
+   "white",
+   [
+    238,
+    45,
+    66
+   ]
+  ],
+  [
+   "black",
+   "white"
+  ]
+ ],
+ "caption_wrap": 0.62,
+ "caption_bottom": 1500,
+ "name": "LuxeLight_Pink_BOF",
+ "fixes": {
+  "lux light": "LuxeLight",
+  "lux light,": "LuxeLight,"
+ },
+ "captions": [
+  "forget the candy",
+  "this Halloween's treat",
+  "is a pink LuxeLight",
+  "at half price",
+  "the scariest thing this Halloween",
+  "is how cheap",
+  "the pink LuxeLight just got",
+  "if you've been eyeing",
+  "the pink LuxeLight",
+  "Halloween's the day to grab it",
+  "don't tell them I told you this",
+  "tap that link below",
+  "and go straight to checkout",
+  "there's no code",
+  "your discount",
+  "and free carry case",
+  "get added for you",
+  "just be quick",
+  "the Halloween sale's over at midnight"
+ ],
+ "body": {
+  "shots": [
+   [
+    "Don't tell",
+    "hf_151828",
+    0.0
+   ],
+   [
+    "Tap that",
+    "hf_133811",
+    1.5
+   ],
+   [
+    "There's no",
+    "IMG_6580",
+    1.0
+   ],
+   [
+    "and free",
+    "IMG_6458_case",
+    0.0
+   ],
+   [
+    "Just be",
+    "hf_202050",
+    3.0
+   ]
+  ]
+ },
+ "versions": [
+  {
+   "name": "Version1",
+   "hook": [
+    "HALLOWEEN 50% OFF 🎃",
+    "GONE AT MIDNIGHT 🚨"
+   ],
+   "shots": [
+    [
+     "Forget the",
+     "IMG_6574",
+     0.4
+    ],
+    [
+     "This Halloween's",
+     "IMG_6569",
+     0.0
+    ]
+   ],
+   "end": "The scariest"
+  },
+  {
+   "name": "Version2",
+   "hook": [
+    "PINK FROM $17.40 👻",
+    "HALLOWEEN ONLY ‼️"
+   ],
+   "shots": [
+    [
+     "The scariest",
+     "IMG_6575",
+     0.0
+    ],
+    [
+     "is how",
+     "IMG_6576",
+     0.0
+    ]
+   ],
+   "end": "If you've"
+  },
+  {
+   "name": "Version3",
+   "hook": [
+    "50% OFF + FREE CASE 🦇",
+    "LAST DAY OF THE SALE"
+   ],
+   "shots": [
+    [
+     "If you've",
+     "IMG_6576",
+     0.0
+    ]
+   ]
+  }
+ ]
+}

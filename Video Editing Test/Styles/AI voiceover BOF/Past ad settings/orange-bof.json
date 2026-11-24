@@ -1,0 +1,143 @@
+{
+ "voiceover": "drive/vo_round2.wav",
+ "proper_nouns": [
+  "LuxeLight",
+  "LuxeLights",
+  "LuxeLight's",
+  "Halloween",
+  "Halloween's",
+  "I"
+ ],
+ "captions_in_hook": true,
+ "hook_y": 290,
+ "hook_font_size": 68,
+ "hook_styles": [
+  [
+   "white",
+   [
+    238,
+    45,
+    66
+   ]
+  ],
+  [
+   "black",
+   "white"
+  ]
+ ],
+ "caption_wrap": 0.62,
+ "caption_bottom": 1500,
+ "name": "LuxeLight_Orange_BOF",
+ "fixes": {
+  "lux light's": "LuxeLight's",
+  "lux light": "LuxeLight",
+  "lux light?": "LuxeLight?",
+  "$17 .40": "$17.40",
+  "check out.": "checkout."
+ },
+ "captions": [
+  "the orange LuxeLight's",
+  "basically a pumpkin you wear",
+  "and it's half price for Halloween",
+  "the orange LuxeLight",
+  "starts at just $17.40",
+  "for Halloween",
+  "and that price",
+  "vanishes at midnight",
+  "still thinking about",
+  "the orange LuxeLight",
+  "Halloween's your last chance",
+  "at half price",
+  "you don't need a code",
+  "for this one",
+  "just click that link below",
+  "and go to checkout",
+  "your discount",
+  "and free carry case",
+  "get added on their own",
+  "don't sit on this though",
+  "the Halloween deal ends tonight"
+ ],
+ "body": {
+  "shots": [
+   [
+    "You don't",
+    "IMG_6585",
+    1.0
+   ],
+   [
+    "Just click",
+    "IMG_6600",
+    1.6
+   ],
+   [
+    "Your discount",
+    "IMG_6458_case",
+    0.0
+   ],
+   [
+    "Don't sit",
+    "IMG_6592",
+    4.6
+   ]
+  ]
+ },
+ "versions": [
+  {
+   "name": "Version1",
+   "hook": [
+    "PUMPKIN ORANGE 50% OFF 🎃",
+    "TONIGHT ONLY ⚠️"
+   ],
+   "hook_font_size": 60,
+   "shots": [
+    [
+     "The orange LuxeLight's",
+     "IMG_8585",
+     5.2
+    ]
+   ],
+   "end": "The orange LuxeLight starts"
+  },
+  {
+   "name": "Version2",
+   "hook": [
+    "ORANGE FROM $17.40 👻",
+    "VANISHES AT MIDNIGHT 🚨"
+   ],
+   "shots": [
+    [
+     "The orange LuxeLight starts",
+     "IMG_6589",
+     1.5
+    ],
+    [
+     "and that",
+     "IMG_6586",
+     0.0
+    ]
+   ],
+   "end": "Still thinking"
+  },
+  {
+   "name": "Version3",
+   "hook": [
+    "HALF PRICE + FREE CASE 🕷️",
+    "FINAL HALLOWEEN HOURS"
+   ],
+   "hook_font_size": 60,
+   "shots": [
+    [
+     "Still thinking",
+     "IMG_8585",
+     4.0
+    ],
+    [
+     "Halloween's your",
+     "IMG_6588",
+     1.4
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+  "title": "XMASCUTOFF",
+  "notes": [
+    {
+      "id": "9d69aec8",
+      "file": "Exports/XMASCUTOFF_HookA_v3.mp4",
+      "hook": "A",
+      "version": 3,
+      "t": 77.73,
+      "words": "",
+      "text": "There is an issue with the background text. There's no white background on the calls to action, or the emojis aren't there either.",
+      "author": "Reviewer",
+      "status": "done",
+      "reply": "Fixed in v4: both end boxes now have their white background and emojis (SHOP NOW FOR UP TO 61% OFF 🎁, 60-DAY GUARANTEE ✅), from 1:14.3. The CapCut project already had them; the preview was drawing them wrong.",
+      "created": "2026-11-24T18:36:27",
+      "updated": "2026-11-24T18:48:19"
+    },
+    {
+      "id": "7bbee08a",
+      "file": "Exports/XMASCUTOFF_HookC_v3.mp4",
+      "hook": "C",
+      "version": 3,
+      "t": 3.49,
+      "words": "",
+      "text": "Again, there's no white background, or the emojis aren't there on the text hook.",
+      "author": "Reviewer",
+      "status": "done",
+      "reply": "Fixed in v4: the hook text is back in its red box with the ⚠️🎄 emojis, 0:00 to 0:04.6. The CapCut project already had it; the preview was drawing it as a caption.",
+      "created": "2026-11-24T18:36:44",
+      "updated": "2026-11-24T18:48:19"
+    },
+    {
+      "id": "88db9969",
+      "file": "Exports/XMASCUTOFF_HookE_v3.mp4",
+      "hook": "E",
+      "version": 3,
+      "t": 0.0,
+      "words": "",
+      "text": "Again, there's no white background, or the emojis aren't there on the text hook",
+      "author": "Reviewer",
+      "status": "done",
+      "reply": "Fixed in v4: BEWARE OF FAKES is back in its red box, 0:00 to 0:05.6. That text has no emoji in your CapCut project, so none is drawn.",
+      "created": "2026-11-24T18:36:54",
+      "updated": "2026-11-24T18:48:19"
+    }
+  ],
+  "approvals": {}
+}

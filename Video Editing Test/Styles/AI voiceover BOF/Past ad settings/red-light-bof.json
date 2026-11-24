@@ -1,0 +1,166 @@
+{
+ "voiceover": "drive/vo_raw.mp3",
+ "proper_nouns": [
+  "LuxeLight",
+  "LuxeLights",
+  "LuxeLight's",
+  "Halloween",
+  "Halloween's",
+  "I"
+ ],
+ "captions_in_hook": true,
+ "hook_y": 290,
+ "hook_font_size": 68,
+ "hook_styles": [
+  [
+   "white",
+   [
+    238,
+    45,
+    66
+   ]
+  ],
+  [
+   "black",
+   "white"
+  ]
+ ],
+ "caption_wrap": 0.62,
+ "caption_bottom": 1500,
+ "name": "LuxeLight_RedLight_BOF",
+ "fixes": {
+  "Lux Light": "LuxeLight",
+  "Lux light": "LuxeLight",
+  "2 .0": "2.0",
+  "2 .0.": "2.0.",
+  "head torch": "headtorch",
+  "check out.": "checkout."
+ },
+ "captions": [
+  "red light's made",
+  "for Halloween night",
+  "and the LuxeLight 2.0",
+  "is half price",
+  "this headtorch glows red",
+  "and for Halloween",
+  "it's half price",
+  "here's your Halloween treat",
+  "a red light LuxeLight",
+  "and a free carry case",
+  "for just $36",
+  "click that link below",
+  "and go all the way to checkout",
+  "no code",
+  "your discount",
+  "and free carry case",
+  "get added on their own",
+  "don't worry",
+  "you can still switch",
+  "from white light to red light",
+  "on the LuxeLight 2.0",
+  "just don't wait",
+  "this Halloween deal ends tonight"
+ ],
+ "body": {
+  "shots": [
+   [
+    "Click that",
+    "06RedLight",
+    0.0
+   ],
+   [
+    "No code",
+    "IMG_8695",
+    4.0
+   ],
+   [
+    "and free carry",
+    "IMG_6458_case",
+    0.0
+   ],
+   [
+    "Don't worry",
+    "15RedLight",
+    1.85
+   ],
+   [
+    "on the",
+    "10RedLight",
+    0.0
+   ],
+   [
+    "Just don't",
+    "19RedLight",
+    1.0
+   ]
+  ]
+ },
+ "versions": [
+  {
+   "name": "Version1",
+   "hook": [
+    "50% OFF RED LIGHT 🎃",
+    "HALLOWEEN NIGHT ONLY"
+   ],
+   "shots": [
+    [
+     "Red light's",
+     "19RedLight",
+     0.0
+    ],
+    [
+     "and the",
+     "14RedLight",
+     0.0
+    ]
+   ],
+   "end": "This headtorch"
+  },
+  {
+   "name": "Version2",
+   "hook": [
+    "HALF PRICE RED LIGHT 👹",
+    "UNTIL MIDNIGHT ⚠️"
+   ],
+   "hook_font_size": 64,
+   "shots": [
+    [
+     "This headtorch",
+     "13RedLight",
+     0.0
+    ],
+    [
+     "and for",
+     "18RedLight",
+     0.0
+    ]
+   ],
+   "end": "Here's your"
+  },
+  {
+   "name": "Version3",
+   "hook": [
+    "$36 + FREE CASE 👻",
+    "1 DAY ONLY ‼️"
+   ],
+   "hook_font_size": 80,
+   "shots": [
+    [
+     "Here's your",
+     "02RedLight",
+     0.0
+    ],
+    [
+     "A red",
+     "17RedLight",
+     0.0
+    ],
+    [
+     "and a free",
+     "IMG_6458_case",
+     0.0
+    ]
+   ]
+  }
+ ]
+}

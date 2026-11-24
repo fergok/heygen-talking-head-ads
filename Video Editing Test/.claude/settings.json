@@ -1,0 +1,15 @@
+{
+  "env": {
+    "REVIEW_ROOT": "/Users/jackferguson/Video Editing Test/Edits",
+    "APPLY_NOTES_CWD": "/Users/jackferguson/Video Editing Test",
+    "FFMPEG_DIR": "/Users/jackferguson/Video Editing Test/tools/venv/bin",
+    "MLX_WHISPER": "/Users/jackferguson/Video Editing Test/tools/venv/bin/mlx_whisper",
+    "HF_HOME": "/Users/jackferguson/Video Editing Test/tools/huggingface"
+  },
+  "permissions": {
+    "deny": [
+      "Skill(video-ad-editing)",
+      "Skill(ai-voiceover-ads)"
+    ]
+  }
+}
